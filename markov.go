@@ -10,7 +10,7 @@ import (
 
 // createChain returns a Markov chain in the following form:
 //
-// { the : { quick: 1, lazy: 1 } }
+// { the : { quick: 1, lazy: 1 }, lazy: { dog: 1 } }
 func createChain(input string) map[string]map[string]int {
 	chain := map[string]map[string]int{}
 
