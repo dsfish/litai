@@ -1,0 +1,3484 @@
+ARS BREVIS
+L
+
+Introduction
+The Ars brevis, historically Llull’s single most influential work,
+was the culmination of a long process of adaptation in response
+to criticisms concerning the complications and difficulties of
+works such as the Ars demonstrativa.
+As the Contemporary Life implies, Llull’s first teaching experience
+at the University of Paris in 1288-9 must have been disheartening.1
+One can easily imagine what today might be called the “culture
+shock” of his coming to this, the greatest center of Western learn­
+ing in the Middle Ages. As in any structured academic or intel­
+lectual world, Paris had its fashions as to topics discussed, modes
+of discussing them, and the vocabularly used. All of these were
+far removed from the question Llull wanted to discuss: the con­
+version of infidels, by means of a method—the Art—which re­
+sembled nothing anybody had seen before, and employing a vo­
+cabulary that must often have seemed bizarre.2
+Llull, however, was not easily discouraged. Converting the in­
+fidels was the task to which he had dedicated his life; the instru­
+ment for doing so, the Art, was for him God-given; and the vo­
+cabulary was essential to his purpose. So there was no question
+of abandoning them; all he could do was to try to persuade the
+Parisian schoolmen of the importance of his missionary aims,3 in
+the process use the bizarre vocabulary more sparingly, and modify
+the Art itself so that it would not look so alarming. And, of course,
+what made it look alarming was the number and complication of
+the figures, as well as the letter symbolism.4 5
+Towards the beginning of 1290 in Montpellier, therefore, Llull
+set about writing the Ars inventiva veritatisf beginning a new phase
+of the Art that was to culminate in the twin works of the Ars brevis
+1 See the “Life,” § 19.
+2 See the above-mentioned section of the “Life” and n. Ill there for the specific nature
+of these difficulties.
+3 Llull rightly felt that it was important for the achievement of his goals to get the backing
+of the French king and the University of Pans as representing the political and intellectual
+centers of Europe.
+4 Even the faithful disciple, le Myesier, complained to his master about “the confusion
+caused by the meanings of the alphabet of the Ars demonstrativa and its sixteen figures, which
+confound the mind”; cf. Hillg, p. 179.
+5 See again § 19 of the “Life,” as well as Urvoy, Islam, p. 399.
+
+ARS BREVIS
+
+of 1308 and the Ars generalis ultima of 1305-8.6 In this process
+several important changes were made in the Art. First, the figures
+were reduced from twelve to four.7 This simplification involved
+a jettisoning of principles that had been fundamental to the pre­
+vious quaternary phase of the Art. For the reader who has become
+accustomed to the mechanism of the Ars demonstrativa, it may be
+hard to imagine the Art without Figures S, V,8 Y, and Z, as well
+as without those of the Elements, Theology, Philosophy, and
+Law. The most startling losses are those of Figure S and of the
+Elemental Figure,9 both so basic to the quaternary phase of the
+Art, the former as a touchstone for almost all its discourse, and
+the latter as a foundation for so much of its analogical method.
+In fact, the only figures left are A and T, along with the Dem­
+onstrative Figure, which resurfaces completely altered—its First
+Figure transformed into the Fourth of the new figures, and its
+Second Figure into the Third.
+The next major change was a reduction of the Alphabet from
+twenty-three to nine letters.10 At the same time, Figures A and
+T, since they were now represented directly in the Alphabet, were
+reduced to nine components each. This involved a loss of seven
+dignities of Figure A, and two of the triangles of Figure T.11 More­
+over, Llull now made explicit something only implied in the Ars
+demonstrativa:12 that is, multiple significates for each letter. This
+would have been confusing had it not been for a concomitant
+change that probably did more than anything to defuse the com­
+plaints of Llull’s critics. From now on the letters of the Alphabet
+6 For the ternary phase of the Art see “Lull’s Thought,” text at n. 17 above. For the
+date and place of composition, see the end of the Ars brevis and n. 2 there.
+7 Or sixteen to four, as some have claimed; see the Ars demonstrativa, Dist. I, n. 1, as
+well as n. 4 above. The four figures of the Ars inventiva veritatis at the beginning of the
+ternary phase are identical with those of the Ars brevis at the end of that phase.
+8 The components of Figure V returned later on in a different setting; cf. p. 574 below.
+9 The disappearance of elemental theory as a foundation of the Art was perhaps related
+to a new orientation away from the School of Medicine of Montpellier and towards the
+Arts Faculty of Paris.
+10 See the eleventh miniature of the Breviculum (Pl. vi and Hillg, pp. 179-80), where the
+two alphabets are compared.
+11 The first blue triangle (God-creature-operation) and the last black one (affirmationdoubt-denial), although the latter resurfaces as Question B of Part iv here. Notice that the
+remaining three triangles are those of the Principles of Medicine-, cf. Dist. I, n. 12 of that
+work.
+12 Cf. Ars demonstrativa, Prologue, n. 2, and Dist. I, nn. 4, 43.
+
+INTRODUCTION
+
+573
+
+were not to be used in the text itself; they were kept merely for
+convenience in the combinatorial manipulation of the figures13 and
+for an occasional reference to a given Rule or Question. Gone,
+therefore, was the algebraic look of the Lullian discourse.
+So far I have dwelt almost exclusively on losses; the gains came
+from unexpected quarters. The first was in the form of definitions
+(of the eighteen principles from Figures A and T, of the Virtues
+and Vices, of the Hundred Forms, etc.). The intensely structural
+and functional approach of the previous quaternary phase of the
+Art could have led one to develop a coherent and convincing the­
+ory as to why Llull had shunned definitions. Suddenly, however,
+they appear in the Ars inventiva veritatis, and they soon take on
+such importance that one scholar was able to characterize Llull as
+the “master of definitions.”14 In fact, however, Llull has aban­
+doned none of his former approach; he has merely made his def­
+initions purely functional, like modern mathematicians, who do
+not say what a thing is, but only what it does.15
+The second gain was one that would probably bring Llull his
+greatest fame in succeeding centuries, and that would become
+known as the “Ars combinatoria.” Initially it appears as a device
+to compensate for the loss of basic principles that formerly con­
+stituted the building blocks of the Art; but one soon sees that it
+is in fact the replacement of a vast sprawling structure, whose parts
+are loosely and often only implicitly (or analogically) interrelated,
+by a far more compact structure, whose parts are very tightly and
+much more explicitly and mechanically interrelated.
+The building of this edifice, which only achieved its final form
+in the Ars brevis and its companion work, the Ars generalis ultima,16
+was, however, a slow process that occupied the entire Ternary
+Phase of the Art. Of the beginnings in the Ars inventiva veritatis,
+13 Llull himself says in the Prologue to the Ars inventiva veritatis (MOG v, 1), “In this
+Art we will necessarily have to use letters in place of terms in the figures, but not in the
+discourse [non autem in processu]; for otherwise no inquiry or invention could be carried out
+with the last two figures of this Art.”
+14 The phrase was coined by Diego Ruiz; cf. Ca n, 417, and J. Rubio Balaguer in EL 5
+(1961), 143.
+15 For this definitional doctrine, see Part m, n. 1 below and the references there.
+16 For the close relation between the two works—they correspond part for part—see
+the Invocation and Prologue below and the notes there.
+
+574
+
+ARS BREVIS
+
+the only portions to survive intact were the nine-letter alphabet,17
+the four figures, and the definitions of the eighteen principles,
+which were to form Parts mi of the two definitive works. The
+Rules as well as the ternary combinations of Conditions in the Ars
+inventiva veritatis18 are only rough preliminaries to the definitively
+formalized Rules and Table of the Taula general of 1293-4,19 which
+later became Parts iv and v of the Ars brevis and the Ars generalis
+ultima. This gave Llull his basic combinatorial material; what he
+added in subsequent works was, first, a systematization of its use
+and interpretation, which became the Evacuation of the Third Fig­
+ure, the Multiplication of the Fourth Figure, and the Mixture of
+Principles and Rules, constituting Parts vivm of the Ars brevis and
+the Ars generalis ultima.20 Second, he added a systematization of
+the scala naturae, to which this mechanism could be applied; these
+constituted the Nine Subjects of Part ix of the same two works.
+Moreover, the last of these Nine Subjects (the Instrumentative),
+included a reintroduction of the Virtues and Vices of the earlier
+Figure V, now expanded to nine each so they could be included
+in the nine-letter alphabet. Third, he added a section on applica­
+tion, or how in actual practice to use the Art, which would become
+Part x of the same two works, and would include that curious
+Fullian conceptual dictionary called the Hundred Forms.
+This brief introduction will perhaps give some idea of how
+much the Art has now become not only a structure in itself, but
+also one in which the relation of its own inner parts is structured,
+as well as its relation to subject (the user) and object (the world)—
+an extraordinary network of systems systematizing systems. This
+means, in fact, an almost total mechanization of the process of the
+Art, and hence of our process of thought and its application to
+the world about us. This first such attempt in Western thought,
+this idea of an ars combinatoria and the possibilities it seemed to
+17 Although of the concepts referred to by each letter, only the first two are the same
+in the Ars inventiva veritatis (MOG v, 13) as in the final form reached in the Liber de praedicatione of 1304 (ROL hi, 35 and 143-4). The other section of the Ars inventiva veritatis that
+survived throughout the ternary phase was the “De habituatione” (MOG v, 204-6) which
+reappeared as Part xn of the Ars brevis and Ars generalis ultima.
+MOG v, 37ff. and 14ff., respectively.
+19 ORL xvi, 337ff. and 356ff., respectively. For more details concerning the Rules, see
+Part iv, n. 1 below.
+20 For the often complicated prehistory of these and subsequent parts of the Ars brevis,
+see the notes at the beginning of individual parts, as well as my “Notes,” p. 86.
+
+INTRODUCTION
+
+575
+
+promise, intrigued succeeding generations down to Leibniz; it has
+earned Llull the title of discovering the germ, however remote
+and primitive, of modern computer science.21
+This mechanization was accompanied by another major change:
+the abandonment of analogical methods. As a mode of reasoning,
+analogy was replaced by traditional logic, and as a way of relating
+the foundations of the Art to the rest of the intelligible world, it
+was replaced by inclusion. As to the first, the reader will not have
+gone far into the work before he finds himself immersed in prop­
+ositions with their subject and predicate, in syllogisms, and in the
+problem of finding the middle term. Just five years before, Llull
+had written the Logica nova, in which he adapted the methods of
+traditional logic to his own philosophical frame of reference. In
+the Ars brevis he adapts it to the Art itself, in the sense of having
+the mechanism of the Art function through, or in terms of, the
+propositions and syllogisms so familiar to the schoolmen of his
+day.22 Or to put it another way, the Art now became a method
+for “finding” all the possible propositions and syllogisms on any
+given subject and for verifying their truth or falsehood.23
+As for the change from analogy to inclusion, the former reliance
+on “simile, example, and metaphor”24 is replaced here by Lull’s
+reassurances that “everything which exists is implicit in” such and
+21 See E. Colomer’s balanced and penetrating article on this topic, “Ramon Llull, iprecursor de la Informatica?” CITEMA 81 (Madrid, 1979), 7-44, translated from Spanish into
+Catalan and slightly modified as “De Ramon Llull a la moderna informatica,” EE 23 (1979),
+113-35. This article was written to fill a gap in I. M. Bochenski’s A History ofFormal Logic,
+of which Colomer complains that it “does not even mention the most original and prom­
+ising aspect of Llull’s method, the outline of a combinatory technique contained in the
+Fourth Figure. The same is true of the deeper significance of the Art as an ontological logic,
+in the line of Plato and Hegel.” Cf. CITEMA, p. 12, and EL, pp. 115-16. Colomer’s
+complaints might have been even louder had he used the English translation of Bochenski’s
+work, whose section on Llull (pp. 272-3) is punctuated with howlers (gula, “gluttony”
+translated as “throat”; circularis translated as “cruciform”; and so on), which at least serve
+to make the English-speaking reader agree with Bochenski’s comment that “this text is far
+from clear.”
+22 The biggest changes in this direction would come in the post-Art phase; cf. “Llull’s
+Thought,” text at n. 18 above.
+23 It should be clearly understood that this involves no attempt on Llull’s part to treat
+logic from the Aristotelian formalistic point of view, or even from the medieval linguistic
+point of view (with its appellatio, suppositio, etc.); it rather involves using the Art as a way
+of structuring, mechanizing, and “ontologizing” traditional logic.
+24 Cf. the text corresponding to Ars demonstrativa, Dist. I, n. 39. Felix, nearly contem­
+porary with the Ars demonstrativa, is composed almost entirely of examples; and “metaphor”
+occupies all of Dist. x of the earlier Principles of Medicine.
+
+576
+
+ARS BREVIS
+
+such a figure, that “whatever exists is reducible to the abovementioned principles,” how this Art is general and universal, and
+how by its use the reader or practitioner can make his thought
+general and universal.25 Where before he offered a looser, more
+open-ended method of comparison, he is now giving a much tigh­
+ter and more systematized method of invention, of “finding” the
+right place within the structure to locate the answer to a question.26
+As a result of this last change, the Art is now more explicit,
+and hence, in spite of its extraordinary intricacy, more straight­
+forward in its application. It is therefore easier to assimilate and
+use. The above-mentioned open-endedness of the earlier Art,
+where many aspects of its use were left up to the reader’s initiative,
+where there was considerable fluidity in the application of similes,
+examples, and metaphors, and where even many of Llull’s more
+fully explained answers were only a shorthand or outline of all
+the structures being referred to, is replaced by a technique where
+the reader is led much more carefully by the hand and told much
+more explicitly how and where to find his solutions. As a result,
+it looks easier, and is easier, to understand and apply.
+
+Manuscripts, Editions, and Translations
+All these new aspects probably played their part in the great success
+of the Ars brevis (as well as of its companion piece, the Ars generalis
+ultima). In the most immediate sense, it brought Llull the recog­
+nition he had sought so long: in February of 1310, during his
+fourth and last visit to Paris, forty masters and bachelors in arts
+and medicine signed a document attesting to the fact that they had
+heard and approved of his lectures on the Ars brevis.27 The defeat
+of twenty years earlier was now clearly reversed. Not long after
+Llull’s death, his disciple Thomas le Myesier included a slightly
+altered “anthologized” version of the work in the Breviculum, the
+25 See for example Part n below, every section of which contains some statement to this
+effect.
+26 This does not mean, of course, that earlier phases of the Art had no pretensions to
+generality, or that all use of analogy was banned from later formulations of the Art. The
+change was one of basis and emphasis. The universality of this version of the Art, however,
+was one of the things that most impressed Renaissance Lullists; see for example Agrippa
+von Nettesheim’s remarks quoted in “Llull’s Influence," n. 49 above.
+27 See the “Life,” § 42 and n. 169 there.
+
+INTRODUCTION
+
+577
+
+only work of Llull’s to appear in that magnificent manuscript des­
+tined for the queen of France.28
+In subsequent centuries, no other work of Llull’s was so often
+copied or commented. We possess, in fact, some seventy manu­
+scripts of the Ars brevis.29 During the Renaissance, it was Llull’s
+most famous work; of the twenty-three or twenty-four editions
+in which it was printed, all but four appeared between 1481 and
+1669.30 Moreover, either the Ars brevis or the version of the Art
+represented by it together with the Ars generalis ultima was com­
+mented on by Agrippa von Nettesheim, Giordano Bruno, and
+Johann Heinrich Alsted.31 It was these works and commentaries
+that made up the greater part of Zetzner’s anthology. In fact, Zetzner began his anthology with the Ars brevis, so for many seven­
+teenth-century readers it provided their first contact with Ramon
+Llull, as was certainly the case with the young Leibniz.32
+After that, interest in the work—as in all of Llull’s works—
+waned. Between 1669 and the present one finds only two editions
+of 1744,33 a French translation published in 1901,34 and a Catalan
+adaptation of 1934.35
+Of modern studies of the work, three deserve mention. The
+first is the combined analysis of the Ars brevis and the Ars generalis
+ultima in Carreras y Artau’s great work.36 The second, which
+would be of special interest for the English-speaking reader, is the
+28 For the Breviculum, see “Lullism,” text at n. 23 above. For the version of the Ars brevis
+it contains, see Hillg, pp. 447 and 239.
+29 See the concluding bibliographical section (pp. 325-75) of Artus, Ars Brevis, and the
+reprint of this section in EL 13 (1969), 153-81. He lists sixty-three mss, which from the
+list in Madre’s forthcoming edition (see below) can be expanded to seventy.
+30 Artus, Ars Brevis, pp. 335-7, and EL 13 (1969), 161-3. Twenty-three if the first one
+he lists (Barcelona, 1484) is an error for one he does not list (Barcelona, 1481; cf. RD 3);
+twenty-four if they are different publications. For the four more recent editions, see below.
+31 For these people, see “Lullism” pp. 81-3 above. For lists of manuscript and printed
+commentaries on the Ars brevis, see Artus, Ars Brevis, pp. 347ff., and EL 13 (1969), 173ff.
+32 For the Zetzner editions and Leibniz, see “Lullism,” pp. 81-5 above.
+33 The first of these is Opera Parva, Vol. I, containing six works of Ramon Llull; the
+second is an offprint of the first (Palma, 1744; cf. RD 326), containing only the Ars brevis.
+34 Raymond Lulle, Ars brevis (Paris, 1901). It claims to be the first translation into French,
+but there was a seventeenth-century translation by a Seigneur de Vassy of which two mss
+are still extant, and which was published in Paris in 1632: cf. RD 206, Artus, Ars Brevis,
+pp. 334, 337, and EL 13 (1969), 160, 163, as well as Hillg, pp. 304—5.
+35 Art breu. Versio catalana explicada i adaptada al lector modern per Mossen Joan Avinyo
+(Barcelona, 1934). This is a free translation from the Latin, intermingled with explanatory
+material; it bears no relation whatever to the two medieval Catalan mss mentioned below.
+36 Ca i, 427-55.
+
+578
+
+ARS BREVIS
+
+unpublished doctoral disseration by Walter W. Artus mentioned
+above.37 The third, also mentioned above, is Eusebio Colomer’s
+excellent article relating this version of the Art to modern logic
+and computer science.38
+In preparing this translation I have been most fortunate in being
+able to use a typescript of the monumental critical edition of the
+Latin text prepared by Alois Madre of the Raimundus-Lullus-Institut of Freiburg.39 This I compared with printed editions I
+thought the modern reader might have occasion to consult.40 As
+for translations, I have consulted the only two medieval Catalan
+manuscripts,41 and both indeed seem to be translations from the
+Latin done by later followers of Hull, and thus of limited interest
+as sources of the text. The French version of 1901 was done by a
+translator with little knowledge of Hull, and was therefore not
+very useful; more useful was Avinyo’s Catalan adaptation of 1934.
+37 Cf. n. 29 above.
+38 Cf. n. 21 above.
+39 For the loan of which it gives me great pleasure to thank Professor Madre and the
+Institut. Thanks to Madre’s work, I have been able to base this translation on a text that
+is both authoritative and free from Renaissance accretions.
+40 This means the four Zetzner editions of 1598, 1609, 1617 and 1659 (cf. n. 32 above);
+the Palma, 1669, edition with commentaries by Francisco Marfal (RD 264), which was
+reprinted in Frankfurt (Minerva), 1970; and the two Palma, 1744, editions mentioned in
+n. 33 above.
+41 Both probably from the fifteenth century. The first is in Milan, Biblioteca Ambrosiana,
+O. 87 sup., fols. 1-44, and the second in Palma, Franciscan Convent, cod. 11, fols. 1-13.
+The latter was formerly in the Jesuit College of Montesion, hence the confusion of a sup­
+posed third Catalan ms in Artus, Ars Brevis, p. 334, and EL 13 (1969), 160; cf. L. Perez in
+EL 4 (1960), 206. The fourth ms listed by Artus as containing a Spanish translation of the
+Ars brevis (Palma, Bibl. Publ., MS 999), in fact contains a Latin abstract of the work, and
+a Spanish translation of the probably apocryphal Art of Confession', see Garcia Pastor, Hillgarth, and Perez Martinez, Manuscritos lulianos de la Biblioteca Ptiblica de Palma (BarcelonaPalma, 1965), pp. 104-5.
+
+God, with the help of Your grace, wisdom, and love, here
+begins the Ars brevis, which is a replica of the General Art, that
+is, of the work beginning “God, with the help of Your supreme
+perfection, here begins the Ars generalis ultima.”'
+
+PROLOGUE
+We
+
+have written this Ars brevis so that the Ars magna may be more
+easily understood. For once the former is understood, the latter, along
+with the other Arts, can be easily understood and learned.
+The subject of this Art is the answering of all questions, assuming
+that one can identify them by name.12
+This book is divided into thirteen parts, just like the Ars magna.3
+The first part concerns the Alphabet. The second, the Figures. The
+third, the Definitions. The fourth, the Rules. The fifth, the Table. The
+sixth, the Evacuation of the Third Figure. The seventh, the Multipli­
+cation of the Fourth Figure. The eighth, the Mixture of Principles and
+Rules. The ninth, the Nine Subjects. The tenth, Application. The elev­
+enth, Questions. The twelfth, Habituation. The thirteenth, the way the
+Art should be taught.
+And now we will begin by discussing the first part.
+1 The phrase inside quotation marks is, verbatim, the incipit of the Ars generalis ultima. For the
+Ars brevis as an abbreviation of and introduction to the Ars generalis ultima, see Ca I, 428, as well
+as n. 3 below.
+2 That is to say, assuming that one knows under which of the ten general questions (see Part
+iv below) any particular question should be classified. The point is more clearly made in the
+corresponding passage of the Proemium of the Ars generalis ultima. This is, of course, the point of
+an art that is inventiva; cf. Ars demonstrativa, Dist. in, n. 16.
+3 These “parts” correspond exactly, which greatly facilitates cross-consultation. Note that
+throughout the Ars brevis Llull almost always refers to the Ars generalis ultima as the Ars magna.
+
+PART I, WHICH TREATS
+OF THE ALPHABET OF
+THIS ART
+We
+
+have employed an alphabet in this Art so that it can be used
+to make figures, as well as to mix principles and rules for the
+purpose of investigating the truth. For, as a result of any one letter
+having many meanings, the intellect becomes more general in its
+reception of the things signified, as well as in acquiring knowledge.
+And this alphabet must be learned by heart, for otherwise the artist
+will not be able to make proper use of this Art.
+
+THE ALPHABET'
+B signifies goodness, difference, whether?, God, justice, and av­
+arice.
+C signifies greatness, concordance, what?, angel, prudence, and
+gluttony.
+D signifies eternity or duration,12 contrariety, of what?, heaven,
+fortitude, and lust.
+E signifies power, beginning, why?, man, temperance, and
+pride.
+F signifies wisdom, middle, how much?, imaginative, faith, and
+accidie.
+G signifies will, end, of what kind?, sensitive, hope, and envy.
+H signifies virtue, majority, when?, vegetative, charity, and ire.
+I signifies truth, equality, where?, elementative, patience, and
+lying.
+K signifies glory, minority, how and with what?, instrumentative, pity, and inconstancy.
+1 For the changes between this Alphabet and that of the Ars demonstrativa, see Introduc­
+tion, text at nn. 10 and 11 above; for its development within the ternary phase of the Art,
+see above Introduction, n. 17.
+2 Some of the mss and all of the printed sources consulted have just “duration.” These
+two concepts are interchangeable in this slot of Figure A, which does not mean that they
+are synonymous, except as an attribute of God. Cf. Felix, Bk. vm, n. 98.
+
+w
+
+PART I
+
+581
+
+TABLE 6. THE ALPHABET OF THE ARS BREVIS.
+Fig. A
+
+P'S- T
+
+B
+C
+D
+E
+
+goodness
+
+F
+
+wisdom
+
+difference
+concordance
+contrariety
+beginning
+middle
+
+greatness
+
+eternity*
+
+power
+
+G will
+
+H virtue
+I truth
+K glory
+
+end
+majority
+equality
+minority
+
+Questions
+and Rulesj-
+
+whether?
+
+what?
+of what?
+
+why?
+how much?
+of what kind?
+when?
+where?
+how? and
+with what?
+
+Subjects
+
+God
+angel
+heaven
+man
+imaginative
+sensitive
+vegetative
+elementative
+instrumentative
+
+Virtues
+justice
+prudence
+fortitude
+temperance
+
+faith
+hope
+charity
+patience
+
+P'ty
+
+Vices
+avarice
+
+gluttony
+lust
+pride
+accidie
+envy
+ire
+lying
+inconstancy
+
+★ or duration
+f See Part iv, n. 1, for the original Latin terms and their relationship to the equivalent
+“rules.”
+
+PART II, WHICH TREATS
+OF THE FOUR FIGURES
+1. THE FIRST FIGURE, DENOTED BY A
+This Part is divided into four sections, one for each of the four
+figures. The First Figure is that of A, and it contains nine prin­
+ciples, to wit, goodness, greatness, etc.,1 and nine letters, to wit,
+B, C, D, E, etc. This figure is circular to show that any subject
+can become a predicate and vice versa, as when one says, “good­
+ness is great,” “greatness is good,” and so on.2 In this figure,
+moreover, the artist seeks the natural conjunction between subject
+and predicate,3 as well as their relative disposition and proportion,
+so that he can find the middle term and thus reach a conclusion.
+Each principle, taken by itself, is completely general, as when
+one says “goodness” or “greatness.” However, as soon as one
+principle is applied to4 another, then it is subordinate, as when we
+say “great goodness.” And when some principle is applied to a
+singular thing, then it is completely particular, as when we say
+“Peter’s goodness is great.” And thus the intellect has a ladder for
+ascending and descending; as, for instance, descending from a
+completely general principle to one neither completely general nor
+completely particular, and from a principle neither completely
+general nor completely particular to one that is completely par1 l.e., the nine dignities listed in the previous Alphabet, which are those used throughout
+the ternary phase of the Art; cf. “Llull’s Thought,” n. 29 above. For a general discussion
+of Figure A and the dignities in this phase, see Artus, Ars Brevis, pp. 121ff.
+2 Once again the convertibility of the dignities; see Ars demonstrativa, Dist. i, n. 6, for
+references.
+3 Note how this phrase is identical with what is defined as the activity of a logician in
+Part x, “Hundred Forms,” no. 87 below, and how it is couched in terms identical with
+the new definition of “conjunctive middle” of Figure T, sec. 2 below. For the problem of
+finding the middle term mentioned towards the end of this sentence, see the Introduction
+above, and Johnston, Semblance, pp. 218-22.
+4 Contrahitur could also be translated as “joined or combined with”; cf. Taula d’esta Art,
+ORL xvn, 391, s.v. contraccio. It is opposed to “abstraction” (cf. Art amativa, ORL xvn,
+66—9), and carries with it an idea of “contraction, ” as Llull points out in the Ars generalis
+ultima (Part x, “Hundred Forms,” no. 87 on Logic) when he says that abstract “goodness”
+by itself is completely general, but when it is “joined” to a predicate, as in the expression
+“goodness is great,” it is less general, and less general still if the predicate itself is less
+general, as in “the goodness of (a) man.” Cf. Pla I, 257-60, 305.
+
+Plate XV. Ars brevis, The First Figure.
+From Escorial, Ms f-iv-12, fol. 3.
+
+Plate XVIII. Ars brevis, The Fourth Figure.
+From Escorial, Ms f-iv-12, fol. 7.
+
+PART II
+
+583
+
+ticular.5 And in a similar fashion one can discuss the ascent of this
+ladder.
+Everything that exists is implicit in the principles of this figure,
+for everything is either good or great, etc., as God and angels,
+which are good, great, etc. Therefore, whatever exists is reducible
+to the above-mentioned principles.6
+
+2. THE SECOND FIGURE, DENOTED BY T
+The Second Figure goes under the name of T, and it contains
+three triangles,7 each of which is general and all-embracing.
+1. The first triangle consists of difference, concordance and con­
+trariety, and it comprises everything which exists, according to
+its category. For everything which exists is either in difference,
+concordance or contrariety, and outside of these principles nothing
+can be found.
+One must know, moreover, that each angle of this triangle has
+three species. For there is a difference between sensual and sensual,
+as for instance between a stone and a tree. There is also a difference
+between the sensual and the intellectual, as for instance between
+body and soul. And there is furthermore a difference between
+intellectual and intellectual, as between soul and God, between the
+soul and an angel,8 between one angel and another, or between
+God and an angel. And the same can be said for concordance and
+contrariety, each in its own way. And this difference existing in
+each angle of this triangle is the ladder by which the intellect as­
+cends and descends, so that it can find the natural middle term9
+between subject and predicate, with which middle term it can
+5 Many of the printed texts have truncated the part of the sentence following the semi­
+colon to, “from a completely general principle to one not completely general, and from
+one not completely particular to one completely particular.” For the subject of the ascent
+and descent of the intellect so important to Llull, see “Llull’s Thought,” n. 58.
+6 Cf. introduction, text preceding n. 25 above.
+7 As opposed to the five triangles of the Ars demonstrativa; cf. introduction, n. 11 above,
+as well as my “Cronologia,” pp. 40-3. Here (as opposed to the Ars generalis ultima, to say
+nothing of the Ars demonstrativa) there is no mention of the different colors for each triangle.
+For general discussions of Figure T, see Artus, Ars Brevis, pp. 173ffi, and the references
+in Ars demonstrativa, Dist. I, n. 15.
+8 “Between the soul and an angel” is missing in the printed sources consulted.
+9 Yet another translation of medium (Cat. mija)—c(. Ars demonstrativa, Dist. I, n. 16—
+this one related, as its context makes clear, to the passage commented in n. 3 above.
+
+584
+
+ARS BREVIS
+
+reach a conclusion. And the same is true for the ladder of con­
+cordance and contrariety, each in its own way.
+2. The second triangle consists of beginning, middle, and end,
+and it comprises everything that exists. For everything that exists
+is either in beginning, middle, or end, and outside of these prin­
+ciples nothing can be found.
+The word “cause” written in the angle of “beginning” stands
+for the efficient, material, formal, and final cause. The words
+“quantity” and “time” refer to the other nine predicaments, and
+to those things that can be reduced to them.10
+The angle of “middle” contains three species of middle. First
+there is the conjunctive middle, which exists between subject and
+predicate, as when we say, “man is an animal.”11 For between
+man and animal there are middle terms, such as their life and body,
+without which man would not be an animal. Then there is the
+middle of mensuration, which refers to the act existing between
+the doer and the doable,12 like loving between the lover and the
+lovable. And then there is the middle between extremes, like a
+line between two points. And this angle of “middle” acts as a
+general ladder with respect to the intellect.
+The angle of “end” also contains three species. The first is the
+end of privation, which refers to a privative state13 and to those
+things that are in the past.14 The second species is the end of ter­
+mination, which refers to the extremities, like the two points that
+terminate a line, or like the lover and beloved in relation to loving.
+The third species is the end of perfection, which refers to ultimate
+purpose, like man, who exists to multiply his species, and to un­
+derstand, love, and remember God, and so forth. This angle also
+acts as a general ladder with respect to the intellect.
+10 The “predicaments” are, of course, the Aristotelian categories. Notice how this de­
+scription is similar to the corresponding passage in the Ars demonstrativa (cf. Dist. I, n. 19),
+but more specific and explicit.
+11 Cf. n. 3 above. This intrusion of logic into Figure T is something quite new with the
+Ars brevis (it is not even present in the corresponding passage of the Ars generalis ultima that
+was probably written some years earlier). For a comparison of how the “conjunctive mid­
+dle” was treated in earlier works of the Art, see the Ars demonstrativa, Dist. I, n. 20.
+12 Inter agentem et agibile. This relating of Figure T with the correlative doctrine, as in
+the second species of “end” below, is another innovation of the Ars brevis; cf. again Ars
+demonstrativa, Dist. I, n. 20.
+13 Thus habitum privativum in the mss, and not habitum privatum as in most of the printed
+sources.
+14 The printed texts and a few of the mss add, “like death which ends life.”
+
+PART II
+
+585
+
+3. The third triangle is made up of majority, equality, and mi­
+nority, and it is general and all-embracing in its way. For whatever
+exists is either in majority, equality, or minority. Majority has
+three species. The first is when there exists majority between sub­
+stance and substance, as, for instance, the substance of heaven,
+which is greater than the substance of fire. The second species is
+when there exists majority between substance and accident, like
+a substance that is greater than its quantity; for substance exists
+of itself, which is something no accident does. The third species
+is when there exists majority between accident and accident, like
+understanding, which is greater than seeing, and seeing than run­
+ning.15 And what we have said about majority applies equally to
+minority, since they are correlative to one another.
+The angle of equality has three species. The first is when things
+are substantially equal, like Peter and Martin, who are equal in
+substance. The second species is when substance and accident are
+regarded as equal to one another, such as substance and its quan­
+tity. The third species is when there is equality between accident
+and accident, like understanding and loving, which are equal in
+their object. And this angle is a ladder by which the intellect can
+ascend and descend, as was said of the other triangles. And when
+the intellect ascends to general objects, then it itself becomes gen­
+eral; and when it descends to particulars, then it itself becomes
+particular.
+The Figure T serves the First Figure, for through difference one
+can distinguish between goodness and goodness, between good­
+ness and greatness,16 etc. And by joining this figure to the first,
+the intellect acquires knowledge. And because this figure is gen­
+eral, therefore the intellect becomes general.
+
+3. THE THIRD FIGURE
+The Third Figure is a composite of the first and second; for the
+letter B that appears in it stands for the B that is in both the first
+and second figures; and similarly for the other letters.
+15 Thus in the printed sources and some of the mss; other mss, instead of “running,”
+have “believing.”
+16 Thus in most sources; the Zetzner editions, however, have “greatness and greatness”
+for this pair.
+
+ARS BREVIS
+
+586
+
+This one consists of 36 compartments,17 as can be seen in the
+illustration. Each compartment has many different meanings as a
+result of the two letters it contains. Thus the compartment of B
+C has many different meanings as a result of B C, and similarly
+the compartment of B D has many different meanings as a result
+of B D, and so on.18 And this should be clear from the alphabet
+we gave above.
+Each compartment contains two letters, and these represent sub­
+ject and predicate, between which the artist seeks the middle term
+that will join them, like goodness and greatness that are joined
+through concordance, and similarly for other terms. With this
+middle term the artist tries to reach a conclusion and state a prop­
+osition.
+This figure is meant to show that any principle can be attributed
+to any of the others: thus to B we can attribute C, D, etc., and
+to C we can attribute B, D, etc., as can be seen from the illus­
+tration. This is so that the intellect may know each principle in
+terms of all the others, and be enabled to deduce many arguments
+from a single proposition.
+To give an example with “goodness,” we make it into a subject
+and use the other principles as predicates, giving:
+goodness is great
+goodness is enduring
+goodness is powerful
+
+goodness
+goodness
+goodness
+goodness
+
+is
+is
+is
+is
+
+different
+concordant
+contrary
+beginning
+
+17 Combination without repetition of 9 elements taken two at a time, hence
+
+In appearance it is like one of the second figures of the Ars demonstrativa; but in function
+it is quite different. It is no longer merely a second way of representing a first figure, but
+it is now a composite figure and hence much more general, as will become clear from the
+explanations that follow. Notice also how in the Ars demonstrativa we have combinations
+with, and here without, repetitions. For general considerations on the Third Figure, see:
+Ca I, 433-4; Pla I, 304-5; and Artus, Ars Brevis, pp. 217ff. This figure remained unchanged
+throughout the ternary phase of the Art.
+18 In the Lectura super Artem inventivam et Tabulam generalem, MOG v, 402 = Int. v, 44,
+Llull is more explicit: “Each compartment has six meanings, like the compartment of B
+C, which signifies Goodness, Greatness, Difference, Concordance, First and Second Rule,
+and like the compartment of B D, which signifies Goodness, Duration, Difference, Con­
+trariety, First and Third Rule, and so on for the others,” which is followed by a detailed
+interpretation of each compartment.
+
+PART II
+
+goodness
+goodness
+goodness
+goodness
+goodness
+
+587
+
+is
+is
+is
+is
+is
+
+knowable
+lovable
+virtuous
+true
+glorious
+
+goodness
+goodness
+goodness
+goodness
+goodness
+
+is
+is
+is
+is
+is
+
+mediating
+ending
+magnifying
+equalizing
+lessening
+
+What we have said of goodness can be applied equally well to
+the other principles, each in its own way.
+This figure is very general, and by using it the intellect is made
+very general in acquiring knowledge.
+It is a condition of this figure that one compartment not be
+contrary to another, but that they be concordant in their conclu­
+sion. Thus the compartment of B C should not be contrary to
+that of B D, and so on for the others.19 With such a condition,
+the intellect is conditioned to the acquisition of knowledge.
+
+4. THE FOURTH FIGURE
+The Fourth Figure has three circles, the outermost of which is
+fixed and the two inside ones of which are mobile, as appears in
+the illustration.20 The middle circle revolves on top of the outer
+fixed circle, so that, for instance, C can be put opposite B. The
+innermost circle revolves on the middle circle, so that, for instance,
+D can be put opposite C. And in this way 9 compartments are
+formed at a time, one being BCD, another C D E, and so on.
+After that, E of the smaller circle can be put opposite C of the
+middle one, with which another 9 compartments are formed.
+When all the letters of the smallest circle have been brought op­
+posite B on the largest circle and C on the middle circle, then C
+is the middle term between B and D, since B and D are related
+to one another through the meanings of C. And the same is true
+of the other compartments. And thus by means of these com­
+partments, one may seek out necessary conclusions and find them.
+19 The Zetzner editions leave out “should not be contrary to that of B D,” leaving a
+text one would have to translate as, “in their conclusion, like the compartment of B C,
+and so on for the others. ” This changes a prohibition between compartments to one between
+components within compartments.
+20 For this Fourth Figure, which is basically a very modified version of the First Dem­
+onstrative Figure of the Ars demonstrativa, see: Ca I, 434-5; Pla I, 308-11; and Artus, Ars
+Brevis, pp. 227ff.
+
+588
+
+ARS BREVIS
+
+After that, we can bring all the letters opposite the B of the
+largest circle and D of the middle circle, and so on for all the letters
+of the middle and smallest circle, by rotating them, with the B of
+the largest circle remaining immobile, until we arrive at a position
+with B on the largest circle, I on the middle one, and K on the
+innermost; and this will make a total of 252 compartments.21
+This figure is more general than the third, because in each com­
+partment of this figure there are three letters, whereas in each
+compartment of the Third Figure there are only two. Thus the
+intellect is rendered more general as a result of the Fourth Figure
+than as a result of the Third.22
+The condition of the Fourth Figure is that the intellect must
+apply to a proposition those letters that are most applicable to it.
+And once the compartment has been formed from three letters,
+it must grasp the meanings of the letters, keeping in mind the
+agreement between subject and predicate and avoiding disagree­
+ment. And with this condition, the intellect can acquire knowledge
+by means of the Fourth Figure, and can form many arguments
+toward a single conclusion.
+
+So much for the four figures, which the artist must learn by
+heart, for without them he cannot use or practice this Art.
+21 Llull is saying that with the outer wheel remaining fixed, we can place opposite the
+B on that wheel all the possible 2-letter permutations of the remaining 8 letters of his
+alphabet, which gives
+
+usable positions of the two inner wheels (i.e., without repetitions of letters). Now since
+in any one position we can read off 9 compartments between the linked-up spokes, as it
+were, this gives us a total of 28 x 9 = 252 compartments. This does, however, involve
+repetitions; in fact, each compartment is repeated three times, since B C D = C DB (which
+appears when C K are lined up under B) = D B C (which appears when I K are lined up
+under B). For Llull’s combinatorial purposes here, however, this is unimportant. In the
+table in Part v he has eliminated the superfluous combinations, giving 252 3 = 84 columns
+(see n. 3 there).
+22 Marfal (see introduction, n. 40 above) in his commentary on this passage quotes the
+statement from Llull’s Art amativa (ORL xvn, 22) that “the entire Art is contained in this
+Fourth Figure.”
+
+PART III, WHICH TREATS
+OF DEFINITIONS OF THE
+PRINCIPLES
+In
+
+this Art, the principles thereof are defined, so that they may
+be known by said definitions, and so that one may use them,
+affirming or denying in such a way that the definitions remain
+unimpaired. With such conditions, the intellect acquires knowl­
+edge, discovers middle terms, and dispels ignorance, which is its
+enemy.
+1. Goodness is that thing by reason of which good does good.1
+2. Greatness is that by reason of which goodness, duration, etc.
+are great.2
+3. Eternity or duration3 is that by reason of which goodness,
+etc. endure.
+4. Power is that by reason of which goodness, etc. can exist
+and act.
+5. Wisdom is that by reason of which the wise man understands.
+6. Will is that by reason of which goodness, greatness, etc. are
+lovable or desirable.4
+1 The printed sources, along with two mss, add, “and thus good is being and evil is
+nonbeing,” for which see “Llull’s Thought,” text at n. 66 above. For the introduction of
+these definitions into the Art, see introduction, text at n. 14 above; and for the reasons for
+their being given in terms of functionality (“in terms of a power and its specific act”) rather
+than in traditional Aristotelian terms of genus and species, see Part xi, ch. 6, Question 2,
+and ch. 2, Question 3 below, as well as “Llull’s Thought,” n. 46 above. Llull was aware
+of the opposition these definitions aroused; most of the equivalent Part in of the Ars generalis
+ultima is taken up with a defense of this doctrine, ending on an uncharacteristically angry
+note against those who with “a dog’s fangs and a serpent’s tongue scorn and slander our
+principles and their definitions.” As for the definitions of these eighteen basic principles,
+they appear in every work of the Art of the ternary phase, and usually with almost identical
+wording; in seven works, moreover, they are accorded extensive commentaries. These are:
+the Ars inventiva veritatis (MOG v, 3-12), Art amativa (ORL xvn, 89-150); Arbre defilosofia
+desiderat (ORL xvn, 410-17); Taula general (ORL xvi, 312-36); Lectura super Artem inventivam et Tabulam generalem (MOG v, 370-401 = Int. v, 12-43); Tree of Science (OE I, 55762); and Brevis practica Tabulae generalis (MOG v, 303-7 = Int. iii, 3-7). See also Pla I,
+129ff., and Artus, Ars Brevis, pp. 245ff.
+2 The printed sources and one ms add, “and it encompasses all the farthest reaches of
+being.”
+1 The printed sources and three mss omit “eternity or” (cf. Part I, n. 2 above).
+4 The printed sources omit “lovable or.”
+
+590
+
+AKS BREVIS
+
+7. Virtue is the origin of the union of goodness, greatness, and
+the other principles.5
+8. Truth is that which is true concerning goodness, greatness,
+etc.
+9. Glory is that bliss in which goodness, greatness, etc. come
+to rest.
+10. Difference is that by reason of which goodness, etc. are
+clearly distinguishable from one another.
+11. Concordance is that by reason of which goodness, etc. ac­
+cord in one or in several things.
+12. Contrariety is the mutual opposition of certain things as a
+result of different goals.
+13. Beginning is that which is found in everything where there
+is any question of priority.
+14. Middle is the subject through which end influences begin­
+ning, and beginning reinfluences end, and thus it participates in
+the nature of both.
+15. End is that in which beginning comes to rest.
+16. Majority is the image of the immensity of goodness, great­
+ness, etc.
+17. Equality is the subject in which the end of concordance,
+goodness, etc. comes to rest.
+18. Minority is the thing close to nothingness.
+So much for definitions of the principles, which must be learned
+by heart; for without knowing these definitions, the Art is unteachable.6
+5 For this linking of the concepts of “virtue” and “unity,” see Pla I, 113, 183.
+6 Cf. Rossi, “Legacy,” p. 198.
+
+PART IV, WHICH TREATS
+OF RULES
+The
+
+rules of this Art consist of ten general questions, to which
+
+all other possible questions can be reduced. They are the following
+
+B.
+C.
+D.
+E.
+F.
+
+Whether a thing is.
+What is it?
+Of what is it?
+Why is it?
+How much is it?
+
+G. Of what kind is it?
+H. When is it?
+I. Where is it?
+K-l. How is it?
+K-2. With what is it?1
+
+Each of these questions is divisible into various species.
+B. “Whether” has three species, to wit, dubitative, affirmative
+and negative, so that, from the outset, the intellect assumes either
+side to be possible, and does not bind itself to believing, which is
+not as natural to it as is understanding. And thus it must take that
+side with which it has the greatest understanding, which side must
+be that of truth.2
+C. “What?” has four species:
+’ These ten Rules or Questions first appeared in the Taula general of 1293-4 (cf. intro­
+duction, text at n. 19 above), and they were reproduced almost verbatim in the Arbre de
+Jilosofia desiderat of the same year of 1294 (see Part iv of my “Notes” for the problem of
+the chronology of these two works, the second of which has usually been assigned a date
+four or five years earlier). From then on no work of the Art is without them. Those works
+which, in addition to the two already mentioned, contained more extended explanations
+of the Rules are: Lectura super Artem inventivam et Tabulam generalem (MOG v, 360—7 =
+Int. v, 2-9); Logica nova (Palma, 1744, pp. 11-18); Brevis practica Tabulae generalis (MOG
+v, 307-11 = Int. iii, 7-11); and Liber de praedicatione (ROL in, 168-74)—to say nothing
+of the section corresponding to this in the Ars generalis ultima. As given, for example, in
+this last work, the list of rules with their corresponding questions is as follows:
+B. possibilitas—utrum?; C. quidditas—quid?; D. materialitas—de quo?; E. formalitas—quare?;
+F. quantitas—quantum?; G. qualitas—qualis?; H. tempus—quando?; I. locus—ubi?; K1. modalitas-—quotnodo?; K-2. instrumentalitas—cum quo? Note that in order to accommodate
+ten rules to a nine-letter alphabet, Hull has had to put two rules in the last slot. For the
+complicated relation between these rules, the Aristotelian and scholastic topics, the Aris­
+totelian categories, and earlier partial formulations on Llull’s part, see Pla I, 261ff., and
+especially 275ff. It is curious to note that Giordano Bruno in his De lampade combinatoria
+lulliana (Zetzner, Strasbourg, 1617), p. 705, refers to these ten questions as the “syncategoremata” of the Art, in opposition to the “categoremata” of Figures A and T. Marpal in
+his edition of the Ars brevis (see introduction, n. 40 above) has an interesting scholium on
+the double nature of these questions (referring to the unknown or doubtful) and rules
+(referring to methods of argumentation or teaching).
+2 The three “species” of this question correspond to the lost black triangle of Figure T
+(cf. Introduction, n. 11 above).
+
+592
+
+ARS BREVIS
+
+1. The first is definitional, as when one asks, What is the in­
+tellect? To which one must reply that it is that power whose
+function it is to understand.
+2. The second species is when one asks, What does the intellect
+have coessentially in itself?3 To which one must reply that
+it has its correlatives, that is to say, intellective, intelligible,
+and understanding,4 without which it could not exist, and
+would, moreover, be idle and lack nature, purpose, and re­
+pose.
+3. The third species is when one asks, What is the intellect in
+something other than itself? To which one must reply that
+it is good when understanding in goodness, great when un­
+derstanding in greatness, etc.; and grammatical in grammar,
+logical in logic, rhetorical in rhetoric, etc.
+4. The fourth species is when one asks, What does a thing have
+in another thing? As when one asks, What does the intellect
+have in another thing? To which one must reply, In knowl­
+edge understanding and in faith belief.
+D. The rule “Of what?” has three species:
+1. The first is the original meaning, as when one says, Of what
+is the intellect? To which one must reply, Of itself, since it
+is not naturally derived from some other general thing.
+2. The second species is when one inquires specifically, What
+is a thing composed of? As when one asks, What is the in­
+tellect composed of? To which one must reply that it is com­
+posed of its own specific matter and form, with which it
+achieves specific understanding.5
+3. The third species is when one asks, Whose is a thing? As
+when one asks, Whose is the intellect? To which one must
+reply that it is man’s, as a part belongs to the whole, and a
+horse to its master.
+3 The Ars generalis ultima has “essentially and naturally” instead of “coessentially.”
+4 Intellectivum, intelligibile et intelligere. One of the few direct uses of the correlative doc­
+trine in the Ars brevis. See T. Carreras i Artau, “El llenguatge filosofic de Ramon Llull,”
+EUC 21 (1936), 547, n. 8, where this passage is commented. Artus, Ars Brevis, p. 275,
+paraphrases: “the intellect as power, an intelligible nature [‘object’ would have closer to
+the normal Lullian terminology; cf. Part x, “Hundred Forms," no. 78 below], and the act
+of understanding which links the first two and completes the essence of the intellect.”
+5 The different version of this last sentence in the Ars generalis ultima helps to explain
+Llull’s meaning: “To which one must reply that it is composed of its own essential prin­
+ciples, that is to say, its intellective, intelligible and understanding. And similarly with man
+who is made up of his body and his soul, with a nail which is of iron, and so on.”
+
+PART IV
+
+593
+
+E. The fourth rule6 has two species, to wit, formal and final.
+1. The formal aspect is when one asks, Why does a thing exist?
+As when one asks, Why does the intellect exist? To which
+one must reply that it is because of its specific matter and
+form, with which it has a specific understanding and with
+which it acts in accordance with its own species.
+2. The second species is with respect to end, as when one asks,
+Why does the intellect exist? To which one must reply, So
+that objects may be intelligible, or, So that one may have
+knowledge of things.
+F. The fifth rule asks about quantity, and has two species:7
+1. The first is what one inquires about continuous quantity, as
+when one says, How much intellect is there? To which one
+must reply that there is as much as there can be through
+spiritual quantity, and this quantity has nothing to do with
+points or lines.
+2. The second species is when one inquires about discrete quan­
+tity, as when one says, How much intellect is there? To which
+one must reply that there is as much as the amount of its
+correlatives, by which8 it is diffused and sustained, that is to
+say, the intellective, intelligible, and understanding, with
+which it operates theoretically and practically, with respect
+to the general and the particular.
+G. The sixth rule concerns quality, and it has two species:
+1. The first is when one asks, What is the characteristic and
+primary quality of intellect? To which one must reply, The
+intelligibility with which it is clothed. Extrinsic understand­
+ing is a secondary and more distant property, with which
+the intellect understands a man, a lion, etc. It is of this that
+the intrinsic and substantial understanding of the intellect is
+clothed, and similarly for what is extrinsically intelligible.
+2. The second species is when one inquires about appropriated
+quality, as9 when one asks, What is an appropriated quality
+6 The printed sources add “of why?” The two species are further clarified in the Taula
+general (ORL xvi, 341), where Llull says they involve asking respectively “why things
+exist, and why they do what they do.” In the corresponding section of the Ars generalis
+ultima he says one is per existentiam and the other per agentiam.
+7 Quantity reappears in Part x, “Hundred Forms,” no. 16.
+8 The printed sources and many mss have “in which.”
+9 “When one inquires about appropriated quality, as” is missing in the printed sources
+consulted.
+
+594
+
+ARS BREVIS
+
+of the intellect? To which one must reply, Believing, doubt­
+ing, or supposing. For these acts are not those of the intellect
+proper, but of the understanding.
+H. The seventh rule inquiries about time, and it has fifteen spe­
+cies signified by the rules of C, D, K, as is pointed out in the Ars
+magna.10 But since this Art is brief, we must discuss this rule in
+few words, as when we ask, In what way does the intellect exist
+in time, if it is not made up of points and lines? To which one
+must reply that the intellect exists in time because it had a begin­
+ning and because it consists of temporal succession, by means of
+the motion of the body to which it is attached.11
+I. The eighth rule inquires about place, and it has fifteen species
+signified by the rules of C, D, K, as is pointed out in the Ars
+magna.12 Thus when one asks, Where is the intellect, one can an­
+swer briefly that it is in the subject in which it is, like a part in
+the whole, not however confined but rather diffused in it, for the
+essence of intellect has nothing to do with point, line, or surface.
+K contains two rules, namely of modality and instrumentality.
+K-l. The modal rule has four species, as when one asks (1) How
+does the intellect exist?13 (2) How does one part exist in another?14
+(3) How do the parts exist in the whole, and the whole in its parts?
+and (4) How does it transmit its likeness outside itself? To which
+one must reply that subjectively it exists in the manner already
+determined through the above-mentioned species. Objectively,15
+it understands by finding the middle term existing between subject
+and predicate designated by the figures, and by multiplying alien
+10 See the corresponding section of the Ars generalis ultima as well as the Logica nova
+(Palma, 1744), p. 15, where Llull explains that these species correspond to the 4 of the
+second rule (C), the 3 of the third (D), the 4 of the ninth (K-l) and the 4 of the tenth (K2). For example, the questions based on C he formulates as, “When is the intellect?” “When
+does the intellect exist coessentially in itself?” etc.; those based on D as, “What is time
+composed of?” etc.; and so on for the other two rules. He admits, however, that “it is
+very difficult for the intellect to understand time” by means of these 15 species.
+” This example is from the ninth rule [K-l]; cf. the corresponding part of theArs generalis
+ultima.
+12 See the references under n. 10 above. The distribution is presumably the same here.
+13 Quomodo est intellects? Literally, “How is the intellect?” The Ars generalis ultima phrases
+it as, “How does a thing exist in itself?” In the version of the Ars brevis appearing in the
+Breviculum (fol. 35r) and in the Logica nova (Palma, 1744), p. 17, it appears as, “How does
+a part exist as a part?”
+14 Literally, “How is a part in a part?”
+15 The “objectively” is missing in the printed sources and in many mss.
+
+PART IV
+
+595
+
+species abstracted from sense and imagination, which are char­
+acterized and understood in its own intelligible faculty.
+K-2. The second rule of K has four species, as when one asks,
+(1) With what does the intellect exist? (2) With what does one part
+exist in another? (3) With what do the parts exist in the whole,
+and the whole in its parts? and (4) With what does it transmit its
+likeness outside itself?16 To which one must reply that it exists
+with its correlatives, without which it can neither exist nor un­
+derstand. And it understands with alien species, from which it
+fashions an instrument for understanding.
+
+So much for the rules with which the intellect solves questions,
+which it doe.s by reducing them by means of rules; by keeping in
+mind what a rule and its species means subjectively;17 by having
+the intellect discard whatever question is dubious as a result of
+applying the definitions of principles; by choosing and by under­
+standing intelligibly the affirmative or negative side of the ques­
+tion; and this so that the intellect be removed from doubt.
+• 16 Note the exact parallelism between these four species and those of the first rule of K.
+17 After this the original adds another “by reducing a question by means of principles
+and rules,” which seems redundant.
+
+PART V, WHICH TREATS
+OF THE TABLE'
+This table is the subject in which the intellect becomes universal,
+because by said table it understands and abstracts many particulars
+on all matters, with the principles surveying the particulars ob­
+jectively, and the rules subjectively.2 And this it does by applying
+to each question twenty arguments to explain said question, one
+argument being extracted from each compartment of a given col­
+umn.
+The table, as one can see, has 7 columns, in which the 84 col­
+umns of the Ars magna are implicit. In this table T means that the
+letters which come before it belong to the First Figure, and those
+after it to the Second Figure.3
+1 The tabula (Cat. taula), which is derived directly from the Fourth Figure (cf. n. 3 below),
+first appeared in the Taula general of 1293-4. After that it appeared in its full form only in
+the Ars compendiosa (ed. Ottaviano, pp. 118-30) and in the Ars generalis ultima. It had a
+precursor in the ternary combinations of Conditions (cf. Introduction, text at n. 18 above),
+of the Ars inventiva veritatis (MOG v, 14-36), and the Art amativa (MOG vi, 64-90 = Int.
+ii, 58-96; I cite this edition because the equivalent passage in the Catalan edition, ORL
+xvii, 154ff. is lacking the combinatory letter notation which shows the relationship to the
+table).
+2 For the earlier intelligit, “understands,” many mss have colligit, “gathers, brings to­
+gether.” The phrase “and the rules subjectively” is missing in the Zetzner editions.
+3 As Llull says here, this table is an abbreviation or sample of the larger one in the Ars
+generalis ultima. The latter is engendered by the machinery of the Fourth Figure, but omitting
+the repetitions, which gives us
+
+compartments (cf. Part ii, n. 21). For these compartments, see: Giordano Bruno, De lulliano
+specierum scrutinio (Zetzner, Strasbourg, 1617), pp. 670-1; and Agrippa von Nettesheim,
+In Artem brevem (ed. cit), pp. 841-9; as well as Artus, Ars Brevis, pp. 285-7. Llull then
+takes each of these compartments and sets it at the head of a column containing further
+variations achieved by distinguishing the letters referring to Figure A from those referring
+to Figure T. If for a moment we do this by using upper case for the former and lower case
+for the latter, instead of putting the letter T between them as Llull does, it will become
+clear that the first column, for instance, consists of all the permutations of the six letters
+B D C b c d taken three at a time, or
+
+giving us the number of triads in each column. We thus have a total of 1,680 compartments.
+Now for the Ars brevis, Llull just takes 7 of the 84 columns of the larger table. He chooses
+them by taking the first of the 28 starting with B, the first of the 21 starting with C, etc.,
+ending with the one starting with H (cf. the passages cited from Bruno—the Ars brevis
+uses the first element of each “domus”—Agrippa, and Artus).
+
+PART V
+
+597
+
+By means of this table the intellect is ascendant and descendant.
+It is ascendant when it ascends to things that are prior and more
+general, and descendant when it descends to things that are pos­
+terior and particular. And in addition it is connective, since it can
+connect columns, as, for instance, the column of B C D with that
+of C D E, and so on.
+
+The Table
+BCD
+
+CDE
+
+DEF
+
+EFG
+
+FGH
+
+GHI
+
+HIK
+
+BCTB
+
+CDTC
+
+DETD
+
+EFTE
+
+FGTF
+
+GHTG
+
+HITH
+
+BCTC
+
+CDTD
+
+DETE
+
+EFTF
+
+FGTG
+
+GHTH
+
+HITI
+
+BCTD
+
+CDTE
+
+DETF
+
+EFTG
+
+FGTH
+
+GHTI
+
+HITK
+
+BDTB
+
+CETC
+
+D FTD
+
+EGTE
+
+FHTF
+
+GITG
+
+HKTH
+
+BDTC
+
+CETD
+
+DFTE
+
+EGTF
+
+FHTG
+
+GITH
+
+HKTI
+
+BDTD
+
+CETE
+
+DFTF
+
+EGTG
+
+FHTH
+
+GITI
+
+HKTK
+
+BTBC
+
+CTCD
+
+DTDE
+
+ETEF
+
+FTFG
+
+GTGH
+
+HTHI
+
+BTB D
+
+CTCE
+
+DTD F
+
+ETEG
+
+FTFH
+
+GTGI
+
+HTHK
+
+BTC D
+
+CTDE
+
+DTE F
+
+ETFG
+
+FTGH
+
+GTHI
+
+HTIK
+
+CDTB
+
+DETC
+
+EFTD
+
+FGTE
+
+GHTF
+
+HITG
+
+IKTH
+
+CDTC
+
+DETD
+
+EFTE
+
+FGTF
+
+GHTG
+
+HIT H
+
+IKTI
+
+CDTD
+
+DETE
+
+EFTF
+
+FGTG
+
+GHTH
+
+HITI
+
+IKTK
+
+CTB C
+
+D TC D
+
+ETDE
+
+FTEF
+
+GTFG
+
+HTGH
+
+ITHI
+
+CTB D
+
+DTCE
+
+ETDF
+
+FTEG
+
+GTFH
+
+HTGI
+
+ITHK
+
+CTCD
+
+DTDE
+
+ETEF
+
+FTFG
+
+GTGH
+
+HTHI
+
+ITIK
+
+DTBC
+
+ETC D
+
+FTDE
+
+GTEF
+
+HTFG
+
+ITGH
+
+KTHI
+
+DTBD
+
+ETCE
+
+F T D F*
+
+GTEG
+
+HTFH
+
+ITGI
+
+KTHK
+
+DTCD
+
+ETDE
+
+FTEF
+
+GTFG
+
+HTGH
+
+ITHI
+
+KTIK
+
+TB CD
+
+TCDE
+
+TD EF
+
+TE FG
+
+TFGH
+
+TGH I
+
+THIK
+
+PART VI, WHICH TREATS
+OF THE EVACUATION OF
+THE THIRD FIGURE
+The
+
+intellect evacuates the compartments of the Third Figure
+
+by extracting from them as much as it can, taking from each com­
+partment those things that the letters signify, so as to apply the
+things signified to the proposition, and it thus becomes applicative,
+investigative, and inventive. We will give an example of this in
+one compartment, and the others are to be dealt with in similar
+fashion.
+From the compartment of B C the intellect draws forth 12 prop­
+ositions by saying:
+goodness
+goodness
+goodness
+greatness
+greatness
+greatness
+
+is
+is
+is
+is
+is
+is
+
+great
+different
+concordant
+good
+different
+concordant
+
+difference is good
+difference is great
+difference is concordant
+concordance is good
+concordance is great
+concordance is different12
+
+And having formed these 12 propositions by changing subject into
+predicate and conversely, the compartment is evacuated of these
+propositions.
+Then it is evacuated of 12 middle terms. And they are called
+middle terms because they are placed between subject and pred­
+icate, with which they accord in genus or species. And with these
+middle terms, the intellect can become disputative and determi­
+native. Thus, for instance, one can say, Everything which is mag1 The techniques in this and the next part made their first hesitant appearance in the
+Brevis practica Tabulae generalis of 1304 (ALOG v, 314, 338 = Int. iii, 14, 38). Here and in
+the Ars generalis ultima we have the first and only time they appear in their fully developed
+form. For more information on their functioning, see Ca I, 445-9, and Artus, Ars Brevis,
+pp. 296-302.
+2 The compartment of B C implies those of B B, C C, and C B, and this for the two
+different meanings of each letter. We therefore have 4 concepts, each of which can be
+combined with 3 others, or 4 X 3 = 12. See Ca I, 445-6, for a tabulation of the results.
+
+PART VI
+
+599
+
+nified by greatness is great; goodness is magnified by greatness;
+therefore goodness is great, and so on for the others.3
+After performing this evacuation, the intellect evacuates the
+same compartment by means of 24 questions, since two questions
+are implicit in each proposition. Thus one has:
+goodness is great:
+Whether goodness is great.
+What is great goodness?
+goodness is different:
+Whether goodness is differ­
+ent.
+What is different goodness?
+goodness is concordant:
+Whether goodness is concor­
+dant.
+What is concordant good­
+ness?
+greatness is good:
+Whether greatness is good.
+What is good greatness?
+
+greatness is different:
+Whether greatness is differ­
+ent.
+What is different greatness?
+greatness is concordant:
+Whether greatness is concor­
+dant.
+What is concordant great­
+ness?
+
+difference is good:
+Whether difference is good.
+What is good difference?
+difference is great:
+Whether difference is great.
+What is great difference?
+difference is concordant:
+Whether difference is concor­
+dant.
+What is concordant differ­
+ence?
+concordance is good:
+Whether concordance is
+good.
+What is good concordance?
+concordance is great:
+Whether concordance is
+great.
+What is great concordance?
+concordance is different:
+Whether concordance is dif­
+ferent.
+What is different concord­
+ance?
+
+Once this evacuation of questions has been carried out, the in­
+tellect then evacuates the compartment with the definitions of
+goodness and greatness, and with the three species of difference
+and concordance that appear in the Second Figure. Then it evac­
+uates the compartment with the three species of Rule B and with
+the four species of Rule C. Having carried out this evacuation,
+3 This last sentence is missing in the Zetzner editions.
+
+A£S BREVIS
+
+600
+
+the intellect solves the aforementioned questions in said evacua­
+tion, by observing the conditions of the compartment, affirming,
+or denying. And thus the intellect banishes doubts from the com­
+partment, remaining in it calmly and positively. Moreover it now
+knows itself to be completely general and artful, and clothed in
+great knowledge.4
+4 The Ars generalis ultima, whose text—with the exception of the larger table—has up
+to this point been very similar to that of the Ars brevis, now continues with examples of
+questions and answers from each of the thirty-six compartments of Figure 3.
+
+»
+
+PART VII, WHICH TREATS
+OF THE MULTIPLICATION
+OF THE FOURTH FIGURE'
+The multiplication of the Fourth Figure consists of the follow­
+ing, namely, that the first compartment B C D in the Fourth Figure
+or in the Table means that B has one condition with C and another
+with D; and C has one condition with B and another with D; and
+D has one condition with B and another with C.2 And therefore
+in this compartment there are six conditions with which the in­
+tellect is conditioned and disposed to investigating, finding, ar­
+guing, proving, and determining.3
+After these six conditions, the intellect acquires another six, by
+turning the smallest circle, putting its E where its D was, opposite
+the C on the middle circle. And then, since the compartment has
+been changed, so have its conditions. And thus the intellect now
+has twelve4 conditions; and similarly for the other compartments,
+by multiplying columns and turning them.
+The conditions that the intellect multiplies in this way are dif­
+ficult to enumerate. For from each compartment the intellect can
+1 Cf. Part VI, n. 1.
+2 This curious use of the word “condition” is defined in the Taula d’esta An (ORL xvn,
+392) as being “the mixture of principles, with some being conditioned in others according
+to their definitions and properties, like goodness which is conditioned to being great by
+reason of greatness, and to being enduring by reason of eternity, and it is great and enduring
+in accordance with its own condition, that is to say, that its greatness and duration be good;
+and the same is true of‘condition’ with respect to the other principles.” Similar definition
+in the Tree of Science, OE I, 579. See also Artus, Ars Brevis, p. 300.
+3 In the Zetzner editions this paragraph is followed by a figure exhibiting the six con­
+ditions:
+
+9
+in which one reads the relationships from left to right, with the figure right-side-up for 1,
+2, and 4, and upside-down for 3, 5 and 6.
+4 The Zetzner editions have 15, but since we are adding the 6 conditions of B C E to
+the 6 of B C D, this is surely an error. The peculiar phrase at the end of the sentence would
+seem simply to indicate a continuation of the process of rotating the wheels and deriving
+the 6 conditions from each resultant compartment.
+
+602
+
+ARS BREVIS
+
+evacuate 30 propositions and 90 questions, just as from the com­
+partment B C of the Third Figure we derived 12 propositions and
+24 questions.5 And as a result the intellect realizes it has become
+completely general and artful, over and above another intellect
+ignorant of this Art, who would reduce it to a multitude of in­
+consistencies and impossibilities. The sophist will thus not be able
+to stand up to such an intellect as that of the artist of this Art,
+who uses primary and natural conditions, as opposed to the soph­
+ist, who uses conditions that are secondary and unnatural, as is
+explained in the Ars magna.6
+5 Since each letter stands for 2 principles, in the compartment of B C D we therefore
+have 6 principles, any one of which can form propositions with the remaining 5, giving
+6 x 5 = 30. And since to each of these 30 propositions we can apply 3 questions, we have
+30 x 3 = 90. This is merely a ternary version of the binary mechanism of Part vi.
+6 The equivalent Part vh of the Ars generalis ultima, divided into five sections which
+correspond only roughly to the five dispositions of the intellect given at the end of the first
+paragraph, constitutes a small treatise on Lullian logic. After presenting (1) different ways
+of multiplying the Fourth Figure (along with the Table), he goes on to (2) use the ternary
+configurations to find the middle term between two concepts, leading him naturally into
+the syllogistic, with which (3) he investigates (De modo probandi) the three types of dem­
+onstration (see the Ars demonstrativa, Prologue, pars. 2-3); then he discusses (4) the fourteen
+fallacies of the Logica nova, and ends with (5) a section on how the Art can be used to
+acquire other sciences such as Theology, Philosophy, etc. Cf. Pla I, 447ff.
+
+PART VIII, WHICH
+TREATS OF THE MIX­
+TURE OF PRINCIPLES
+AND RULES'
+In this part the intellect mixes one principle with another, ex­
+amining each principle, with its definition, by means of the others,
+and examining each principle by means of all the species of the
+rules.1
+2 By means of such an examination the intellect becomes
+acquainted with each principle, and every time it mixes said prin­
+ciple differently, it will find out something new about it. Who in
+fact could enumerate all the means the intellect discovers for draw­
+ing conclusions, with the intellect evacuating this mixture as it did
+the compartment of B C discussed earlier?
+This mixing is the center and foundation for the finding of all
+sorts of propositions, questions, middle terms,3 conditions, so­
+lutions, and even objections. But we will desist from giving ex­
+amples of this to the discerning mind, for the sake of brevity, and
+since this type of mixing is explained and exemplified in the Ars
+magna.4
+Furthermore, this mixture is subject and refuge for the artist of
+this Art, so that he may find it in whatever he wants. For if he
+needs to find out something that has to do with goodness, he has
+only to examine said goodness by means of all the principles and
+1 This mixing of principles and rules first appears in its fully developed form in the Liber
+de praedicatione of 1304. In embryonic form, it first appears in the Investigatio mixtionum
+generalium of 1294 (see Gaya, Correlativos, p. 93, for the work itself, and my “Notes,” Part
+iv, for the date), and reappears in the Lectura super Artem inventivam et Tabulam generalem
+(MOG N, 705 = Int. v, 347), Lectura compendiosa Tabulae generalis (MOG v, 344-5 = Int.
+iv, 1-2), and Brevis practica Tabulae generalis (MOG v, 314, 337 = Int. iii, 14, 37).
+2 The middle part of this sentence is missing in the printed sources.
+3 In place of the media of all the other sources, the Zetzner editions have materiae,
+“matters.”
+4 And this at great length, in two sections. The first has eighteen chapters, each devoted
+to one principle of the Art and its mixture with the other seventeen principles. The second
+section similarly has eighteen chapters, each devoted to one principle of the Art, but here
+each principle is mixed with all the species of the ten rules. In this second section of the
+Ars generalis ultima, under Rule C (“What?”) each of these principles is defined again.
+
+604
+
+AKS BREVIS
+
+rules, and from it he will find whatever he wants to understand.
+And what we have said about goodness applies equally to the other
+principles.
+This mixture is conditioned and disposed according as one thing
+is different from another. For if one examines divine goodness by
+means of the principles and rules, this examination requires other
+definitions and rules than does an examination of the goodness of
+an angel; and the examination of the goodness of angel, another
+than the goodness of man; and the goodness of man another than
+the examination of the goodness of a lion, and so on.
+
+PART IX, WHICH TREATS
+OF THE NINE SUBJECTS
+In
+
+this Art we have put nine subjects,1 those indicated in the
+Alphabet. They include everything that exists, for outside of them
+there is nothing.
+The first subject is God, denoted by the letter B.
+The second subject is angel, denoted by the letter C.
+The third subject is heaven, denoted by the letter D.
+The fourth subject is man, denoted by the letter E.
+The fifth subject is imagination, denoted by the letter F.
+The sixth subject is the sensitive, denoted by the letter G.
+The seventh subject is the vegetative, denoted by the letter H.
+The eighth subject is the elementative, denoted by the letter I.
+The ninth subject is instrumentality, denoted by the letter K.
+Since in the Ars magna each subject is deduced by means of
+principles and rules, we will therefore not investigate them here,
+since we want to make this Art shorter than that one, and since
+said deduction is implicit in this Art. For this reason we will desist
+from presenting this matter to the discerning mind, which should
+be content with the example given in the Third Figure, where we
+apply all the principles to “goodness,” as well as all the rules of
+this Art to “intellect.”
+In dealing with these subjects, we must keep in mind four con­
+ditions. By these the intellect will be conditioned to examine the
+aforementioned subjects in a conditioned way, by means of the
+principles and rules, according as each subject is conditioned by
+its nature and essence. For divine goodness has one condition in
+1 The idea of a scala naturae or a ladder of being is present in many works of Llull. It
+provides the framework for Felix, the Tree of Science, and the Book of the Ascent and Descent
+ofthe Intellect. During the ternary phase of the Art, it is discussed in the Ars inventiva veritatis
+{MOG v, 47-61) under the heading of Transcendent Points. In the form of nine subjects,
+it appears fleetingly in the Taula general {ORL xvi, 380, 505-14), Arbre de filosofia desiderat
+{ORL xvii, 449), and the Ars compendiosa (ed. Ottaviano, pp. 155—61); but these subjects
+are not incorporated into the structure and Alphabet of the Art until the Liber de praedicatione
+{ROL hi, 144-53; cf. Soria’s comments on p. 95). This part of the Art constitutes, as
+Carreras i Artau said (Ca I, 451), “a veritable treatise on ontology.” For the use of the
+subjects here, see Artus, Ars Brevis, pp. 303ff. In the Ars generalis ultima each is treated
+much more extensively and systematically.
+
+606
+
+ARS BREVIS
+
+God; angelical goodness another in an angel; and so on for the
+rest. And the same is true for the rules.2
+The first condition is as follows, namely, that each subject must
+have a definition differentiating it from any other subject. And if
+any inquiry is to be made into said subject, the answer must be
+formulated in such a way, by affirming or denying, that the def­
+initions of the principles accord with that of the subject; and the
+same is true for the rules, without any injury being done to either
+principles or rules.
+The second condition is that in a judgment or in practice the
+difference between subjects be preserved. Thus divine goodness
+is different from the goodness of an angel by infinity and eternity,
+since such goodness is the reason why God does infinite and eternal
+good, whereas the goodness of an angel is finite and newly created.
+The third condition is that the concordance between one subject
+and another not be destroyed, as for instance, the concordance
+existing between God and angel, for they are concordant in their
+spirituality. And the same could be said of the other subjects.
+The fourth condition is that, insofar as one subject is nobler and
+loftier, one should assign it loftier and nobler principles and rules
+than to another, as in the case of God, who is a loftier and nobler
+subject than angel, and angel than man, and so on.
+
+1. THE FIRST SUBJECT, WHICH IS GOD,
+EXAMINED BY MEANS OF THE
+PRINCIPLES
+God can be examined by means of the principles and rules, for
+God is good, great, etc. Many definitions can be given of Him,
+if one wanted to do things extensively. But we will only give one:
+God is that being who needs nothing outside Himself, because in
+Him exist all perfections. With this definition, God is different
+from any other being, for all other beings need something outside
+themselves.
+In God there is no contrariety or minority, for they are principles
+having to do with privation and defect. Nevertheless, in God there
+2 This last sentence is missing from the printed texts.
+
+PART IX
+
+607
+
+is majority with respect to other beings; and there is equality, since
+He has equal principles, such as goodness, greatness, etc., as well
+as equal acts and relations.
+In God there is difference of correlatives, without which said
+correlatives could not exist at all; nor without them could God
+exercise His infinite and eternal intrinsic action; moreover, without
+them his dignities3 would be idle, which is completely impossible.
+In God there is concordance, so that with it He may be infinitely
+and eternally far from contrariety, and so that His correlatives may
+accord infinitely and eternally in a single essence and nature. And
+this is what can be said about His dignities.
+In God there is no quantity, no time, nor any accident. The
+reason is that His substance is separated from and stripped of all
+accident, because it is infinite and eternal. And with God being
+conditioned by the four above-mentioned conditions, the intellect
+understands that it is conditioned to understand God and those
+things which can be said about Him by means of the principles
+and rules appropriate to God, and it also knows and understands
+that if an angel has natural power in itself, and so on for the others,
+so much more should God, since He is a higher subject, as is clear
+through the relationship of lesser to greater.
+
+2. THE SECOND SUBJECT WHICH IS
+ANGEL4
+Angel can be derived by means of principles and rules. Indeed,
+it has natural goodness, greatness, duration, etc. And it is defined
+thus: an angel is a spirit not joined to a body.
+It has no natural contrariety, for it is incorruptible. In it there
+is the matter of -able, that is to say, of bonifiable, magnifiable,
+etc., as is indicated by the second species of D.5
+In an angel there is majority, for it is more similar to God than
+is man, since it contains higher principles and rules than man. As
+a result, the intellect realizes that, if man cannot make use of his
+3 Here referred to as rationed (Cat. rahons)-, cf. “Llull’s thought,” text at n. 28 above. See
+Gaya, Correlativos, p. 164, for a commentary on this paragraph.
+4 Cf. Felix, Bk. n and n. 1 there.
+5 That is, Rule D. 2 of Part IV. From now on, single letters are to be taken as referring
+to these Rules.
+
+608
+
+ARS BREVIS
+
+senses without the corresponding organs, it does not follow from
+this that an angel is similarly incapacitated, for an angel is of a
+superior nature. As a result, the intellect realizes that angels can
+talk to one another and act upon us without any organs, and they
+can travel from one place to another without any means of lo­
+comotion, and so on, as is clear to the intellect upon examining
+the rules.
+In an angel there is difference, for its intellect, will, and memory
+are different from one another. There is equality of understanding,
+loving, and remembering in an angel, by reason of the supreme
+object, that is, God, who is equally intelligible, lovable, and mem­
+orable. In an angel there is minority, since it has been created from
+nothing.
+
+3. THE THIRD SUBJECT, WHICH IS
+HEAVEN6
+Heaven has natural goodness, greatness, duration, etc., and
+it is defined as follows: Heaven is the first mobile substance.
+There is no contrariety in it, for it is not composed of contrary
+principles. It has natural instinct and natural appetite, and therefore
+movement, without which it could not possess a nature, instinct,
+and appetite.
+Nevertheless, it has a beginning, for it acts as an efficient cause
+in things below it; moreover, this beginning is made up of its own
+specific form and matter, so that it may act in accordance with its
+species. Its movement constitutes its own end and resting place.
+Heaven is in its place, like a body within its surface. Moreover,
+it exists in time, for it was created. It is also in time in the way
+that an efficient cause is related to its effect. And so on for its other
+accidents, each in its own way.
+
+4. THE FOURTH SUBJECT WHICH IS MAN7
+Man
+
+is composed of soul and body, and is therefore derivable
+
+by means of the principles and rules in two ways, that is to say,
+6 Llull usually discusses astronomy under this heading (cf. Yates, “Art,” p. 118), for
+which subject see Part x, “Hundred Forms,” no. 83 below, and Felix, Bk. hi, with the
+corresponding notes.
+7 Bk. viii of Felix deals exclusively with man. See notes 1 and 9 there.
+
+PART IX
+
+609
+
+in a spiritual and a corporeal way. And he is defined thus: man is
+a manifying animal.8 All the principles and rules exist twice in
+man, because of his double nature, that is, the spiritual and cor­
+poreal parts of which he is composed. And thus he is more general
+than any other created being, as a result of which one can say
+without doubt that man constitutes the largest portion of the
+world.
+
+5. THE FIFTH SUBJECT, WHICH IS THE
+IMAGINATIVE FACULTY9
+There
+
+are specific principles and rules in the imaginative faculty
+for the purpose of imagining imaginable things, just as there are
+in a lodestone for the purpose of attracting iron. And it is defined
+thus: the imaginative is that power whose function it is to imagine.
+And it is thus deduced by means of the principles and rules proper
+to the imaginative faculty. The intellect has great knowledge of
+it, as well as of those things that accord with it.
+The imaginative faculty extracts species from the things sensed
+with the individual senses; and this it does with its correlatives,
+as indicated in the second species of Rule C. With goodness it
+makes these species good, and with greatness it magnifies them,
+as when it imagines a great mountain of gold. With minority it
+lessens them, as when it imagines an indivisible point. The im­
+aginative faculty has instinct, just as the lower animals have the
+will to live, and a goat the instinct to avoid a wolf. The imaginative
+faculty has an appetite to imagine the imaginable, so that, by im­
+agining it, it may come to rest.
+When the individual senses apprehend sensible things, as when
+the eyes see something colored, they impede the imaginative fac8 Homo est animal (animal rationale in the Zetzner editions) homificans. See Part xi, ch. 2,
+Question 3 for a defense of this definition.
+9 In the Aristotelian philosophical vocabulary of the Middle Ages, imaginatio had nothing
+to do with its modern connotations (as when we say that so-and-so has “imagination”),
+but, closer to its etymology, referred to the faculty of perceiving images when the objects
+of perception are no longer present to the senses. Note Llull’s definition in the Taula d’esta
+Art (ORL xvii, 394): “The imaginative (faculty) is the power by which man imagines
+imaginable things, like a person who, with his imagination, imagines figures that he has
+seen, or lands where he has been, and so on.” Cf. Ars demonstrativa, Dist. iv, n. 56, as well
+as here below, Part x, “Hundred Forms,” no. 31 and the note. For more information, see
+C. Aos Braco, “La imaginacion en el sistema de Ramon Llull,” EL 23 (1979), 155-83.
+
+610
+
+ARS BREVIS
+
+ulty, which then cannot carry out its act, since it cannot imagine
+any imaginable thing outside itself until the eyes are closed, at
+which point the imaginative faculty carries out its act, or can carry
+it out.
+The person seeing apprehends the colored object better by
+seeing than by imagining, for something sensed is closer to the
+particular sense. The imaginative faculty, however, apprehends
+the imaginable object through the intermediary of sense. The im­
+aginative faculty is thus not as general a power in sensed things
+as is the sensitive faculty, as can be seen from the sense of touch,
+with which a man holding a stone can, at one and the same time,
+feel several different things, such as the weight, coldness, rough­
+ness, and hardness of the stone; the imaginative faculty, however,
+cannot do this, except successively. And the same is true of other
+such things. And this, for the sake of brevity, is enough.
+
+6. THE SIXTH SUBJECT, WHICH IS THE
+SENSITIVE FACULTY
+The principles and rules exist in the sensitive faculty in a specific
+way, for it has one power through sight, another through hearing,
+etc.; and this is especially so with the properties of instinct and
+appetite. And it is defined thus: the sensitive is that power whose
+function it is to sense. The sensitive faculty causes things to be
+sensed with its specific principles and rules. It is general through
+the common sense,10 particular through the individual senses.
+Through the common sense it has common correlatives; through
+the individual senses it has individual correlatives.11 The radical
+life of the sensitive faculty comes from vegetable life, with which
+it is connected, and in which it is planted, as is the vegetative in
+the elementative. The sensitive faculty uses all the senses to sense
+objects, as when it uses sight to sense something colored, and
+hearing to sense a voice, using the affatus to give it a name. For
+10 Not in our modern meaning; in the Middle Ages the “common sense” was, as the
+OED says, “an ‘internal’ sense which was regarded as the common bond or centre of the
+five senses, in which the various impressions received were reduced to the unity of a
+common consciousness.”
+11 These individual and common correlatives are set out in the chart le Myesier included
+in the Electorium, fol. 96v (reproduced in Hillg, p. 425) and in the Breviculum, fol. 14v
+(reproduced in Pring-Mill, “Trinitarian,” p. 253, and in his “Pontencias,” p. 111).
+
+PART IX
+
+611
+
+without affatus the hearing cannot properly sense the voice, and
+therefore the intellect knows that the affatus is a sense.12
+
+7. THE SEVENTH SUBJECT, WHICH IS THE
+VEGETATIVE13
+In the vegetative there are specific principles and rules with
+which plants act according to the species they belong to. For a
+pepper, a rose, a lily, each acts according to its species. The prin­
+ciples of the vegetative are denser than those of the sensitive, just
+as the principles of the sensitive are denser than those of the im­
+aginative. And it is defined thus: the vegetative is that power
+whose function is to vegetate. Indeed it vegetates elemented things
+just as the sensitive faculty senses either vegetated or elemented
+things. The vegetative transforms the elementative into its own
+species by way of generation; and from that it lives, grows, and
+is nourished. And the vegetative dies through lack of the elemen­
+tative, just as the light in a lamp dies out through lack of oil.
+
+8. THE EIGHTH SUBJECT, WHICH IS THE
+ELEMENTATIVE
+In the elementative there are specific principles and rules, with
+which it can have many species, such as gold, silver, and other
+similar things. And it is defined thus: the elementative is that
+power whose function it is to elementate. It has common correl­
+atives, and what was said regarding the sensitive faculty can be
+applied here to its individual components, that is to say, to fire,
+12 This is a sixth sense Llull introduced in a treatise of the same name written in 1294.
+In the Tree ofScience (OE I, 599) he defines it as “that sense by which the interior conception
+is made manifest in speech, like a man who says and speaks what he thinks, or like a bird,
+as for instance when a hen calls her chicks.” See J. Dagenais, “Speech as the sixth sense—
+Ramon Llull’s affatus,” Estudis de Llengua, Literatura i Cultura Catalanes. Actes del Primer
+Col-loqui d’Estudis Catalans a Nord-America. Urbana, 30 de mars-1 d’abril de 1978 (Montserrat,
+1979), pp. 157-69, as well as Johnston, Semblance, pp. 64-7, 204-7.
+13 I have followed Llull in using an adjective in -ive as a noun. The usage is justified
+although rare in English (see OED, s.v. vegetative, B) as referring to the vegetative faculty
+or power. I have kept to this usage in the following two chapters, but not in the previous
+two, where it seemed more natural to speak of the imaginative and sensitive faculties. For
+information on the “vegetative” see Felix, Bk. vm, ch. 44, and principally nn. 9 and 20,
+as well as ch. 49.
+
+612
+
+ARS BREVIS
+
+air, water, and earth, which have their own correlatives,14 without
+which these elements could not exist, just as the correlatives could
+not exist without elements, which constitute the ultimate foun­
+dation of said elementative.
+And through these correlatives, the elementative has points,
+lines and figures, length, width, depth and volume, qualities and
+complexions, hardness, roughness, lightness, and heaviness, etc.
+And as a result the intellect understands that the elements are ac­
+tually present in elemented things, although in a loose way; for
+otherwise elemented things would not have anything out of which
+they would be made, nor would they be of the genus of substance,
+nor would they have form, matter, motion, instinct, length,
+width, volume or appetite, which is completely impossible and
+absurd to maintain.
+
+9. THE NINTH SUBJECT, WHICH IS THE
+INSTRUMENTATIVE15
+This
+
+subject deals with instrumentality, and it can be considered
+in two ways, that is, naturally, like the eyes, which are the in­
+strument for seeing, and morally, like justice, which is the in­
+strument forjudging, and a hammer for making things.
+One can acquire knowledge of a natural instrument by using
+the principles and rules of the Art to deduce it in a specific way;
+similarly one can use the same principles and rules to deduce a
+moral instrument in its own specific way.
+Natural and moral instruments differ from one another. We
+will, however, spare the discerning reader such a deduction or
+investigation; and if the mind of the artist feels the need for such
+an investigation, he should turn to the Ars magna, in which we
+discuss moral questions at length. But since we mentioned moral
+concepts in the Alphabet, we therefore want to define our moral
+instruments, so that, by means of the definitions, along with the
+principles and rules, the artist can gain knowledge of morality.
+14 For charts of these correlatives (along with those of the senses), see the references in
+n. 11 above.
+15 Or “artifice” as he refers to it in some works, such as the Liber de praedicatione, ROL
+hi, 153.
+
+PART IX
+
+613
+
+1. The instrumentative is the power with which a moral person
+acts morally.
+2. Justice is the disposition16 with which ajust person acts justly.
+3. Prudence is the disposition with which the prudent person
+operates prudently.
+4. Fortitude is the disposition with which the strong in heart
+act with virility.
+5. Temperance is the disposition that the temperate person uses
+in acting temperately.
+6. Faith is the disposition with which a person believes to be
+true something he neither senses nor understands.
+7. Hope is the disposition with which someone hopes for God’s
+forgiveness and for glory, and places his trust in his good and
+powerful friend.
+8. Charity is the virtue with which a person makes his private
+wealth available to others.
+9. Patience is the disposition with which the patient person van­
+quishes and is not vanquished.
+10. Pity is the disposition with which the kind person suffers
+for the suffering of his fellow man.17
+11. Avarice is the disposition with which the rich man is poor
+and beggarly.
+12. Gluttony is the disposition with which the glutton later finds
+himself imprisoned in sickness and poverty.
+13. Lust is the disposition with which a man uses his powers
+wrongly and counter to the order of matrimony.
+14. Pride is the disposition with which the proud man tries to
+make himself superior to other men, and it is contrary to humility.
+15. Accidie is the disposition with which the accidious person
+grieves over another’s good fortune and is joyful over his ills.
+16. Envy is the disposition with which the envious person un­
+justly desires another’s possessions.
+16 Habitus in the original, for which see Ars demonstrativa, Dist. iv, n. 157, as well as here
+below, Part x, “Hundred Forms,” no. 21. For the virtues and vices which follow, and
+which of course made up Figure V of the Ars demonstrativa, see the various references among
+Gentile, Bk. I, nn. 19-35, as well as among Felix, Bk. vm, chs. 63-75.
+17 These last two virtues are new, with respect to the lists in the Gentile and the Ars
+demonstrativa, having been added, like the last two vices, so as to be able to accommodate
+them to the nine-letter alphabet.
+
+614
+
+ARS BREVIS
+
+17. Ire is the disposition with which the irate person shackles
+his thinking and his freedom.
+18. Falsehood is the disposition with which the liar talks or gives
+testimony contrary to the truth of a thing.
+19. Inconstancy is the disposition with which a fickle person is
+changeable in many ways.18
+
+So much for the nine subjects, about which the artist can gain
+knowledge by examining them in the light of the principles and
+rules of this Art.19
+18 Cf. n. 17 above.
+19 Which is preciesely what is done in the corresponding section of the Ars generalis ultima.
+
+PART X, WHICH TREATS
+OF APPLICATION
+Application is divided into three parts. The first is when the
+implicit is applied to the explicit. The second is when the abstract
+is applied to the concrete. The third is when a question is applied
+to places in the Art. Let us first of all discuss the first part.
+1. If the terms of the question are implicit, they should be applied
+to the explicit1 terms of the Art, as when one asks whether God
+exists or whether angels exist. And the same is true for others
+applied to goodness, greatness, etc., such as: Whether it is a great,
+good, etc. thing that God exists and that angels exist.
+2. The second part is as follows: if the terms of the question are
+abstract, they should be applied to concrete terms, such as good­
+ness to good, greatness to great, color to colored, and so on. And
+in this way one should see how an abstract and a concrete term
+are related to one another, as one examines them by means of the
+principles and rules.
+3. The third part deals with application to specific places, and
+it is divided into thirteen parts,2 as follows: (1) First Figure, (2)
+Second Figure, (3) Third Figure, (4) Fourth Figure, (5) Definitions,
+(6) Rules, (7) Table, (8) Evacuation of the Third Figure, (9) Mul­
+tiplication of the Fourth Figure, (10) Mixture of Principles and
+Rules, (11) The Nine Subjects, (12) The Hundred Forms, (13)
+Questions
+The subject matter of the questions must be applied to these
+parts according as it is suitable to them. For if the subject matter
+of a question is relevant to the First Figure, then it must be applied
+to that figure, and the solution drawn from the text of that figure,
+by affirming or denying in such a way that the text is not violated.
+And what we have said about the first figure can be said about
+the others, each in its own way. Since we want to be brief, this
+1 Thus in the printed sources and some mss; three other mss have “explained”; the rest
+of the mss have “applied,” which seems hard to justify in the context. For the concepts of
+“implicit” and “explicit” see Johnston, Semblance, pp. 139-40.
+2 After “specific places” the correcting hand in the Milan Catalan ms adds a helpful “of
+this Art.” These thirteen parts, plus the previous two paragraphs, constitute the fifteen
+parts into which the corresponding section of the Ars generalis ultima is divided.
+
+616
+
+ARS BREVIS
+
+should be enough concerning application; if, however, the reader
+would like to know more about applying terms, he should turn
+to the Ars magna, where we discuss the matter at length.
+
+12. THE HUNDRED FORMS3
+In this part the reader will find a hundred forms with their
+definitions, so that a given subject can be made to reach the in­
+tellect. For by means of the definitions of the forms, the intellect
+will be conditioned to examining them by the principles and rules.4
+And through such an examination the intellect acquires knowledge
+of the forms discussed in the questions. Here now are the hundred
+forms with their definitions:
+1. Entity is the cause by reason of which one thing causes an­
+other thing.5
+2. Essence is the form abstracted from and sustained in being.6
+3. Unity is the form whose function is to unite.
+4. Plurality is the form that is an aggregate of many things
+differing in number.7
+3 The Hundred Forms make their first appearance in the Tree ofScience, and, in somewhat
+different form, in nos. 101-200 of the Proverbs of Ramon of the same year. They reappear
+in the Logica nova (1303), Introductorium magnae Artis generalis (1306), Ars generalis ultima
+(1305-8), here (1308), and finally in the Ars consilii (1315). Cf. Pla I, 413-21. Note that all
+these lists are different, except for those here and in the Ars generalis ultima, which are
+identical.
+4 The corresponding definitions in the Ars generalis ultima usually point out which prin­
+ciples or rules are to be used for investigating each “form.” So, in effect, the Hundred
+Forms constitute a method for integrating a series of special topics into the Art and of
+making them available to the “Artist” as ancillary tools.
+5 In the corresponding “form” of the Ars generalis ultima, Llull illustrates his point: “as
+goodness is the reason why some good does good,” and “as greatness is the reason why
+goodness is great.”
+6 In the Taula d’esta Art {ORL xvn, 393), Llull relates “essence” {essentia) and “being”
+{esse) in slightly different terms: “essence is that by which being exists, just as humanity
+is the essence by which man exists.” That this definition ties them in with the previous
+pair is confirmed on the same pages of the Taula d'esta Art where Llull says that “entity
+{entitas) is the essence of a thing {ens), which constitutes its act,” to which he adds, in the
+corresponding “form” of the Ars generalis ultima, “Since entity and essence are convertible,
+therefore so are being and thing. And what we said [above) about entity and thing, we
+can say [here] about essence and and being,” after which he goes on to say that essence is
+the (superior) abstract, and being its (inferior) concrete. Cf. Logica nova (Palma, 1744), p.
+69; Pla I, 140, 142; the same author’s remarks in EL 2 (1958), 32; and W. W. Artus, “Esse
+and the Author of the Liber contemplationis in Deum,” EL 21 (1977), 145-71, and especially
+p. 155 for the four terms discussed here.
+7 For “unity” and “plurality” see also Gentile, Bk, I, n. 36. Many of these Hundred
+Forms can be grouped in pairs or triplets. Llull is more explicit about this in the Tree of
+Science, where they are presented individually the first time around (OE I, 570-90) and in
+groups the second time (OE I, 600-8).
+
+PART X
+
+617
+
+5. Nature is the form whose function is to naturize.8
+6. Genus is something widely applicable and very indefinite,
+which is predicated of many things differing in species.9
+7. Species is something that is predicated of many things dif­
+fering in number.10
+8. Individuality is the term farther from genus than any other
+thing.11
+9. Property is the form with which the agent acts specifically.12
+10. Simplicity is the form that is farther from composition than
+any other thing.
+11. Composition is the form that is an aggregate of many es­
+sences.
+12. Form is the essence with which the agent acts in matter.
+13. Matter is simply passive essence.13
+14. Substance is a thing existing by itself.14
+15. Accident is a form not existing by itself, nor one related
+principally to its own end.
+16. Quantity is the form by reason of which a subject is quan­
+titative and with which it acts quantitatively.15
+8 For “nature” see Ars demonstrativa, Dist. iv, n. 146. In OED, “naturize” (naturare) is
+defined as “to invest with a specific nature.”
+9 This, along with nos. 7, 9, and 15, represent four of the five predicables (the medieval
+descendants of the Aristotelian topics), or universals as Llull frequently calls them. The
+missing one, “difference,” is not treated here since it has already appeared as a component
+of Figure T. The definition of “genus” in the Logica nova (Palma, 1744), p. 19, is identical
+with that here, but adds, “just as animal [is predicated] of man, lion, eel, etc.”
+10 The Logica nova (Palma, 1744), p. 22, adds, “like Socrates, Plato, etc., which are
+contained in the human species, and like this lion and that lion, which are in the leonine
+species.”
+11 In the Introductorium magnae Artis generalis, Hundred Forms, no. 19, Llull adds, “like
+Peter, [which is predicated] of him alone.” For the notion of individuitas, which could also
+be translated as “indivisibility,” see B. S. Jorgensen, “Individuation und Individuationsprinzip im Schriftum Raymund Lulls,” EL 21 (1977), 5-34, and especially p. 18 for a
+commentary on this passage. Note that some of the printed sources of the Ars brevis have
+“thing” instead of “term” here.
+12 “. . .just as pepper has the property of heating, rhubarb of attracting choler, a magnet
+of attracting iron, and a lion of begetting a lion,” Tree of Science, OE I, 578.
+13 For “form” and “matter,” see Gentile, Bk. I, n. 36.
+14 We now begin with the Aristotelian categories or predicaments. For their division
+into substance and accident, which latter is in turn divided into the remaining nine categories
+(nos. 16-24 below), see Ars demonstrativa, Dist. I, n. 19. For “substance,” see the extended
+discussion in the Logica nova (Palma, 1744), pp. 36-40, as well as the following pages there
+for the remaining categories.
+15 . . . est quantum . . . agit quantum, where quantum means literally “how much.” For
+“quantity” see Part iv, Rule F above, as well as Gentile, Bk. I, n. 4.
+
+618
+
+ARS BREVIS
+
+17. Quality is that by reason of which principles are of the sort
+they are.
+18. Relation is a form existing with respect to many different
+things, without which it cannot exist.
+19. Action is a form inherent in whatever is passive.
+20. Passion is the thing underlying and inherent in action.16
+21. Habit is the form with which a subject is clothed.17
+22. Position is the disposition of parts, properly and duly ar­
+ranged in a subject.18
+23. Time is the entity within which created beings are begun
+and renewed. Or: Time is that thing made up of many nows with
+reference to before and after.
+24. Place is the accident by which things are located. Or: Place
+is the surface immediately surrounding and containing the inner
+parts of a body.
+25. Motion is the instrument with which the mover moves the
+thing moved. Or: Motion is that which knows the nature of be­
+ginning, middle, and end.
+26. Immobility is that thing having no inclination to move.
+27. Instinct is the figure and likeness of the intellect.
+28. Appetite is the figure and likeness of the will.19
+29. Attraction is the form with which the thing attracting at­
+tracts the thing attracted. Or: Attraction is a form having the in­
+stinct and appetite to attract something to a subject.
+30. Reception is the form with which the thing receiving re­
+ceives the thing received. Or: Reception is a form having the in­
+stinct and appetite to receive something in a subject.
+31. Fantasy is a likeness extracted from things by means of the
+imagination.20
+32. Fullness is the form far from emptiness.
+16 The printed editions have, “Passion is the thing [underlying action, and] sustaining
+it,” with the Zetzner editions omitting the words in brackets. For “passion” see Gentile,
+Bk. hi, n. 53.
+17 Cf. Ars demonstrativa, Dist. iv, n. 157, for habitus.
+18 Besides “position,” situs can also be translated as “situation” or “posture.”
+19 For “instinct” and “appetite,” and their relation to “intellect” and “will,” see Gentile,
+Bk. H, n. 10. The second definitions added to both nos. 27 and 28 in the printed sources
+are doubtless later additions, since they appear in none of the medieval mss.
+20 Phantasia was the Greek word whose usual scholastic translation was precisely the
+word imaginatio, also used here, for which latter see Part ix, n. 9 above.
+
+PART X
+
+619
+
+33. Diffusion is the form with which the thing diffusing diffuses
+what is diffusible.
+34. Digestion is the form by means of which the thing digesting
+digests what is digestible.21 22
+35. Expulsion is the form with which nature expels those things
+which are not suitable to a subject.
+36. Signification is the revelation of hidden things indicated by
+a sign.
+37. Beauty is a lovely form received by the sense of sight or of
+hearing, or by the imagination, thought, or sense of pleasure.
+38. Newness is the form by reason of which a subject is clothed
+with new characteristics.
+39. Idea, in God, is God; in creation, however, it is creature.23
+40. Metaphysics is the form with which the human intellect
+strips substance of its accidents.24
+41. Potential being is a form existing in a subject without mo­
+tion, quantity, quality, and so on.25
+42. Punctuality is the essence of the natural point, which is the
+smallest part of a body.26
+43. A line is a length made up of many connected points and
+whose extremities consist of two points.
+44. A triangle is a figure with three acute angles enclosed within
+three straight lines.
+45. A square is a figure with four right angles.
+46. A circle is a figure enclosed by a circular line.
+47. A body is a substance consisting of points, lines, and angles.
+21 Cf. Ars demonstrativa, Dist. iv, n. 162.
+22 Cf. Gentile, Bk. in, n. 37.
+23 The Ars generalis ultima ties this concept in with the previous one: “Idea in eternity is
+God; in newness [thus, instead of ‘creation’, in many of the printed sources of the Ars brevis
+as well] it is creature, just as the shape of a box in a carpenter’s thoughts can be old, but
+when it is brought from potentiality to act, then it is new.” Cf. Form 57 below. Ca I, 482,
+comments on the clearly Platonic ancestry of this statement; see also Colomer, Edad Media,
+p. 57.
+24 Many of the sources have “mathematics” instead of (and even sometimes alongside)
+“metaphysics,” but from the definition here, and from the contrasting definitions of the
+two terms in the Introductorium magnae Artisgeneralis (Lyon, 1635), p. 15, Hull must surely
+have meant “metaphysics” here.
+25 In the Ars generalis ultima Llull adds, “like the seed, in which the tree exists potentially. ”
+26 “Punctuality” in the literal senses, from punctum, “point.” In the Ars generalis ultima
+Llull adds that it is indivisible and cannot be grasped by the senses or by the imagination.
+For Llull’s use of this word in the setting of his time, see J. Gaya, “La Concepcion luliana
+de ‘punctum’ en su contexto medieval,” EL 19 (1975), 41-51.
+
+620
+
+ARS BREVIS
+
+48. A figure is an accident made up of position and habit.27
+49. The general directions are six, with the body at the center
+of diametrical lines.28
+50. Monstrosity is the deviation of natural motion.
+51. Derivation is the material foundation by which the particular
+descends from the universal.29
+52. Shade is the state of privation of light.
+53. A mirror is a transparent body arranged so as to receive all
+the figures presented to it.3"
+54. Color is a condition contained within a figure.31
+55. Proportion is the form whose function is to proportion.
+56. Disposition is the form whose function is to dispose.
+57. Creation, in eternity, is idea; in time, however, it is creature.
+58. Predestination, in God’s wisdom, is idea; in creation, how­
+ever, it is creature.32
+59. Mercy, in eternity, is idea; in something predestined, how­
+ever, it is creature.
+60. Necessity is the form that cannot be otherwise; but the ne­
+cessitated subject is the thing containing it.
+61. Fortune is accident inherent in a subject; but the fortunate
+person is one disposed toward it.33
+62. Order is the form whose function is to order; he who is
+ordered, on the other hand, is his own subject.
+63. Counsel refers to a proposition open to doubt, and the per­
+son counseled is where it comes to rest.
+27 Constitutum ex situ et habitu; cf. Forms 21-2 for the last two terms. To this definition
+of “figure,” the Ars generalis ultima adds, “With color a figure is a visual object, and with
+lines and angles, and without color, it is a tactile object; with all of these things it is an
+object of the imagination, which shows us that the imagination is a power superior to
+sense, and more general than sight.”
+28 For these pre-Cartesian coordinates, see Gentile, Bk. n, n. 6.
+29 The printed sources have “general” for “material.” The Ars generalis ultima adds, “like
+a stream from a spring, a line from points, a triangle from lines, a child from parents . . . ,
+a conclusion from its premises, a consequence from an antecedent, and knowledge from
+things [scientia a rebus] by means of the mind.”
+30 In the Ars generalis ultima Llull says that the transparency of a mirror differs from that
+of a pane of glass without lead, in that the latter is transparent on both sides, and he then
+goes on to explain the reflecting action of the lead.
+31 In the Introductorium magnae Artis generalis, Hundred Forms, no. 62, Llull adds that
+“there are four general colors, to wit, lightness [luciditas], transparency, whiteness, black­
+ness.”
+32 Cf. n. 23 above.
+33 Cf. Gentile, Bk. I, n. 40.
+
+PART X
+
+621
+
+64. Grace is a primary form, placed in the person receiving it
+without any merit on his part.
+65. Perfection is the form whose function it is to perfect in a
+perfect subject.
+66. Explanation is the form in which the intellect finds rest after
+making distinctions; the person enlightened is its subject, in whom
+the clarification is a condition.34
+67. Transubstantiation is the act of nature in what is transub­
+stantiated, which is stripped of its old form and clothed in a new
+one.
+68. Alteration is the form born in the thing altered.
+69. Infinity is that form having infinite activity and removed
+from anything finite.
+70. Deception is the positive state of the deceiver, and it is the
+privative state of the person deceived.
+71. Honor is an active state in the person honoring, but passive
+in the person being honored.
+72. Capacity is the form with which something is capable of
+containing and receiving as much as is allotted to it.35
+73. Existence is the form with which the thing existing is what
+it is. Agency is the form moving the thing existing to its terminal
+point.36
+74. Comprehension is the semblance of the infinite, apprehen­
+sion, of the finite.37
+75. Discovery is the form with which the intellect discovers the
+thing discovered.38
+34 “Clarification” is declaratio, and “the person enlightened” is declaratus in the original.
+35 Llull uses this word both in its physical sense (see the Liber degeometria nova, ed. Millas,
+p. 94) and in the metaphorical sense. The latter is illustrated by the definition in the Logica
+nova (Palma, 1744), p. 73, which ties this concept with the next one defined: “Capacity is
+the habit with which possibility is clothed so that the doer and the doable [agens et agibile]
+have the proper proportion and disposition in relation to one another.”
+36 Or as defined in the Introductorium magnae Artis generalis, Hundred Forms, no. 51:
+“Existence is the essence of the thing [enfis] which exists; agency is the being of the thing
+doing jest esse agendi], but doing [agere] is the act of existence, like heat heating or good
+doing good.” For “existence,” see also W. W. Artus, (n. 6 above), pp. 156-7.
+37 In scholastic terminology, “apprehension” was contrasted to the action of grasping
+something in its totality, which was “comprehension”; i.e., we can apprehend, not com­
+prehend, God. See Blaise, Lexicon, s.v. apprehensio.
+38 For a discussion of the concept of inventio (Cat. atrobament), see Ars demonstration, Dist.
+in, Mode 6 and the note there.
+
+622
+
+ARS BREVIS
+
+76. Semblance is the form with which the thing assimilating
+assimilates to itself the thing similar to it.39
+77. The antecedent is the form giving rise to the consequent;
+the consequent is the form in which the antecedent comes to rest.
+78. Power is the form with which the intellect apprehends the
+object. Object is the subject in which the intellect comes to rest.
+Act is the connection between power and object.40
+79. Generation, in creatures, is the form with which the agent
+brings about new forms. Corruption is the form with which the
+thing corrupting undoes old forms. Privation, moreover, exists
+between them, in the middle.41
+80. Theology is the science that speaks of God.
+81. Philosophy is the subject by means of which the intellect
+concentrates on all the sciences.42
+82. Geometry is an art devised for the measuring of lines, angles,
+and figures.43
+83. Astronomy is the art by which the astronomer knows the
+influences and movements that the heavens effectively exercise
+over inferior things.44
+39 See Felix, Bk. vin, ch. 85 and the note there for this concept so important to Llull.
+Johnston, Semblance, p. 46, quotes the corresponding definition from the Arsgeneralis ultima,
+as well as that from the Tree of Science, OE I, 581.
+411 This important trio, which we met fleetingly in the Ars demonstrativa (Dist. iv, n. 30),
+began its career as a fundamental paradigm for the correlatives in the Tree of Science of
+1295-6 (OE I, 576-7 and 602; cf. Gaya, Correlatives, p. 109) and even more definitively
+in the Liber de potentia, objecto et actu of the same year of 1296 (cf. Gaya, Correlativos, pp.
+121-4).
+41 For the Aristotelian “generation and corruption,” see: Gentile, Bk. I, n. 36; Felix, Bk.
+iv, ch. 20; and the Principles of Medicine, Dist. vi. Once again, it was in the Tree of Science
+(OE I, 601) that Llull turned this pair into a triplet by adding “privation,” for which see
+Gentile, Bk. I, n. 9.
+42 Forms 80-1 along with 91-2 formed the “four sciences” as Llull called them (see the
+following note for references), and on which earlier he had written the Quattuor Libri
+Principiorum (nos. II. A. 6-9 in the Catalogue of Works at the end of Vol. n here). In this
+definition, the Zetzner editions have “science” instead of this “subject.” The corresponding
+definition of the Ars generalis ultima is quoted and commented in Johnston, Semblance, pp.
+88-9.
+43 Forms 82-8 constituted the seven liberal arts, which, along with the four sciences of
+the previous note, Llull discusses in the following: Doctrina pueril, chs. 73-8; Tree ofScience,
+OE I, 630—3, 935—8; Brevis practica Tabulae generalis, MOG v, 319—35 = Int. iii, 19-35;
+and the Introductorium magnae Artis generalis, “Hundred Forms,” nos. 84, 87-96, 98, as well
+as the last chapter of the work. For Llull on the seven liberal arts, see also Colomer, Edad
+Media, pp. 44-55. The corresponding form of the Ars generalis ultima constitutes a mini­
+treatise on geometry. Llull also wrote two works on this subject: the Liber de geometria nova
+and the De quadratura et triangulatura circuli.
+44 Some mss have “astrology” for “astronomy.” In the printed texts of the Ars generalis
+
+PART X
+
+623
+
+84. Arithmetic is the art devised for the counting of many
+units.45
+85. Music is the art devised to arrange many voices so they may
+be concordant in a single song.46
+86. Rhetoric is the art with which the rhetorician adorns and
+colors his words.47
+87. Logic is the art with which the logician finds the natural
+connection between subject and predicate.48
+88. Grammar is the art of finding the correct way of speaking
+and writing.49
+89. Morality is the disposition toward doing good or evil.
+ultima, this sentence begins, “Astronomy is the art with which astrologers . . .’’It would
+be quite wrong to impose our modern separation of astrology and astronomy, as between
+superstition and science, on the Middle Ages, and even, for that matter, on the Renaissance.
+Most of the great minds, from Aquinas and Roger Bacon to Tycho Brahe and Kepler
+accepted the astrological world view inherited from classical times. On this subject Llull
+wrote a Tractatus novus de astronomia. For a discussion of his astronomical ideas, see M.
+Pereira, “Sulle opere scientifiche di Raimondo Lullo. I—La nuova astronomia,” Physis 15
+(1973), 40ff., and the same author’s “Ricerche intorno al Tractatus novus de astronomia di
+Raimondo Lullo,” Medioevo 2 (1976), 169-226, as well as the other references in Part ix,
+n. 6 above.
+45 The distinction between arithmetic as dealing with discrete numbers and geometry
+with the continuum was standard in the Middle Ages, and dated from the Greeks, who
+never quite recovered from the Pythagorean discovery that a real number such as V2 could
+be represented on a line (as the hypotenuse of a right triangle with unit legs) but could not
+be represented by a fraction (i.e., by a rational number).
+46 Possibly the only common medieval subject on which Llull wrote almost nothing was
+music; for the few passages where he does discuss it, see Caimari’s note in the ENC edition
+of Blaquerna, Vol. iv, 16-17.
+47 In addition to the works mentioned in n. 43 above, Llull discusses rhetoric in the Book
+of Contemplation, ch. 359, as well the Rhetorica nova of 1301. The latter work, previously
+analyzed by J. Rubio Balaguer in EL 3 (1959), 5-20, 263-74, and 5 (1961), 140, has now
+been edited and commented on at length in Johnston, Semblance.
+48 In the Ars generalis ultima Llull refers the reader back to his discussion of the middle
+term (cf. Part n, n. 3, and Part vn, n. 6 above) and to the five predicables (see n. 9 above)
+and the ten predicaments (see n. 14). He then compares logic to the Art, saying that the
+former deals with second intentions, the latter with first; the former is unstable and weak
+(instabilis scientia sive labilis) while the latter is enduring and firm (permanens et illabilis)', the
+logician arrives at a conclusion by using two premisses, the artist by mixing principles and
+rules. He ends by saying how much easier is the latter; in fact, “the artist can learn more
+about this Art in one month than the logician about logic in a whole year.” After the early
+versions of al-Ghazzali’s logic (see p. 20 above), Llull wrote in 1303 the Logica nova and
+the De modo applicandi novam logicam ad scientiam juris et medicinam. With the post-Art phase
+that begins in 1308 right after the writing of the Ars brevis, Llull’s preoccupation with logic
+becomes much more intense (works such as Liber de fallaciis novis, De conversione syllogismi
+opinativi in demonstrativum, etc.). For a discussion of Llull’s logic, see Johnston, Semblance,
+pp. 208-33.
+9 The corresponding section of the Ars generalis ultima ties in the different “modes” of
+grammar (the parts of speech, cases, conjugation, declension, gender, etc.) with the different
+parts of the Art. Cf. Pla I, 385-8 and Johnston, Semblance, pp. 174-5.
+
+624
+
+ARS BREVIS
+
+90. Politics is the art with which townspeople work for the
+public good of the city.50
+91. Law is the well-ordered act of a man possessing justice.51
+92. Medicine is the method with which the doctor looks after
+the health of the patient.52
+93. Government is the form with which a prince governs his
+people.53
+94. Chivalry is the disposition with which the knight helps the
+prince maintain justice.54
+95. Commerce is the disposition with which the merchant buys
+and sells.55
+96. Navigation is the art by which sailors know how to navigate
+in the sea.56
+97. Conscience is the form with which the intellect afflicts the
+soul for the wrongs it has committed?7
+98. Preaching is the form with which the preacher instructs
+people so they will have good conduct and avoid bad con­
+duct.58
+50 Note the urban setting of this definition, as opposed to the feudal one of “government”
+in Form 93 below.
+51 On the subject of law, Llull wrote the Principles of Law and the Ars juris during the
+quaternary phase of his production, the De modo applicandi (see n. 48 above) and the Ars
+juris naturalis (1304) during the ternary phase, and the Ars brevis juris civilis (1308) when
+that phase was ending and the last one beginning. For more references, see Ars demonstrativa,
+Dist. iv, n. 166.
+52 For Llull’s writings on this subject, see the introduction to the Principles of Medicine
+below.
+53 See Felix, Bk. vni, ch. Ill for a discussion of this topic.
+54 Llull often includes chivalry, along with the next two concepts, among the “mechanical
+arts,” for which see Felix, Bk. vin, n. 252. In addition to the references there, he also
+discusses chivalry and commerce in the Proverbs of Ramon, chs. 275 and 280, as well as the
+Lectura super Artem inventivam et Tabulam generalem, MOG v, 709, 711 = Int. v, 351, 353,
+and to the former topic he devoted the Book of the Order of Chivalry. For a more critical
+view of knighthood, see the Book of Contemplation, ch. 112 (cf. Hillgarth, Kingdoms I, 60),
+and the Tree of Science, OE I, 903, (also p. 630).
+55 The Ars generalis ultima adds, “in order to increase his wealth.” See the previous note
+for references.
+56 The equivalent section of the Ars generalis ultima constitutes a minitreatise on navi­
+gation, complete with a diagram (more elaborate in the Palma, 1645, edition; simplified
+in the Zetzner editions) and hypothetical problems with their solutions. See J. Sureda
+Blanes, Ramon Llull i I’origen de la cartografa mallorquina (Barcelona, 1969), pp. 32ff., for a
+good discussion of Llull’s nautical knowledge in its medieval setting.
+57 Cf. Felix, Bk. vra, ch. 102.
+58 Cf. Ars demonstrativa, Dist. hi, Mode 8.
+
+PART X
+
+625
+
+99. Prayer is the form with which the person praying speaks to
+God in a holy way.59
+100. Memory is that thing with which things can be recalled.60
+59 Cf. Felix, Bk. vin, ch. 105.
+611 The peculiar repetition of “thing” (e«s) is in the original. In the Ars generalis ultima
+memory is derived by means of the principles and rules, constituting another (five page)
+minitreatise, a treatment similar to that in the Tree of Science, OE I, 617-19, and in the
+Arbre de filosofia desiderat, ORL xvn, 449-54 (cf. the definition on p. 413). He also wrote
+a Liber de memoria in 1304, the Liber ad memoriam confirmandum in 1308 and the brief Liber
+de memoria Dei in 1314. Cf. F. A. Yates, The Art of Memory (London, 1966), ch. 8, and
+Rossi, “The Legacy,” pp. 197ff.
+
+PART XI, WHICH TREATS
+OF QUESTIONS
+This part is divided into twelve parts or headings, arranged and
+distributed according to the varying subject matter of the ques­
+tions. For the solution to one question is indicated in one part or
+under one heading, and the solution to another under another.
+Because of this we will apply the questions in different ways to
+the aforesaid parts.
+And this we will do in two ways, that is to say, we will solve
+some of the questions we propose and others not. These last we
+leave for the discerning artist, so that he may extract their solutions
+from those parts or headings to which we refer said questions, in
+which parts, or under which headings, he will find the solutions
+indicated.
+For the sake of brevity we will here pose and solve few ques­
+tions, for this Art is an extract from the Ars magna, treating it
+more briefly so that the intellect may grasp many things in few
+words. In this way the intellect is made more universal and, by
+means of the solutions to the questions posed and given here, is
+enabled to solve other questions, each in its own way.
+The headings or parts to which we refer the questions are, as
+we said above, twelve.1 They are, respectively: (1) the First Figure,
+(2) the Second Figure, (3) the Third Figure, (4) the Fourth Figure,
+(5) the Definitions, (6) the Rules, (7) the Table, (8) the Evacuation
+of the Third Figure, (9) the Multiplication of the Fourth Figure,
+(10) the Mixture of Principles and Rules, (11) the Nine Subjects,
+(12) the Hundred Forms.
+And first we will discuss the first part or heading.
+
+1. QUESTIONS RELATING TO THE FIRST
+FIGURE
+1. Question: Whether there exists any being in which subject and
+predicate are converted into an identity of essence, nature, and
+1 Cf. Part x, par. 3 above. The corresponding part of the Ars generalis ultima only gives
+six, omitting the first six in the following list and starting directly with the Table. This
+seems to be the only place where the Ars brevis is in fact more complete.
+
+PART XI
+
+627
+
+number throughout the entire First Figure. The answer is yes, for
+otherwise the conversion of subject and predicate, as well as their
+equality, would be destroyed absolutely, and eternity would be
+superior through infinity of duration, while its goodness, great­
+ness, power would be inferior through finiteness, which is im­
+possible.
+2. Question: What is that being in whom subject and predicate
+convert? To which one must answer: God is that being, for such
+a conversion cannot exist except in an infinite and eternal subject.2
+3. Question: Whether divine goodness has in itself as great bon­
+ification as the divine intellect has intellection.
+4. Question: Why is the agency God has in Himself as great as
+His existence?
+5. Question: From what does God derive power equal to His
+being?3
+6. Question: Why do man and animal not convert? To which
+one must reply: Because conversion cannot be carried out between
+greater and lesser, but only between equal things.
+7. Question: Whether an angel’s power, intellect, and will con­
+vert. To which one must reply: No, or otherwise it could have
+an act as infinite and eternal as God’s.
+
+2. QUESTIONS RELATING TO THE
+SECOND FIGURE
+Questions relating to the Second Figure can be formulated in
+three ways, like a man and a lion, who through difference differ
+in species, through concordance accord in genus, and through
+contrariety are contrary to each other, that is, through what is
+corruptible and incorruptible. And so on for the other questions,
+each in its own way.
+1. Question: Whether difference is more general than concord­
+ance and contrariety. To which one must answer that it is, since
+whenever there is concordance and contrariety, there is difference;
+but the converse is not true in all things. For in many things one
+2 For the convertibility of the dignities as a definition of God, see Colomer, Edad Media,
+p. 88.
+3 The answer in the Ars generalis ultima, Part ix, sect. 1, cap. 6, art. 2, is “from Himself
+in Himself.”
+
+628
+
+ARS BREVIS
+
+can find difference and concordance, without their naturally contraining any contariety, as with spiritual things.
+2. Question: Which is the greater principle, concordance or con­
+trariety? The answer is concordance, for from concordance pos­
+itive principles are derived, whereas those that derive from con­
+trariety are privative.
+3. Question: Whether a definition such as, Man is a manifying
+animal, or, Man is that being whose function is to manify, is more
+ostensive than the following one: Man is a rational, mortal animal.
+And one must reply that it is. The reason for this is that manification is something only proper to man, whereas rationality and
+mortality are proper to many things.4
+By means of the triangle of beginning, middle, and end one can
+formulate questions in three ways. The first is when one asks:
+4. Why is there one first cause and not several? To which one
+must reply: For the reason that there must exist one end which is
+infinite.
+The second way is when one asks:
+5. Whether the middle existing between subject and predicate
+is of a continuous or discrete quantity. And one must reply that
+it is of a continuous quantity with respect to the middle between
+extremes, while it is discrete with respect to the middle of con­
+junction and that of measurement.
+The third way is when one asks:
+6. What is the final end in a subject? And one must answer that
+it is its own proper end, and not an appropriated one.
+By means of the triangle of majority, equality, and minority
+one can formulate questions in three ways. By means of majority
+one can ask:
+7. Why is God above angels, and angels above man? To which
+one must reply that God is above angels because divine goodness,
+greatness, etc., are far from quantity as a result of infinity, and
+far from time as a result of eternity, whereas an angel’s goodness,
+greatness, etc. are not. But the latter are above man’s goodness,
+greatness, etc., since the subject in which they exist is far from
+4 For this definition, see Part ix, subj. 4 above; the same definition is defended in the
+Logica nova (Palma, 1744), p. 10. For another defense of this definitional doctrine, see ch.
+6, Question 2 below; see also Part hi, n. 1 above. For the correlative and structural nature
+of these definitions, see Gaya, Correlativos, pp. 191, 218.
+
+PART XI
+
+629
+
+division and succession,5 whereas the goodness, greatness, etc. of
+a man’s body are not.
+The second way is when one asks:
+8. Why in the soul are the intellect, will, and memory essentially
+equal? To which one must answer: because the first cause, through
+the equality of its goodness, greatness, etc. is equally intelligible,
+memorable, and lovable. And as a result of this, the intellect re­
+alizes that a demonstration can be made in three ways: by cause,
+by effect, or by equivalence.6
+The third way is when one asks:
+9. Why is sin closer to nothingness than to anything else? And
+one must state that this is because it is most incompatible with
+the purpose of being.
+10. Question: Whether the difference between sensual and sensual
+is greater than that between sensual and intellectual, and than that
+between intellectual and intellectual.
+i i. Furthermore, whether the difference between beginning and
+middle is greater than that between middle and end.
+12. Similarly one can ask about the difference between substance
+and substance, etc. And one must reply by means of those things
+signified in the above-mentioned triangles, and this subjectively
+and objectively using the Rule of B.
+
+3. QUESTIONS RELATING TO THE THIRD
+FIGURE
+It was said in the Third Figure that each principle can be applied
+to the other. And thus one may ask:
+1. Whether contrariety is as applicable to goodness, greatness,
+etc. as is concordance. To which one must reply that it is not, for
+contrariety is applied to them by depriving and opposing, whereas
+concordance is applied by affirming and according.
+In the Third Figure it is stated that goodness is great. And there­
+fore one can ask:
+2. What is great goodness? And one must reply that great good­
+ness is that goodness which, without contrariety and minority,
+accords with all the principles and their correlatives.
+5 Many of the sources, both manuscript and printed, have susceptione (“receiving, ac­
+cepting”?) instead of succession.
+6 For these three methods of proof, see Ars demonstrative!, Prologue and nn. 6, 8 there.
+
+630
+
+ARS BREVIS
+
+3. Question: Where is goodness? Turn to the compartment of B
+I and extract its meanings.7
+4. Question: What does goodness consist of?
+5. Question: How is goodness? Turn to the compartments of B
+D and B K and extract their meanings. And so on for others.
+6. Another question: When is the intellect universal, and when is
+it particular?
+
+4. QUESTIONS RELATING TO THE
+FOURTH FIGURE
+1. By the compartment of B C D one can ask: Whether any
+goodness is as infinitely great as eternity. To which one must
+answer yes; otherwise all the greatness of eternity would not be
+good.
+2. By the compartment of B E F one can ask: Whether God is
+as powerful through His goodness as through His intellect. Turn
+to that compartment and take from it the things it signifies along
+with their correlatives and definitions.
+3. Question: Whether an angel, since it is superior, begets an
+angel, just as man, who is inferior, begets man. One must answer
+that it does not, for an angel does not receive any addition to itself
+from the outside, since that would empty it of its essence; man,
+however, does, by reason of his body.
+
+5. QUESTIONS RELATING TO THE
+DEFINITIONS OF PRINCIPLES
+1. Question: Whether God is a necessary being.
+2. Question: Whether unity can be infinite without an infinite
+act.
+3. Question: Whether there exists a single God.
+4. Question: Whether God can be evil. Turn to the definitions
+of goodness, greatness, and eternity, and keep in mind what they
+7 As Marfal (see Introduction, n. 40 above) points out in his scholium on this passage,
+the compartment of B I referred to is explained in the Ars generalis ultima, Part vi, where
+Llull says that it exists in itself, in its own good and true concrete things. The compartments
+of B D and B K in Question 5 below should also be sought out in the same Part vi of the
+Ars generalis ultima.
+
+PART XI
+
+631
+
+signify. For if goodness is great and eternal, then it is necessary
+that goodness be the reason, with respect to what is good, great,
+and eternal, for producing something good, great, and eternal.
+And similarly for other questions that can be asked in relation to
+the definitions of principles.
+
+6. QUESTIONS RELATING TO THE RULES
+1. Question: Whether believing precedes understanding.
+2. Question: Which definition is better and clearer, the one given
+in terms of a power and its specific act, or the one given by genus
+and difference? To which one must reply, the one given in terms
+of a power and its specific act, for by means of such a definition
+a person can have cognition of the subject and its specific act;
+whereas by means of the other one cannot, but only of its parts.8
+3. Question: Whether power acts outside its essence.9
+4. Question: Whether the intellect is active in memory and pas­
+sive in will.
+5. Whether the intellect can apprehend an object without the
+senses.
+6. Whether God’s power can have infinite action.
+7. Whether an act can exist without difference.
+8. Whether the act belongs to the power or to the object, or to
+both.
+9. Whether substance can exist by itself without its causes.
+10. Whether the will has, in the intellect, the ability to believe,
+as well as the intellect to understand in the will.
+11. Whether will and memory are equal in the soul.10
+12. Whether the intellect without its correlatives can be either
+universal or particular.
+13. Whether the intellect, when it acquires knowledge, does so
+by means of property and difference.
+14. Whether the intellect disposes a person to love and remem­
+ber, and conversely.
+8 Another defense of Llull’s definitional doctrine; cf. n. 4 above.
+9 Almost all these questions are answered in Marfal’s scholia. This one here is answered
+directly—negatively—in the Liber correlativorum innatorum, ROL vi, 133, line 127.
+10 Many of the mss have “unequal” instead of “equal.”
+
+632
+
+ARS BREVIS
+
+15. Whether the intellect can, at one and the same time, believe
+and understand.
+16. Whether the intellect can acquire knowledge by itself.
+17. Question: How does the intellect establish a species?
+18. Whether the intellect, through its species, causes the will
+and memory to be objects with respect to that species.
+And just as we have applied the questions having to do with
+the rules to the intellect, so can they be applied to the other powers,
+each in its own way.
+
+7. QUESTIONS RELATING TO THE
+TABLE11
+1. Question: Whether the world is eternal. Go to the column B
+C D and maintain the negative. In the compartment of B C T B
+you will find that if it is eternal there are many eternities, differing
+in kind, and they are concordant by the compartment B C T C
+against the compartment B C T D, which is impossible. It there­
+fore follows that one must maintain the negative answer to the
+question, and this is proved by the Rule of B.12
+2. Question: Whether God can be as infinite by His greatness as
+by His eternity. Turn to the column of C D E and to the com­
+partment of C D T C, maintaining the affirmative against the
+compartment of C D T D.
+3. Whether God can do as much through His eternity as through
+His intellect. Turn to the column of D E F and to the compartment
+of D E T D.
+4. Whether God is as powerful through His power as through
+His understanding and loving. Turn to the column of E F G and
+maintain the affirmative by means of the compartments of E F T
+E, E F T F, E F T G, etc. until the entire column is used up.
+5. Whether, in God, His intellect and His will are greater than
+His virtue. Go to column F G H and maintain the negative
+11 Here the text of the Ars generalis ultima (see n. 1 above) reconnects with that of the
+Ars brevis. Notice that here we have one question for each of the seven columns of the
+Table.
+2 For a detailed explanation of the solution to this question, one making use of the same
+three compartments, see Ars generalis ultima, the “Quaestio unica” at the end of Part v. For
+the problem of the eternity of the world, see Gentile, Bk. n, n. 14.
+
+PART XI
+
+633
+
+throughout all the compartments of said column, extracting the
+meanings of those compartments.
+6. Whether divine truth is as virtuous through equal correlatives
+as is divine will. Go to column G H I and maintain the affirmative
+throughout all the compartments of said column.
+7. Whether, in God, His virtue, truth, and glory have the where­
+withal to be equal, and to be remote from time, place, and mi­
+nority. Go to column H I K and maintain the affirmative through­
+out all the compartments of said column.
+
+8. QUESTIONS RELATING TO THE
+EVACUATION OF THE THIRD FIGURE
+In compartment B C it was said that goodness is great. Now
+we ask:
+1. Whether goodness is great, and
+2. What is its greatness? and
+3. In what do goodness and greatness accord? and
+4. Whether they can accord without any difference.
+To all this one must reply, that goodness is great, as is clear
+from the definition of greatness, and its greatness resides in its
+possessing its correlatives, as is clear from the Second Species of
+Rule C. And they accord because goodness is great through great­
+ness, and conversely. But it is impossible for them to accord with­
+out the difference of their correlatives.
+And this, for the sake of brevity, is enough about the Evacuation
+of the Third Figure. For from what we have said about it, the
+artist can formulate and solve questions using the other com­
+partments.
+
+9. QUESTIONS RELATING TO THE
+MULTIPLICATION OF THE FOURTH
+FIGURE
+1. Question: How can the intellect be conditioned to being gen­
+eral for the sake of general understanding? Turn to the Multipli­
+cation of the Fourth Figure and see how the intellect multiplies
+conditions, thereby multiplying objects as well as its own under-
+
+634
+
+ARS BREVIS
+
+standing, so that it will be general and clothed in many different
+ways for the sake of much and great scientific knowledge.
+And this, in the interest of brevity, is enough about the Mul­
+tiplication of the Fourth Figure.
+
+10. QUESTIONS RELATING TO THE
+MIXTURE OF PRINCIPLES AND RULES
+1. Question: Whether goodness can be investigated by means of
+greatness, duration, etc., and conversely. To which one must reply
+yes, by making the subject into predicate, as was shown by the
+Third Figure.
+2. Question: What is goodness in greatness, duration, etc.? To
+which one must reply that in greatness it is great and in duration
+enduring.
+3. Question: What does goodness have in greatness, duration,
+etc.? To which one must say that it has its correlatives which are
+great in greatness, and enduring in duration. And what we have
+said about goodness applies equally well to the other principles,
+each in its own way.
+And this, for the sake of brevity, is enough about Mixture.
+
+11. QUESTIONS RELATING TO THE NINE
+SUBJECTS
+
+11/1. Questions Relating to the First Subject, Which
+is God
+1. Question: Whether God exists. The answer is yes, as was
+proved in the Questions relating to the First Figure.
+2. Question: What is God? To which one must reply that God
+is that being whose intrinsic activity is as great as His existence.
+3. By the Second Species of Rule C one asks, What does God
+possess coessentially in Himself? To which one must reply that
+He possesses His correlatives, without which He could not possess
+immeasurable and eternal dignities.13
+13 The printed sources have “essentially” for the “coessentially” in the question. For
+“dignities,” the originals have rationes (Cat. rahons); cf. Part ix, n. 3 above.
+
+PART XI
+
+635
+
+4. By the Third Species one asks, What is God in something
+else? To which one must reply that He is creator, governor, and
+so on.
+5. By the Fourth Species one asks, What does God have in
+another thing? To which one must say that in the world He has
+power and dominion, and in men judgment, as well as the acts
+of grace, mercy, humility, patience, and pity.14
+And this, for the sake of brevity, is enough about God.
+
+11/2. Questions Relating to the Second Subject,
+Which Is Angel
+1. Question: Whether angels exist. The answer is yes, for if that
+which seems to be less similar to God exists, then all the more so
+will that which seems to be more similar to God exist.
+Moreover, if something composed of body and intellect exists,
+all the more so will something composed of intellect and intellect
+exist.
+Furthermore, if angels did not exist, the ladder of difference and
+concordance would be empty, and therefore the world too, which
+is impossible.
+2. Question: What is an angel composed of, and whose is it? To
+which one must reply, by Rule D, that it is composed of itself,
+for its essence cannot be made up of points and lines. By the
+Second Species of the same rule, it is composed of its spiritual
+correlatives, that is to say, of its -tives, -ibles and infinitives.15 By
+means of its -tives it is active, by its -ibles it is receptive, and the
+infinitive is the act existing between the -tives and -ibles. By the
+Third Species one must reply that an angel is God’s.
+And this, for the sake of brevity, is enough about angels.
+
+11/3. Questions Relating to the Third Subject, Which
+Is Heaven
+1. Whether heaven moves itself. The answer is yes, in order for
+its principles to have their own substantial correlatives by means
+of its constellations.
+14 The Zetzner editions have, “To which one must say that in another thing He has
+power and dominion, and in all things judgment as well as the act of grace, mercy, patience,
+and pity.
+15 De suis -tivis et -bilibus et -are-, cf. Part iv, n. 4 above, and the “Life,” n. 128.
+
+636
+
+ARS BREVIS
+
+2. Whether heaven moves in any direction. The answer is yes,
+in a circular direction in itself and with respect to the things beneath
+it, but not outside itself. The reason for this is that there is no
+action it has or can have outside itself.16
+3. Whether an angel moves the heavens. The answer is no, be­
+cause if it did then the -tives of its correlatives would be inferior
+and its -ibles superior, and thus it would not move the elements
+or elemented things by means of its form, but by means of its
+matter, which is impossible.
+4. Question: Whether heaven has a motive soul. The answer is
+yes, for otherwise the sensitive and vegetative powers would not
+have motive souls, and the elements would have no motion.
+5. One asks by the First Species of Rule E, Why does heaven
+exist? To which one must say, because it is made up of its own
+form and matter.
+6. By the Second Species of Rule E one asks, Why does heaven
+exist? To which one must say, in order for things below it to have
+motion.
+And this, for the sake of brevity, is enough about heaven.
+
+11/4. Questions Relating to the Fourth Subject,
+Which Is Man
+1. Question: Whether a man can have greater knowledge of God
+by affirming or denying. The answer is, by affirming, for God
+does not exist by means of those things without which He exists,
+but by means of those things without which He cannot exist.
+2. Question: Why does man act by means of a specific form?
+Turn to the Second Species of Rule E, where the solution is im­
+plied.
+3. Whether a man, by increasing his acts, increases his essence.
+To which one must reply that no man can act upon himself.
+4. Question: When a man wants to remember and cannot, which
+is more deficient, his memory or intellect? The answer is his mem­
+ory, for it naturally restores former species sooner to the intellect
+than to the will.
+16 As Marfal points out, Llull does not mean to deny the influence heaven exercises on
+things here below, but rather that it cannot send any part of itself outside its own sphere.
+
+PART XI
+
+637
+
+5. Question: In what way do body and soul constitute a man?
+The answer is that in man bodily and spiritual goodness make up
+a single goodness, and so on for the others.
+6. Question: What is the life of man? To which one must reply
+that it is that form which is composed of the vegetative, sensitive,
+imaginative, and rational powers.
+7. What is the death of man? The answer is the dissolution of
+the elementative, vegetative, sensitive, imaginative, and rational
+powers.
+8. Question: Whether man is visible. The answer is no, for sight
+can only see colors and figures.17
+9. Question: Whether in man intellect and memory are one and
+the same power. The answer is no, for if they were, the intellect
+would not be successive in its acquisition of species, nor would it
+be able to forget them. Also, it would be too strong against free
+will in an object.
+And this is enough concerning man.
+
+11/5. Questions Relating to the Fifth Subject, Which
+Is the Imaginative Faculty18
+1. Question: Whether the imaginative faculty imagines imagi­
+nable things in the same way that the sensitive faculty senses sen­
+sible things.
+2. Question: Why is it that the imaginative faculty abstracts spe­
+cies from sensible things?19
+3. Question: What is the imaginative faculty?
+4. Whether the imaginative faculty has correlatives.
+5. Whether the imaginative faculty increases by increasing its
+activity.
+6. Whether the imaginative is a higher power than the sensitive.
+17 The explanation of this seemingly mysterious question and answer can be found in
+the corresponding part of the Ars generalis ultima, where Llull says, “Whether man is sen­
+sible. The answer is no, for accidents are sensible, whereas the substance not at all—it is
+however intelligible.”
+18 See the corresponding Subject 5 of Part ix above (as well as the section corresponding
+to that in the Ars generalis ultima) for answers to the questions of this section.
+19 Here Marfal quotes the Ars generalis ultima, Part ix, sect. 5, cap. 1: “if imagination
+did not exist, there would be no knowledge of past things, nor would animals know how
+to return to a spring, and so on.”
+
+638
+
+ARS BREVIS
+
+7. Whether the imaginative has a specific instinct and appetite.
+8. In what way does the sensitive impede the activity of the
+imaginative?
+9. Why is the imaginative not as strong in sensed things as the
+sensitive? Turn to the subject of the imaginative faculty.
+10. Question: Whether the sensitive senses the imaginative. To
+which one must answer that the inferior powers do not act on the
+superior ones.
+
+11/6. Questions Relating to the Sixth Subject, Which
+Is the Sensitive Faculty
+1. Question: Which of the following powers feels hunger and
+thirst—that of taste or touch? To which one must reply, the one
+most related to the object.
+2. Whether taste uses instinct and appetite to perceive hunger
+or thirst, in the same way that sight uses color to perceive a colored
+object. Turn to the Second Species of Rule E.20
+3. Question: With what does the sensitive faculty sense the things
+it senses? To this one must answer that each individual sense senses
+its sensible thing by means of its specific form, just as a colored
+subject which lies beneath a crystal colors that crystal.
+4. Whether the sensitive power has quantity in terms of points
+and lines. To which one must answer that the sensitive power
+attains its object as readily from far as from near.
+5. Whether the sensitive faculty, in the same way that it has a
+common sense, also has a common power, instinct, and appetite.
+6. What is the sensitive faculty?
+7. Through what things is the sensitive faculty common and
+particular?
+8. From what does the sensitive faculty live and what nourishes
+it?
+9. Whether the sensitive faculty is sensed. Look under the sub­
+ject of the sensitive faculty.
+20 Some of the mss and all the printed sources consulted have “Rule C,” which is surely
+wrong. Cf. Ars generalis ultima (Palma, 1645), p. 248, par. 29; note that if it were Rule C,
+then it would have to be the third and not the second species (loc. cit., par. 23).
+
+PART XI
+
+639
+
+11/7. Questions Relating to the Seventh Subject,
+Which Is the Vegetative
+1. Whether the vegetative acts by means of its own species.21
+2. If there is any reason by which the vegetative is common and
+particular, like the sensitive faculty.
+3. Whether the quantity of the vegetative is expressible in terms
+of points and lines.
+4. Question: What is the vegetative and what does it possess in
+itself, according to the Second Species of Rule C?22
+5. Question: From what does the vegetative live, gain its nour­
+ishment, and grow, and in what subject is it planted?
+6. What constitutes the death of the vegetative? Turn to the
+subject of the vegetative, in which the solutions to the above ques­
+tions are implied.
+
+11/#. Questions Relating to the Eighth Subject,
+Which Is the Elementative
+1. What is the elementative?
+2. Whether the elementative, like the sensitive, has many spe­
+cies.
+3. Whether the elementative has its correlatives.
+4. Whether the candle’s flame elementates the wick of the lamp
+when it lights it.23
+5. Whether the candle’s flame lights the wick by means of air
+just as sight sees a colored object by means of light.
+6. Whether the elementative is the special cause of length,
+breadth, depth, and fullness.
+7. Whether the elementative is the common species of the ele­
+ments.
+21 Marfal adds, “The answer is yes,” after Questions 1 and 3, which the two eighteenthcentury Majorcan editions copied as if these replies were part of Llull’s text.
+22 The “D” of the last three Zetzner editions is clearly a mistake.
+23 That is, impregnates the wick with an element (cf. OED, s.v. elementate), in this case,
+of course, fire. Marfal points out that both this and the next question should be answered
+in the affirmative. For similar questions concerning one candle lighting another, see the
+passages corresponding to Felix, Bk. iv, ch. 20, n. 14, and Ars demonstrativa, Dist. iv, n.
+160.
+
+640
+
+ARS BREVIS
+
+8. Whether the elementative can exist in a subject when the
+elements themselves are removed from it.
+9. Whether the elementative can be the source of points, lines,
+and figures.24
+10. Whether the elementative impels itself as naturally with its
+instinct and appetite, lightness, heaviness, heat and so on, as man
+does artificially with his feet.
+11. Whether the elementative can have a nature without sub­
+stantial correlatives.
+12. Whether the elements exist in act in elemented things.
+13. Whether the elementative is continuous in quantity every­
+where in the sublunary world.
+14. Whether there exist two heats, two drynesses, two white­
+nesses, and so on. Turn back to the Subject of Elementative, and
+extract from it the solutions,25 with the intellect conditioned and
+fashioned by this Art.
+15. Whether there exists a fifth element. The answer is no, for
+in elemented things four complexions suffice.
+
+11/9. Questions Relating to the Ninth Subject, Which
+Is the Instrumentative
+Since above we have already formulated questions concerning
+natural instrumentality, we will here formulate those concerning
+morality.
+1. Question: What is morality?
+2. Question: What is justice, prudence, etc.?
+3. Another question: What is avarice, gluttony, etc.? Turn back
+to the Ninth Subject of Instrumentative, and do what that treatise
+indicates.
+4. Yet another question: Whether justice is good. The answer is
+yes; for if it were not, injustice would not be evil.
+5. A farther question: Whether justice has correlatives. The an­
+swer is yes; for if not, there could exist no just condition, nor any
+things in which it could be sustained and situated.
+24 Instead of the Jons, “source,” of the printed sources and many mss, many other mss
+have finis, “end, purpose.”
+25 With this plural, Llull is presumably referring not only to this question, but also to
+the previous thirteen of this section.
+
+PART XI
+
+641
+
+Following these examples, one can formulate questions relating
+to justice by means of all its principles and rules. And what we
+have said about justice can be applied to the other virtuous con­
+ditions.
+6. Whether the vices are simply privative principles. The answer
+is yes, for they have no concordance with the virtues. In the vir­
+tues, for their part, the doer, the doable, and the instruments are
+in accord in the virtuous object.
+And this, for the sake of brevity, is enough about moral matters,
+especially since in the Ars magna we have dealt with them at
+length.26
+
+12. QUESTIONS RELATING TO THE
+HUNDRED FORMS
+Questions relating to the Hundred Forms can be formulated in
+as many ways as each form is different in accordance with the
+Nine Subjects, like “entity,” for instance, which is one form in
+God, another in angel, yet another in heaven, etc., as when one
+asks:
+1. Whether God’s entity is the origin of all other entities. The
+answer is yes, because His goodness is the origin of all goodnesses,
+His greatness of all greatnesses, His eternity of all durations, etc.
+The same, however, cannot be said of an angel’s entity, that of
+heaven, etc. And thus a form, according to how it is different
+from others, must be examined by means of its own principles
+and rules.
+2. Question: Whether essence and being are convertible. To
+which one must answer that in God they convert with one another,
+for in God nothing is superior or inferior. In angels, heaven, etc.,
+however, they do not convert, since being exists in them through
+essence, and not conversely, and therefore in such things essence
+is superior and being inferior.
+Questions can be formulated in one way concerning God’s
+unity, and in another concerning an angel’s unity, in another con­
+cerning the unity of heaven, etc., as when one asks:
+26 There Llull gives two sets of questions (per prittcipia and per regulas) for each vice and
+each virtue.
+
+642
+
+ARS BREVIS
+
+3. Whether it is the function of God’s unity to unite the infinite.
+The answer is yes, for if that unity did not unite the infinite, then
+it could not itself be infinite, because its power would be finite
+and constrained, and it would be idle in eternity, and the same
+could then be said of divine goodness, greatness, etc., which is
+impossible.
+4. If, however, one asks about an angel’s unity, whether its
+function is to unite, the answer must be in accordance with the
+conditions of its unity. That is to say that an angel can, in a moral,
+objective way of speaking, be united to another in a single loving,
+a single understanding, and a single bonifying."7 I do not say,
+however, that an angel can become one with another angel, since
+it cannot, as has already been explained. Nor can heaven become
+one with another heaven. The unity of heaven, however, is the
+effective cause of inferior unities. But the unity of man is not like
+this, for one person can join another to produce a third. And
+similarly with other things, each in its own way.
+5. Whether there is plurality in God. To which one should an­
+swer yes, with respect to His correlatives as exemplified in the
+Second Species of rule C, without which He could not have in
+Himself an infinite and eternal operation bonifying, magnifying,
+eternalizing, etc., as a result of which His dignities would be con­
+strained and idle, which is impossible. The plurality of an angel,
+however, is not like this, for an angel is composed of -tive and
+-ible with respect to God’s simplicity. And likewise heaven is more
+composite than an angel, and man more than heaven.
+6. Question; Whether in God there is a nature. To which one
+must answer yes, so that He may have natural remembering, un­
+derstanding, and loving, as well as natural goodness, greatness,
+etc.; also so that these very dignities may be natural to Him in
+order for him to produce infinite and eternal good for the purpose
+of naturizing. An angel’s nature, however, is not like this, for it
+is finite and newly created. It does, however, have the function
+of naturizing, since it has innate and natural species with which it
+objectively and naturally objectifies. And thus one can also speak
+of the nature of heaven in its own way, as well as according to
+27 Instead of bonificare, the Zetzner editions have homificare, “manifying”. The previous
+“moral . . . way of speaking” (tnoraliter) should probably be taken in the sense of “fig­
+urative,” or even “spiritual” (vs. “physical”).
+
+PART XI
+
+643
+
+its principles and its natural and specific rules, with which it nat­
+urally and specifically acts. And similarly one can discuss the other
+subjects, each in its own way.
+From what we have said above, the artist can formulate ques­
+tions concerning the Hundred Forms and solve them in accordance
+with how the questions are variously treated and derived by means
+of the Nine Subjects which differ from one another, by observing
+for each Form the definition of it we gave above. And thus the
+intellect learns in what way it can be most general in formulating
+many questions and solving them by the method indicated in the
+Evacuation of the Third Figure and in the Multiplication of the
+Fourth Figure. As a result, who could possibly enumerate all the
+questions and solutions that could be thus formulated?
+And this, for the sake of brevity, is enough about questions
+relating to the Hundred Forms.
+
+PART XII, WHICH TREATS
+OF HABITUATION'
+This
+
+part deals with habituation to the Art, and it is divided into
+
+three parts, the first of which is itself divided into thirteen parts
+corresponding to the thirteen divisions of the Art. And the artist
+of this Art should become familiar with them, so that he may
+know how to apply a question to that place or those places which
+are related to the question, in accordance with how analogous they
+are to the matter of the question.
+The second part states that he should become familiar with the
+method and procedure of the text of this Art, keeping to the
+method of the text for proving and solving other questions, that
+is, using the method by which they are presented in the text, just
+as one example can be used to exemplify and explain another.
+The third part states that he should become familiar with the
+method for multiplying questions and solutions towards one and
+the same conclusion, as is indicated in the Third and Fourth Figures
+and in the Table.
+And this, for reasons of brevity, is enough about habituation.
+1 Artus, Ars Brevis, pp. 113 and 309, translates this word as “(learning and) mastering
+the Art.” I have kept the English homonym to tie it in with “habit” (Part x, “Hundred
+Forms,” no. 21), although I have sometimes used “become familiar with” in the text itself.
+
+PART XIII, WHICH TREATS
+OF THE METHOD FOR
+TEACHING THIS ART
+This
+
+part is divided into four parts.
+
+The first part states that the artist should know the Alphabet
+by heart, as well as the figures, definitions, and rules, along with
+the arrangement of the Table.
+The second part states that he should explain the text well to
+his students, by rational means, and not bind himself by the au­
+thority of others. And the students should read through the text,
+and if they have any doubts, they should ask the artist or teacher
+about them.
+The third part states that the teacher or artist should formulate
+questions in front of the students and solve them rationally, ac­
+cording to the method of the Art. For without reason the artist
+cannot make proper use of the Art. And it should be understood
+that the Art has three friends, which are subtlety of intellect, rea­
+son, and good intentions,1 without which no one can learn this
+Art.
+The fourth part states that the artist should put questions to the
+students, so they may answer them; and he should have them
+multiply their arguments toward one and the same conclusion.
+Moreover, they should find2 the places by reason of which they
+will know how to answer and multiply. If, however, the students
+do not know how to answer, multiply reasons, or to find the right
+places, then the artist or teacher should teach them the abovementioned things.
+1 Le Myesier quotes this phrase twice in the Electorium (see Hillg, p. 399, n. 6).
+2 For this use of invenire (Cat. atrobar) see Ars demonstrative^ Dist. hi, n. 16.
+
+EPILOGUE
+THE END OF THIS ART
+To the honor and praise of God and for the public good Ray­
+mond finished this book in the monastery of Saint Dominic1 of
+Pisa in the month of January of the year 1307 of the Incarnation
+of our Lord Jesus Christ.2 Amen.
+1 The oldest mss of works written by Llull at Pisa in 1307-8 refer to the (Cistercian)
+monastery of San Donnino, for which “Saint Dominic” might well be an error (a lectio
+facilior') introduced by a few later scribes and copied by the rest. Cf. Hillg, p. 99 and n.
+204; for a contrary opinion see M. Batllori in OE I, 52, n. 153.
+2 January 1308 by our reckoning.
+
+
