@@ -1,14 +1,14 @@
 package main
 
-type Strategy int
+type strategy int
 
 const (
-	Mean Strategy = iota
+	Mean strategy = iota
 	Median
 	Mode
 )
 
-func (s Strategy) String() string {
+func (s strategy) String() string {
 	switch s {
 	case Mean:
 		return "mean"
@@ -20,7 +20,7 @@ func (s Strategy) String() string {
 	return "unknown"
 }
 
-var strategies = []Strategy{
+var strategies = []strategy{
 	Mean,
 	Median,
 	Mode,

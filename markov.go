@@ -39,7 +39,7 @@ func createChain(input string) map[string]map[string]int {
 // identical, according to the given strategy.
 func getChainSimilarityScore(
 	chainA, chainB map[string]map[string]int,
-	strategy Strategy,
+	strategy strategy,
 ) (float64, error) {
 	// For every word pair in chainA, record the number of times that the word pair
 	// occurs in each chain, storing the smaller value first.

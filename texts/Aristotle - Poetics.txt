@@ -1,0 +1,2336 @@
+A. POETICS
+INTRODUCTION
+
+Aristotle's Poetics is probably the most important single book that has ever
+been written about poetry, both for what it says and for what it has been taken
+to say. Various factors make it a work singularly easy to misinterpret, and the
+misinterpretations have been just as seminal in the development of aesthetic
+theory and, at some periods, of poetry itself as a correct understanding of it.
+The factors that make for misunderstanding are worth listing, if only for
+monitory purposes: (I) Aristotle's thought, though generally exquisitely lucid,
+is never easy and never slack; it is therefore as hard for a person who knows
+Greek to follow him as it is for a person who knows English to follow Hume.
+(2) Some accidental features of its composition or its transmission have made
+the Poetics one of his most compressed and elliptical works; the contrast with
+the comparatively open texture of the Rhetoric, for instance, is marked. (3)
+Aristotle presupposed in his audience an acquaintance not only with the doctrines
+of the Ethics and Politics but also with the central concepts of his logical and metaphysical theories (cf. below, pp. 98 n. 4, 99n. I, 101 n. 3,106 n. I). (4) The Poetics
+envisages a variety of different interests in literature, the politician'S, the poet's,
+the critic's; but the book is not written primarily for any of these, but rather
+for the philosopher. In other words, it is neither principally a defence of poetry,
+
+86
+
+ARISTOTLE
+
+nor a treatise on how to write it, nor an enunciation of principles of literary
+criticism, though it has elements of all these; it is first and foremost a work of
+aesthetic theory, and interpretations that under-stress this fact inevitably lead to
+distortion.
+ARISTOTLE'S THEORY OF AESTHETIC PLEASURE
+
+Aristotle had a quite coherent theory of the nature of our pleasure in art. It
+starts from simple principles and ramifies everywhere; it explains his preferences
+in literature and it is the antithesis of Plato's, though it accepts some of the same
+presuppositions.
+The basic premiss of Aristotle's aesthetic theory is stated in c. 4 of the
+Poetics and several times in the Rhetoric (below, pp. 94, 134, ISO): it is that by
+and large human beings positively enjoy learning or understanding or realizing
+things. ' Our desire to understand things is a natural desire like hunger, and its
+satisfaction is pleasurable, a 'restoration to a natural state', like eating (below,
+p. 134). Our pleasure in art is a branch of this pleasure; the poet or the orator
+or the painter makes us see or understand things that we did not see before, and
+particularly he points out the relations and similarities between different things,
+enables us to say, in Aristotle's phrase, 'this is that' (below, pp. 94, 134, ISO).
+This basic foundation of aesthetic pleasure explains many of Aristotle's
+further requirements in art. First and foremost, it justifies the general Greek
+belief, which Aristotle accepted and elaborately defends, that art is essentially
+'representational', i.e. that mimesis is necessary to it.' Aristotle takes the relation
+between mimesis and mathesis to be a close one, both at the simplest level, where
+'we make our first steps in learning through mimesis' (below, p. 94) and at the
+infinitely more sophisticated one where the tragic poet makes 'general statements'
+analogous to those of the moral philosopher. At the lowest level mimesis is what
+Plato asserted it was at any level, mere copying, a parrot act that can be performed
+without any real knowledge of the act or object copied; even here, however,
+Aristotle implies that though we may not have knowledge before we engage in
+mimesis we acquire knowledge by engaging in it. And at the higher level the
+tragic poet, presenting individually characterized people in specific situations,
+makes us aware of moral facts and moral possibilities relevant to more than the
+situation he envisages.
+If mimesis is to produce the sort of realization that Aristotle demands of art
+at its best, a prime requirement is obviously truth. A poem or play that operates
+in the realm of fantasy can charm and rouse wonder, and Aristotle is as susceptible as anyone to the enchantment of the fantastic in Homer (below,
+pp. 125 f.). Yet his judgement is against fantasy and given in favour of the more
+I These are different possible translations of mathesis and the associated verb manthanein.
+Z Once at any rate, in an interesting passage of the Phi/eh us (SI b--e), Plato does
+question the necessity of mimesis to aesthetic pleasure; but in general he, like Aristotle,
+accepts the general Greek assumption that our pleasure in art is principally pleasure in
+mimesis.
+
+POETICS
+
+rigorous causal chain of tragedy,' which, because it is presented to the senses
+and not just to the feebler imagination, cannot afford to follow epic into the
+area of the marvellous and the irrational.
+Yet the realization must be a sudden one too, and for this the prime requirement is surprise. A play whose plot, however truthful, is predictable will not
+give us the pleasure of sudden realization. This is the reason for Aristotle's
+insistence on the unexpected and a second reason for his preference for the
+complex form of tragedy, which is defined with reference to surprise turns
+(peripeteiai) and recognitions. It is juxtaposition that best makes us aware of
+opposites (below, pp. 138, 149, 167), and the sudden reversals of fortune in complex tragedy most powerfully bring home to us the truths that the poet is stating.
+For both these reasons Aristotle regards complex tragedy as the entelecheia
+or full realization of the essential nature of poetry. It is the form that makes us
+realize most truth fastest, and therefore provides in greatest measure and concentration the pleasure that a work of art can provide. The same criteria are deployed not only to judge between or within literary kinds, but also in evaluating
+details of style, both in poetry and prose. It is the requirements of mathisis
+that determine the high estimate Aristotle sets on metaphor (pp. 122,150), on
+the periodic style (p. 148), on antithetical expression (pp. 149, 150 f., 154), on
+rhythm in prose (p. 146), on various forms of argument (p. 150).
+THE DEFENCE OF TRAGEDY
+
+Whatever may be true of other arts, 2 tragedy at any rate operates on a consciousness heightened by intense emotion, and specifically by the two emotions of
+fear and pity. The discussion of these two emotions in Rhetoric 2. 5 and 2. 9
+shows them closely related; essentially they are roused by the same kind of
+situations, but fear is self-regarding and pity other-regarding. Aristotle's statement that tragedy arouses fear in the audience therefore implies that he takes
+for granted a remarkable degree of identification between the audience and the
+characters presented. No doubt the fear felt by the audience of tragedy does not
+cover the whole range of fear in ordinary life, but the flat statement of the
+Rhetoric 3 inescapably implies that Aristotle does not agree with Dr. Johnson's
+'The truth is, the audience are always in their senses', much less with more
+recent aesthetic theories about the necessity of 'distancing'.
+A by-product of the stimulation of these intense emotions is their catharsis
+(p. 97). This cryptic phrase has attracted more attention than it deserves,
+but the theory concealed by it is nevertheless important. Plato had attacked
+mimesis, and particularly tragedy, on two counts, the first that it does not present
+us with truth (above, pp. 66 ff.), the second that it stimulates emotions that a
+, The topic is developed in Poetics, cc. 7-9, below, pp. 100 If.
+2 It is never made quite clear whether or not epic also operates by rousing the same
+emotions as tragedy.
+3 1382b30 If. 'No one feels fear if he thinks nothing is likely to happen to him, or
+fear of things he does not think would happen to him or of people he does not think
+likely to harm him, or at the time when he does not anticipate harm.'
+
+88
+
+ARISTOTLE
+
+good man tries to suppress (above, pp. 69 ff.). Aristotle's answer to the first
+charge is to be found in the mathesis doctrine, and especially in c. 9 of the
+Poetics: Plato had claimed that an instance of mimesis has less reality than an
+individual particular, which in turn has less reality than the idea. Aristotle
+replies that the statements of the poet, so far from being inferior to statements of
+particulars, are more comprehensive and more philosophical (below, p. 102);
+ifhe were thinking in Platonic terms this would amount to saying that the object
+of mimesis is not the particular but the idea. Of course he does not say any such
+thing, as he did not believe in substantive ideai; but the implication was drawn
+by later Platonists. 1 The answer to Plato's second charge is contained in the
+reference to catharsis. 2
+Some light is thrown on the concept of catharsis by the passage cited from the
+Politics (below, pp. 132 ff.). But that passage is also in some respects misleading, as there Aristotle is talking from the point of view of the legislator and
+educationalist and discussing the uses of various kinds of music. In the Poetics
+he is indeed talking at the legislator, but not from his point of view, and he can
+be content with a more purely defensive position. As against Plato he only has
+to show that tragedy's stimulation of the emotions is not in fact undesirable and
+may indeed be beneficial.
+The passage, unprovided with the explanation promised in the Politics, has
+provoked the most various interpretations. The most promising line is that
+put forward by House, op. cit., pp. 100 ff.; he takes catharsis in its medical sense
+of the production of a 'mean', and interprets the concept of 'mean' in Aristotle's
+own sense. When we consider what degree of emotion is 'undue', we take into
+account not merely the quantity of emotion but its object and its circumstances
+(Nic. Eth. II06b l8 ff. 'One can feel fear, confidence, desire, anger, pity .•.
+both too much and too little, and in both cases wrongly; but the mean is attained
+when we feel them at the right time, at the right objects, towards the right
+people, for the right reason, in the right way'). Aristotle's answer to Plato,
+so maddeningly undeveloped, seems to be that tragedy presents us with objects
+(great and good men suffering terrible fortunes) that are proportioned to the
+degree of emotion they arouse. So far from encouraging a vicious indulgence
+in emotion on any and every occasion, tragedy gives us an imaginative apprehension of a degree of suffering normally beyond our ken. We need not suppose that
+Aristotle has romantic expectations about the educative power of tragedy; of
+course one perception of the mean is not enough to make a virtuous man. Yet
+any perception of the mean helps one to right feeling and right behaviour, and
+that is so far, so good.
+It is important that the concept of catharsis does not commit Aristotle to
+either of two erroneous aesthetic positions common both in antiquity and later
+times. Catharsis is not something the tragic poet aims to produce. His aim is
+Cicero, Orator 8 If., Plotinus S. 8. I.
+It certainly required a reply and in the Poetics gets no other. This is a main
+reason for rejecting the interpretation of catharsis recently proposed by L. Golden,
+Transactions of the American Philological Association, 93, 1962, SS If. (reiterated in the
+commentary of Golden and Hardison); cf. also Classical Philology 64,1969, 145 If.
+I
+
+2
+
+POETICS
+defined below (p. 108) as 'to produce the pleasure springing from pity and fear
+via mimesis'. Catharsis is a therapeutic by-product, not something the poet either
+does or should intend. But just as Aristotle can therefore avoid the Scylla of
+taking the poet to have a duty to improve his audience's morals, he equally
+shuns the Charybdis of denying that poetry has any moral effect. Tragedy is
+not trivial; it does alter our moral attitudes, and a legislator might well consider
+whether to do something about it. Aristotle is not however convinced that the
+legislator would be well advised to tell the poet what kind of poems to write.
+THE TRANSLATION
+
+Theories on how to translate the Poetics are almost as numerous as the actual
+translations. This translation is based on the single principle of trying to make
+coherent sense, of the material presented by tradition when one can make sense
+of it, of modem conjectures when one cannot. The attempt to express in English
+the logical relation between Aristotle's ideas inevitably leads to some camouflaging
+of the way he puts them, but is necessary to avoid the more damaging impression
+that Aristotle spoke a version of the higher Babu. If he arranges two nouns
+and two adjectives chiastically and says that the ridiculous is 'a blunder or
+ugliness that does not imply pain or cause damage', one should suppress this
+stylistic elegance in the interests of clarity. Ifhe says 'On the one hand this and
+on the other hand that' and means, as Greeks did, 'Though this, nevertheless
+that' or alternatively 'Just as this, so also that', it is better to make him say in
+English what he means in Greek. If he wants to say 'anything' and has to use a
+word equally open to the translation 'everything', there is no reason to make
+him tell lies by putting the second into his mouth. He is not responsible for the
+fact that Greek is over-fond of the co-ordinate form of expression and sometimes
+uses one word for two different concepts. Anyone who understood his author
+would accept such principles of translation if he were dealing with, say, an
+orator; there is no sense in allowing a slavish adherence to the actual Greek
+words to obscure Aristotle's meaning in a way that would not be tolerable in a
+rendering ofDemosthenes. On the other hand, I have tried to be very scrupulous
+in warning the reader by square brackets whenever I have added a phrase to
+show what I take to be the logical relation between sentences. The chapter and
+paragraph headings are mine.
+Some constant technical terms are merely transliterated, like peripeteia or
+pathos (with its plural patM); these are defined in the treatise itself and when
+used in the sense defined are left in their transliterated form. I have followed
+the same course with mimesis, the central concept of the Poetics, which is too
+important to be rendered by an only roughly approximate English word. It is
+never defined and the range of ideas Aristotle uses it to cover is a shifting one;
+one sees better what they are if one comes to it with no English-based preconceptions.
+In some other places, particularly those dealing with minute stylistic points,
+the Greek examples are left untranslated; we have no way, for instance, of
+showing in English the stylistic effect of what Aristotle calls a 'dialect term'
+
+90
+
+ARISTOTLE
+
+(below p. 119). Merely to render it by a stronger, though current, English word
+undervalues the strangeness of the dialect term, while a scattering of occasional
+phrases from Lallans or Mummerset would not be, to English taste, agreeable.
+CHAPTER
+
+I
+
+THE PRELIMINARIES TO THE DEFINITION OF TRAGEDY
+
+Contents
+1447' The subject I wish us to discuss is poetry itself, its species with their
+1
+
+respective capabilities, the correct way of constructing plots so that the
+work turns out well, the number and nature of the constituent elements
+[of each species], and anything else in the same field of inquiry.
+SECTION A. THE DIVISION PER GENUS ET DIFFERENTIAM
+I.
+
+The genus we are here concerned with stated!
+
+To follow the natural order and take first things first, epic and tragic
+poetry, comedy and dithyrambic, and most music for the flute or lyre
+are all, generally considered, varieties of mimesis, differing from each other
+in three respects, the media, the objects, and the mode of mimesis.
+['Media' needs explaining]: in some cases where people, whether by
+technical rules or practised facility, produce various mimeseis by portraying
+things, the media are colours and shapes, while in others the medium
+is the voice;2 similarly in the arts in question, taken collectively, the media
+of mimesis are rhythm, speech, and harmony, either separately or in
+combination.
+2.
+
+(a)
+
+The genus divided
+
+ACCORDING TO DIFFERENCES OF MEDIA
+
+(i) Those which do not use speech
+
+For example, harmony and rhythm are the media of instrumental
+music,3 rhythm alone without harmony the medium of dancing, as dancers
+I The genus that Aristotle proceeds to divide is not, as one sometimes finds stated,
+mimesis in general, but a variety of mimesis defined by the media, 'mimesis in speech,
+harmony, and rhythm, separately or in combination'.
+2 The reference is to sounds, not necessarily articulate, made by the human vocal
+organs. Direct mimicry of the bird-call kind seems to be what Aristotle has in mind.
+3 Literally 'flute-playing and lyre-playing and any other arts that have the same
+capability, for example, playing the Pan-pipe'.
+
+POETICS
+
+91
+
+represent characters, passions, I and actions by rhythmic movement and
+postures.
+(ii) Those which do use speech (i.e. the poetic kinds)2
+The art that uses only speech by itself or verse [that is, rhythmical
+speech], the verses being homogeneous or of different kinds, has as yet 1447b
+no name;3 for we have no common term to apply to the [prose] mimes of
+Sophron and Xenarchus and to the Socratic dialogues, nor any common
+term for mimeseis produced in verse, whether iambic trimeters or elegiacs
+or some other such metre. True, people do attach the making [that is the
+root of the word poietes] to the name of a metre and speak of elegiacmakers and hexameter-makers; they think, no doubt, that 'makers' is
+applied to poets not because they make mimeseis but as a general term
+meaning 'verse-makers', since they call 'poets' or 'makers' even those
+who publish a medical or scientific theory in verse. But [this is open to
+two objections]: (I) as Homer and Empedocles have nothing in common
+except their metre, the latter had better be called a scientific writer, not
+a poet, if we are to use 'poet' of the former; (2) similarly, if we suppose
+a man to make his mimesis in a medley of all metres, as Chaeremon in
+fact did in the Centaur, a recitation-piece in all the various metres, we
+still have to call him a poet, a 'maker'.4
+So much for the simpler kinds. Some use all the media mentioned,
+rhythm, song, and verse: 5 these are dithyrambic and nomic poetry,
+Others interpret this as the opposite of 'actions', i.e. 'things that happen to people'.
+The order of the following section suggests that here too Aristode is using a
+not-x, x method of division, considering first the arts that do not use music and dancing
+and next those that do.
+l Aristode's complaint seems to be double, that the whole mimetic art that uses
+speech but not music and dancing has no name and that the two species, prose and verse
+composition, have no names. Lobel makes the sense tidier by conjecturing: 'The art
+that uses only speech by itself and that which uses verse ••• have as yet no names.'
+4 The point (a sophistical one) seems to be that both on Aristode's criterion of
+mimesis and on the ordinary language criterion of verse, Chaeremon belongs to the
+generic class 'poet', but that ordinary language can find no specific term for him parallel
+to 'hexameter-maker'. The other argument is no better, given Aristode's own commendation of Empedoc1es in the On the Poets as 'Homeric and stylistically excellent,
+particularly in his use of metaphor'. In arguing for the necessity of the criterion of
+mimesis Aristode is not too particular about the weapons he uses.
+5 This is commonly equated with the 'rhythm, harmony, and speech' mentioned
+above; but Aristode is here dealing with more complicated elements than in the original
+definition. By 'rhythm' here he means dancing, while 'song' is a combination of all
+three of the media isolated earlier, and verse a combination of rhythm and speech.
+The analysis really applies better to comedy and tragedy than it does to choral lyric,
+in which there is no distinction between 'song' and 'verse'; later in the Poetics 'verse' is
+used to refer to the dialogue scenes in tragedy as distinct from the choral 'songs'.
+I
+
+2
+
+92
+
+ARISTOTLE
+
+tragedy and comedy. But the two former use them all simultaneously,
+while the latter use different media in different parts. So much for the
+differentiae derived from the media.
+
+(b)
+1448a
+2
+
+(c)
+3
+
+ACCORDING TO DIFFERENCES OF OBJECTS
+
+The objects of this mimesis are people doing things/ and these people
+[as represented] must necessarily be either good or bad, this being,
+generally speaking, the only line of divergence between characters, since
+differences of character just are differences in goodness and badness, or
+else they must be better than are found in the world or worse or just the
+same, as they are represented by the painters, Polygnotus portraying
+them as better, Pauson as worse, and Dionysius as they are;z clearly
+therefore each of the varieties of mimesis in question will exhibit these
+differences, and one will be distinguishable from another in virtue of
+presenting things as different in this way.
+These dissimilarities can in fact be found in dancing and instrumental
+music, and in the arts using speech and unaccompanied verse: Homer
+for instance represents people as better and Cleophon as they are, while
+Hegemon of Thasos, the inventor of parodies, and Nicochares, the author
+of the Deiliad, represent them as worse; the same is true of dithyrambs
+and nomes, where the mimesis can differ as ... ,3 and as that of the Cyclopes
+does in Timotheus and PhiIoxenus; this is also the differentia that marks
+off tragedy from comedy, since the latter aims to represent people as
+worse, the former as better, than the men of the present day.
+ACCORDING TO DIFFERENCES OF MODE
+
+There is still a third difference, the mode in which one represents each
+of these objects. For one can represent the same objects in the same
+media
+I Aristode's word prattonton means, for him, 'people performing responsible and
+morally characterizable actions'.
+Z The second distinction is a refinement on the first, perhaps an afterthought. The
+translation 'better than are found in the world' is suggested by Dryden's classification
+of the subject-matter of comedy as 'such humours, adventures and designs as are to be
+found and met with in the world' (Preface to An Evening's Love, or The Mock Astrologer,
+1671). Dryden of course is speaking of comedy as it descends from the post-Aristotelian
+New Comedy of Menander and his fellows, which claims to portray people 'as they
+are'; the comedy Aristotle is talking about is a comedy of caricature like Pauson's
+painting, and nearer to Dryden's 'Farce'. What Aristotle intended by 'better than are
+found in the world' is most usefully shown by Nic. Eth. II4SaI9 if.: 'An excellence
+beyond the human scale, something heroic and divine, which may be illustrated by the
+phrase Homer makes Priam use of Hector to express his signal excellence, "He seemed
+the son of a god, not of a mortal man".' I owe this reference to Miss G. M. Matthews.
+3 Text defective.
+
+POETICS
+
+93
+
+(i) sometimes in narration and sometimes becoming someone else, as
+Homer does, or
+(ii) speaking in one's own person without change, or
+(iii) with all the people engaged in the mimesis actually doing things.!
+These three then, media, objects, and mode, are, as I said at the beginning, the differentiae of poetic mimesis. So, if we use one of them [to
+separate poets into classes], Sophocles will be in the same class as Homer,
+since both represent people as good, and if we use another, he will be in
+the same class as Aristophanes, since they both represent people as
+actively doing things.
+
+Digression on the etymological fancies of the Dorians2
+Some people say that this verb dran, 'to do', is why plays are called
+dramas, because such poets represent people as doing things; and this
+is the ground on which the Dorians claim the invention of both tragedy
+and comedy. Comedy is claimed by the Megarians, both by those of
+mainland Greece, who say it arose when their democracy was established,3
+and by those of [Megara Hyblaea in] Sicily, the home of Epicharmus,
+who lived well before Chionides and Magnes. 4 Tragedy is claimed by some
+of the Peloponnesians. In each case they found their claim on etymology:
+they say that while they call outlying villages komai, the Athenians call
+them demoi, and they take 'comedy' to be derived not from komazein, 'to
+revel', but from the fact that the comic actors wandered among the
+villages because driven in contempt from the city; and they say that they 1448b
+use the word dran of doing, while the Athenians say prattein.
+
+Conclusion
+So much for the number and nature of the differentiae of poetic
+
+mimesis.
+I The Greek is perhaps defective and also admits the interpretation '(i) sometimes in
+narration, either becoming someone else, as Homer does, or speaking in one's own
+person without change, or (ii) with all the people .. .'. The threefold classification given
+in the translation is in accordance with Plato's view (Rep. 392 d If.); more important,
+it agrees better with Aristode's own insistence on the uniqueness of Homer (pp. 94 f.,
+101 f., 123, 125 f.).
+2 The position of this digression, carefully segregated from the following serious
+discussion of the development of the poetic kinds, seems to show that Aristode thought
+Iitde of the Dorian claims.
+3 Early in the sixth century.
+4 The first known poets of Attic comedy, very litde later, in fact, than Epicharmus.
+
+ARISTOTLE
+
+94
+
+SECTION B. THE PROOF THAT THE KINDS WE ARE INTERESTED
+IN DEFINING ARE EACH A COMPLETELY DEVELOPED AND
+A SINGLE SPECIES
+I.
+
+The origins of poetry
+
+4 Poetry, I believe, has two over-all causes, both of them natural:
+
+(a) Mimesis is innate in human beings from childhood-indeed we
+differ from the other animals in being most given to mimesis and in making
+our first steps in learning through it-and pleasure in instances of mimesis
+is equally general. This we can see from the facts: we enjoy looking at the
+most exact portrayals of things we do not like to see in real life, the lowest
+animals, for instance, or corpses. This is because not only philosophers,
+but all men, enjoy getting to understand something, though it is true
+that most people feel this pleasure only to a slight degree; therefore they
+like to see these pictures, because in looking at them they come to understand something and can infer what each thing is, can say, for instance,
+'This man in the picture is so-and-so'.' If you happen not to have seen
+the original, the picture will not produce its pleasure qua instance of
+mimesis, but because of its technical finish or colour or for some such
+other reason.
+(b) As well as mimesis, harmony and rhythm are natural to us, and verses
+are obviously definite sections of rhythm.
+2.
+
+The development of pre-dramatic poetry
+
+These two were gradually developed by those who had most natural
+gift for them. Poetry, arising from their improvisations, split up according
+to the authors' divergent characters: the more dignified represented noble
+actions and those of no ble men, the less serious those of low-class people;
+the one group produced at first invectives, the others songs praising gods
+and men. We cannot name any author of a poem of the former kind before
+Homer's time, though there were probably many of them, but from
+Homer on we do find such poems-his own Margites, for instance, and
+others of the kind. These introduced the metre that suited them, stilI
+called 'iambic' (from iambizein, 'to lampoon'), because it was the metre of
+their lampoons on each other. So some of the ancients produced heroic
+[i.e. hexameter] verse and the others iambics.
+As well as being the most creative poet of high actions,2 his mimeseis
+I The pleasure of understanding and realizing something is for Aristotle basic to
+aesthetic pleasure; cf. the fuller discussion in Rhet. I. I37Ia2I ff. (below, p. I34) and
+pp. 86 f.
+2 The translation is borrowed from Milton (P.R. 4. 266); the word is translated 'good'
+
+POETICS
+
+95
+
+in this kind being the only ones that are not only well done but essentially
+dramatic, Homer also first adumbrated the form of comedy by dramatizing
+the ridiculous instead of producing invectives; his Margites bears the
+same relation to comedy as the Iliad and Odyssey do to tragedy.'
+1449a
+On the subsequent appearance of tragedy and comedy, those whose
+natural bent made lampooners of them turned to comedy, while those
+naturally inclined to epic became tragedians, because the new forms were
+more ample and more highly esteemed than the old.
+
+3. The development of tragedy
+To inquire whether even tragedy [as distinct from epic] is sufficiently
+elaborated in its qualitative elements, judging it in itself and in its relation
+to the audience, is another story.2 At any rate, after originating in the
+improvisations of the leaders of the dithyramb, as comedy did in those
+of the leaders of the phallic songs still customary in many. Greek cities,
+tragedy gradually grew to maturity, as people developed the capacities
+they kept discovering in it, and after many changes it stopped altering,
+since it had attained its full growth. The main changes were:
+(i) in the number of actors, raised from one to two by Aeschylus, who
+made the choral part less important and gave speech the leading role;
+Sophocles added a third-and also scene-painting;
+(ii) in amplitude: as tragedy developed from the satyr-style, its plots
+were at first slight and its expression comical, and it was a long time before
+it acquired dignity;
+(iii) in metre: the iambic trimeter replaced the trochaic tetrameter,
+which had been used before as suitable for a satyr-style poetry, that is,
+for productions involving more dancing; when verbal expression came
+to the fore, however, nature herself found the right metre, the iambic
+being the most speakable of all metres; this we can see from the fact that
+it is the one we most often produce accidentally in conversation, where
+(for example, at p. 92) or 'noble' (p. 96) when used of persons. For the concept cf.
+p. 92, n. 2.
+I Aristotle's unwillingness either to distort or accurately to report the facts of history
+produces in this section some embarrassment of expression, which has induced some
+editors to rearrange the argument in the form Aristotle would have given it if he had
+been unscrupulous. The series hymns-Homer-tragedy leads him to posit a similar
+series invectives-Homer-comedy. In fact the invention of the iambic trimeter was
+attributed to Homer in the Margites, and Archilochus, the great poet of invective, was
+later than Homer.
+2 Tragedy is more elaborated than epic, as it has more qualitative elements (p. 96).
+The 'other story' seems to be given by the deduction of the sufficiency of the qualitative
+elements of tragedy on pp. 97 f.
+
+ARISTOTLE
+
+hexameters are rare and only occur when we depart from conversational
+tone;
+(iv) in the increased number of episodes.
+There is no need to say more of this or of the other developments that
+gave it beauty; it would take too long to go through them in detail.
+
+4. The development of comedy
+5 Comedy is, as I said, a mimesis of people worse than are found in the world
+
+I449b
+
+-'worse' in the particular sense of 'uglier', as the ridiculous is a species
+of ugliness; for what we find funny is a blunder that does no serious
+damage or an ugliness that does not imply pain, the funny face, for
+instance, being one that is ugly and distorted, but not with pain. While
+the changes and the authors of the changes in tragedy are known, the
+development of comedy is obscure because it was not at first taken
+seriously; the chorus, for instance, were for a long time volunteers, and
+not provided officially by the archon. The form was already partly fixed
+before the first recorded comic poets, and so we do not know who introduced masks, prologues, numerous actors, and so on; the making of
+plots, however, certainly came first from Sicily, Crates being the first
+Athenian to drop the lampoon form and construct generalized stories or
+plots.
+
+SECTION C. APOLOGY FOR POSTPONING THE TREATMENT OF EPIC,
+IN DEFIANCE OF CHRONOLOGY
+
+Epic, in so far as it is a sizeable! mimesis in verse of noble personages,
+goes along with tragedy, but differs from it in using metre alone [without
+music] and in being in narrative form; it also differs in length, tragedy
+attempting so far as possible to keep to the limit of one revolution of
+the sun or not much more or less, while epic is unfixed in time. This
+differentiates them now, but at first tragic practice was the same as epic.
+Of their elements some are the same, some peculiar to tragedy, so that any
+judge of excellence in tragedy can judge of epic too, since tragedy has
+everything that epic has, while epic lacks some of tragedy's elements.
+6 I shall deal later with the art of mimesis in hexameters and with comedy;
+here I want to talk about tragedy, picking up the definition of its essential
+nature that results from what I have said.
+I
+
+The text is corrupt and the 'sizeable' is a conjecture.
+
+POETICS
+CHAPTER
+
+97
+
+11
+
+THE NATU.RE OF TRAGEDY
+SECTION A. THE NATURE OF TRAGEDY ACCORDING TO THE
+CATEGORY OF SUBSTANCE
+
+Well then, a tragedy is a mimesis of a high, complete action ('complete' in
+the sense that implies amplitude), in speech pleasurably enhanced, the
+different kinds [of enhancement] occurring in separate sections, in
+dramatic, not narrative form, effecting through pity and fear the catharsis'
+of such emotions. By 'speech pleasurably enhanced' I mean that involving
+rhythm and harmony or song, by 'the different kinds separately' that
+some parts are in verse alone and others in song.
+SECTION B. THE NATURE OF TRAGEDY ACCORDING TO THE
+CATEGORY OF QUALITY
+1.
+
+The deduction of the qualitative elements of tragedy
+
+One can deduce as necessary elements of tragedy Ca) [from the mode] the
+designing of the spectacle, since the mimesis is produced by people doing
+things; (b) [from the media] song-writing and verbal expression, the
+media of tragic mimesis; by 'verbal expression' I mean the composition of
+the verse-parts, 2 while the meaning of 'song-writing' is obvious to anybody. [Others can be inferred from (c) the objects of the mimesis:] A
+tragedy is a mimesis of an action; action implies people engaged in it;
+these people must have some definite moral and intellectual qualities,
+since it is through a man's qualities that we characterize his actions,3 1450'
+and it is of course with reference to their actions that men are said to
+succeed or fail. We therefore have (i) the mimesis of the action, the plot,
+by which I mean the ordering of the particular actions; (ii) [the mimesis of]
+the moral characters of the personages, namely that [in the play] which
+makes us say that the agents have certain moral qualities; (iii) [the
+mimesis of] their intellect, namely those parts [of the play] in which they
+demonstrate something in speech or deliver themselves of some general
+maxim. 4
+Cf. below, pp. 132 ff.
+2 i.e. of the dialogue parts.
+The manuscripts add 'to explain actions we refer to the moral character and
+intellect of the person doing them'; this is sensible enough in itself, but it disrupts the
+sentence and is clearly an intrusive gloss to explain the preceding clause.
+• Throughout the rest of the treatise 'mimesis of character' and 'mimesis of intellect'
+are used without square brackets to translate ethos and dianoia in this technical sense.
+I
+
+3
+
+8143591
+
+H
+
+ARISTOTLE
+
+So tragedy as a whole will necessarily have six elements, the possession
+of which makes tragedy qualitatively distinct [from other literary kinds]:
+they are plot, the mimesis of character, verbal expression, the mimesis of
+intellect, spectacle, and song-writing. The media of mimesis are two, the
+mode one, the objects three, and there are no others. Not a few tragedians
+do in fact use these as qualitative elements; indeed virtually I every play
+has spectacle, the mimesis of character, plot, verbal expression, song, and
+the mimesis of intellect.
+2.
+
+(a)
+
+The qualitattve elements ranged in order of importance
+
+THE ARGUMENTS FOR THE PRE-EMINENCE OF PLOT
+
+The most important of these elements is the arrangement of the particular
+actions [as the following arguments show]:
+(a) A tragedy is [by definition] a mimesis not of people but of their
+actions and life. Both success and ill success are success and ill success
+in action-in other words the end and aim of human life 2 is doing something, not just being a certain sort of person; and though we consider
+people's characters in deciding what sort of persons they are, we call
+them successful or unsuccessful only with reference to their actions. 3
+So far therefore from the persons in a play acting as they do in order to
+represent their characters, the mimesis of their characters is only included
+along with and because of their actions. So the particular actions, the plot,
+are what the rest of the tragedy is there for,4 and what the rest is there for
+is the most important.
+1 The manuscripts nonsensically attach this to 'Not a few'; the transposition was
+suggested by Bywater.
+2 Commonly assumed by the Greeks to be eudaimonia, an assumption that Aristotle
+accepts. The word is often rendered by 'happiness', here by 'success'.
+3 The content of this passage is Aristotelian, but the word for 'ill success' does not
+occur elsewhere in his works; other arguments urged against the passage are unconvincing, though there may be corruption in detail. Whether entirely written by Aristotle
+or embodying explanatory additions by somebody else, it is not out of harmony with
+the insistence (no doubt against some current opinion) on the primacy of plot over
+character.
+• Sometimes misleadingly rendered as 'are what tragedy aims at'. But Aristotle is
+talking in terms of his own theory of explanation (traditionally called 'the doctrine of the
+four causes'); in this teleological explanations ('final causes') are of more than one kind.
+Though one sort of 'final cause' is the answer to the question '''Vhat is the purpose of
+x 1', another is the answer to the question 'For the sake of what in x is the rest of x
+there?'; to take a simple example, one 'final cause' of a knife is cutting, and another is
+the cutting edge. The argument here plainly shows that plot is the 'final cause' of tragedy
+in the second sense, not in the first. The purpose of tragedy is stated on p. 108, 'the
+poet's job is to produce the pleasure springing from pity and fear via mimesis'.
+
+POETICS
+
+99
+
+Cb) [By definition] a work could not be a tragedy if there were no
+action. But there could be a tragedy without mimesis of character,
+and the tragedies of most of the modems are in fact deficient in it; the
+same is true of many other poets, and of painters for that matter, of
+Zeuxis, for instance, in comparison with Polygnotus: the latter is good
+at depicting character, while Zeuxis' painting has no mimesis of character
+to speak of.
+(c) If you put down one after another speeches that depicted character,
+finely expressed and brilliant in the mImesis of intellect, that would not
+do the job that, by definition, tragedy does do, while a tragedy with a
+plot, that is, with an ordered series of particular actions, though deficient
+in these other points, would do its job much better.
+(d) The most attractive things in tragedy, peripeteiai and recognition
+scenes, are parts of the plot.
+(e) Novices in poetry attain perfection in verbal expression and in the
+mimesis of character much earlier than in the ordering of the particular
+actions; this is also true of almost all early poets.
+(b)
+
+THE STATEMENT OF THE ORDER
+
+The plot therefore is the principle, or one might say the principle of
+life,' in tragedy, while the mimesis of character comes second in importance, a relation similar to one we find in painting, where the most beautiful I4S0b
+colours, if smeared on at random, would give less pleasure than an uncoloured oudine that was a picture of something. A tragedy, I repeat,
+is a mimesis of an action, and it is only because of the action that it is a
+mimesis of the people engaged in it. Third comes the mimesis of their
+intellect, by which I mean their ability to say what the situation admits
+and requires; to do this in speeches is the job of political sense and rhetoric,
+since the older poets made their people speak as the former directs, while
+the modems make them observe the rules of rhetoric. Of these two, the
+mimesis of character is that [in the play] which makes plain the nature of
+the moral choices the personages make,2 so that those speeches in which
+there is absolutely nothing that the speaker chooses and avoids involve
+no mimesis of character. By 'mimesis of intellect' I mean those passages in
+which they prove that something is or is not the case or deliver themselves
+I The 'principle of life' renders psyche ('sou!'), which stands to the living body in the
+same relation as plot to tragedy; it is 'what the rest is there for' as in argument (a), and
+it is what the living body essentially is as in argument (b). In traditional language it is
+both a 'final cause' and the 'formal cause'. a. De Anima 4ISbSff.
+2 After this the manuscripts add 'in cases in which it is not clear whether (?) he chooses
+or avoids', a corrupt anticipation of the following clause.
+
+ARISTOTLE
+
+100
+
+of some general statement.' Fourth comes the expression of the spoken
+parts, by which I mean, as I said before, the expression of thought in
+words; the meaning is the same whether verse or prose is in question.
+Of the others, which are there to give pleasure, song-writing is the most
+important, while spectacle, though attractive, has least to do with art,
+with the art of poetry, that is; for a work is potentially a tragedy2 even
+without public performance and players, and the art of the stage-designer
+contributes more to the perfection of spectacle than the poet's does.
+
+3. Closer analysis ofplop
+(a)
+
+THE ESSENTIAL CHARACTERISTICS OF A PLOT, WITH REFERENCE
+TO ITS DEFINITION AS THE MIMESIS OF A WHOLE ACTION4
+
+(i) The first implication of wholeness: order
+7
+
+Now that these definitions are out of the way, I want to consider what the
+arrangement of the particular actions should be like, since that is the
+prime and most important element of tragedy.
+Now, we have settled that a tragedy is a mimesis of a complete, that is,
+of a whole action, 'whole' here implying some amplitude (there can be a
+whole without amplitude).
+By 'whole' I mean 'with a beginning, a middle, and an end'. By
+'beginning' [in this context] I mean 'that which is not necessarily the
+consequent of something else, but has some state or happening naturally
+consequent on it', by 'end' 'a state that is the necessary or usual consequent
+of something else, but has itself no such consequent', by 'middle' 'that
+which is consequent and has consequents'. Well-()rdered plots, then, will
+exhibit these characteristics, and will not begin or end just anywhere.
+
+a. pp.
+
+116 f.
+Others interpret 'a tragedy can do its job', making Aristotle say the same as in
+c. 26, pp. 131 f. But the point here seems a different one; though an aCIUal, fully realized
+performance of a tragedy demands spectacle, the poet has done what he has to do when
+he has produced something that is potentially a tragedy. Its staging is not something
+that belongs to the poet's art.
+3 In this large and important section Aristotle is not yet talking about what is
+necessary for a good plot, a subject that he only begins to discuss on p. 106. He is
+continuing his analysis of the essential nature of tragedy by considering the minimum
+characteristics that a plot must have if it is not to be judged positively defective.
+4 It is perhaps worth pointing out that the four essential characteristics are not on a
+level, but that the first three are defined in terms of the last. The kind of order, the kind
+of ampliIUde, the kind of unity in question are all explained in terms that invoke
+probable or necessary connection.
+I
+
+2
+
+POETICS
+
+101
+
+(ii) The second implication of wholeness: amplitude
+It is not enough for beauty that a thing, whether an animal or anything
+else composed of parts, should have those parts well-ordered; since
+beauty consists in amplitude as well as in order, the thing must also have
+amplitude-and not just any amplitude. Though a very small creature
+could not be beautiful, since our view loses all distinctness when it comes
+near to taking no perceptible time, an enormously ample one could not
+be beautiful either, since our view of it is not simultaneous, so that we
+lose the sense of its unity and wholeness as we look it over; imagine, for
+instance, an animal a thousand miles long. Animate and inanimate bodies,
+then, must have amplitude, but no more than can be taken in at one
+view; and similarly a plot must have extension, but no more than can be
+easily remembered. What is, for the poetic art, the limit of this extension?
+Certainly not that imposed by the contests and by perception I-if a
+hundred plays had to be performed during the festival, they would time
+the performances by the hour glass, t as they say once on another occasion ... tz As the limit imposed by the actual nature of the thing, one may
+suggest 'the ampler the better, provided it remains clear as a whole', or,
+to give a rough specification, 'sufficient amplitude to allow a probable or
+necessary succession of particular actions to produce a change from bad
+to good or from good to bad fortune'.
+
+145 1a
+
+(iii) The third implication of wholeness: unity
+Unity of plot is not, as some think, achieved by writing about one man; 8
+for just as the one substance admits innumerable incidental properties,
+which do not, some of them, make it a such-and-such,3 so one man's
+actions are numerous and do not make up any single action. That is
+why I think the poets mistaken who have produced Heracleids or Theseids
+or other poems of the kind, in the belief that the plot would be one just
+because Heracles was one. Homer especially shows his superiority in
+taking a right view here-whether by art or nature: in writing a poem on
+Odysseus he did not introduce everything that was incidentally true of
+him, being wounded on Parnassus, for instance, or pretending to be mad
+at the mustering of the fleet, neither of which necessarily or probably
+I The remark is puzzling, in view of the preceding discussion; if Aristotle means the
+perception of a particular audience, its power of attending to a play, the audience in
+question must at any rate be presumed defective (cf. perhaps p. 107 below).
+2 The text is corrupt and its reference uncertain.
+3 The interpretation is that ofVahlen and is the only one that does justice to the Greek.
+The analogy is drawn from logic. To give an example, some of the statements to be made
+about a coffee-pot will define it as a piece of crockery, those plus some more statements
+will define it as a coffee-pot; but a great many statements that are incidentally true of
+it will only detail its life history and not define it as a member of any species.
+
+102
+
+ARISTOTLE
+
+implied the other at all; instead he composed the Odyssey about an action
+that is one in the sense I mean, and the same is true of the Iliad. In the
+other mimetic arts a mimesis is one if it is a mimesis of one object; and in
+the same way a plot, being a mimesis of an action, should be a mimesis of
+one action and that a whole one, with the different sections so arranged
+that the whole is disturbed by the transposition and destroyed by the
+removal of anyone of them; for if it makes no visible difference whether
+a thing is there or not, that thing is no part of the whole.
+
+9
+
+145Ib
+
+(iv) The fourth implication of wholeness: probable and necessary connection
+What I have said also makes plain that the poet's job is saying not what
+did happen but the sort of thing that would happen, that is, what can
+happen in a strictly probable or necessary sequence. The difference
+between the historian and the poet is not merely that one writes verse
+and the other prose-one could turn Herodotus' work into verse and it
+would be just as much history as before; the essential difference is that
+the one tells us what happened and the other the sort of thing that would
+happen. That is why poetry is at once more like philosophy and more
+worth while than history, since poetry tends to make general statements,
+while those of history are particular. A 'general statement' means [in this
+context] one that tells us what sort of man would, probably or necessarily,
+say or do what sort of thing, and this is what poetry aims at, though it
+attaches proper names; a particular statement on the other hand tells us
+what Alcibiades, for instance, did or what happened to him.!
+That poetry does aim at generality has long been obvious in the case of
+comedy, where the poets make up the plot from a series of probable
+happenings and then give the persons any names they like, instead of
+writing about particular people as the lampooners did. In tragedy, however, they still stick to the actual names; this is because it is what is
+possible that arouses conviction, and while we do not without more ado
+believe that what never happened is possible, what did happen is clearly
+I It is hard to be temperate in one's admiration for the intellectual power and refinement of analysis that Aristode displays in this argument. One should remember that to
+the Greeks Oedipus was just as much a historical personage as Alcibiades. The distinction between what a poet means when he says 'X did such-and-such' and what an
+historian means when he makes an identical statement is not in itself obvious and was
+not grasped by most ancient historians. The historian must not suppress the fact that
+does not fit in, he must not bridge the gaps in his evidence with plausible conjecture
+presented as a statement of fact. The poet, on the other hand, cannot say anything that
+his audience will not take to be relevant to the picture they assume he is presenting,
+and this picture is an investigation of moral possibilities. Poetry is therefore like philosophy (or like science); its statements, though in form the same as the historians', are
+in fact taken to be statements of the greatest generality that its subject-matter allows.
+
+POETICS
+
+103
+
+possible, since it would not have happened if it were not. Though as a
+matter of fact, even in some tragedies most names are invented and only
+one or two well known: in Agathon's Antheus, for instance, the names
+as well as the events are made up, and yet it gives just as much pleasure.
+So one need not try to stick at any cost to the traditional stories, which are
+the subject of tragedies; indeed the attempt would be absurd, since even
+what is well known is well known only to a few, but gives general pleasure
+for all that.
+It is obvious from all this that the poet should be considered a maker
+of plots, not of verses, since he is a poet qua maker of mimesis and the
+objects of his mimesis are actions. 1 Even if it is incidentally true that the
+plot he makes actually happened, that does not mean he is not its maker;
+for there is no reason why some things that actually happen should not
+be the sort of thing that would probably happen,z and it is in virtue of
+that aspect of them that he is their maker.
+
+(v) Plots that Jail to exhibit the essential characteristics
+Of defective 3 plots or actions the worst are the episodic, those, I mean,
+in which the succession of the episodes is neither probable nor necessary;
+bad poets make these on their own account, good ones because of the
+judges;4 for in aiming at success in the competition and stretching the
+plot more than it can,bear they often have to distort the natural order.
+
+(b)
+
+A FIFTH REQUIREMENT, SUGGESTED BY THE MENTION OF PITY
+AND FEAR IN THE DEFINITION: SURPRISE
+
+Tragedy is a mimesis not only of a complete action, but also of things
+arousing pity and fear, emotions most likely to be stirred when things
+happen unexpectedly but because of each other (this arouses more
+surprise than mere chance events, since even chance events seem more
+marvellous when they look as if they were meant to happen-take the
+case of the statue of Mitys in Argos killing Mitys' murderer by falling on
+I It is sometimes obscured that Aristotle's purpose here and on p. 91 above is not
+to deny the necessity of verse to poetry (though he might have done, if pushed), but to
+assert the necessity of mimesis.
+Z The manuscripts add 'and that can happen', perhaps defensible as a piece of donnish
+humour, but suspect because it is absent from the Arabic version.
+3 This reading is due to conjecture; the manuscripts have 'Of simple plots .• .'. It is
+not a serious objection to this that we have not yet been introduced to the simple plot
+(below, p. 104); what does matter is that a reference to the simple plot is irrelevant in
+the context.
+4 Most manuscripts have 'because of the actors'; for the bad influence of the judges,
+cf. Plato's remark (above, pp. 83 f.).
+
+1452"
+
+ARISTOTLE
+4
+him as he looked at it; for we do not think that things like this are merely
+random); so such plotsI will necessarily be the best.
+
+10
+
+(c)
+10
+
+Some plots are simple, some complex, since the actions of which the
+plots are mimeseis fall naturally into the same two classes. By 'simple
+action' I mean one that is continuous in the sense defined 2 and is a unity
+and where the change of fortune takes place without peripeteia or recognition, by 'complex' one where the change of fortune is accompanied by
+peripeteia or recognition or both. The peripeteia and recognition should
+arise just from the arrangement of the plot, so that it is necessary or
+probable that they should follow what went before; for there is a great
+difference between happening next and happening as a result.
+
+(d)
+11
+
+THE SPECIES OF PLOT
+
+THE ELEMENTS OF PLOT
+
+(i) Peripeteia
+A peripeteia occurs when the course of events takes a turn to the
+opposite in the way described,3 the change being also probable or necessary in the way I said. For example, in the Oedipus, when the 4 man came
+and it seemed that he would comfortS Oedipu sand free him from his fear
+about his mother, by revealing who he was he in fact did the opposite.
+Again in the Lynceus, Lynceus was being led off and it seemed that he
+would be put to death and that Danaus who was with him would kill him,
+but the earlier actions produced Danaus' death and Lynceus' release.
+(ii) Recognition
+Recognition is, as its name indicates, a change from ignorance to knowledge, tending either to affection or to enmity; it determines in the direction
+of good or ill fortune the fates of the people involved. The best sort of
+recognition is that accompanied by peripeteia, like that in the Oedipus.
+I Those where things happen unexpectedly but because of each other.
+• That is, one that has probable or necessary connection.
+3 That is, in a way involving surprise.
+4 The Corinthian shepherd.
+S Or 'came with the intention of comforting'. The construction used is the same here
+and in the Lynceus example, where one can certainly say that it was not Lynceus'
+intention to be put to death. In view of this it is unnecessary to attribute to Aristotle
+the misstatement that the shepherd came with the intention of freeing Oedipus from
+his fear about his mother, or even with the expectation of doing so. The frustrated
+expectation seems to be felt not by the characters but by the audience, who are here,
+as on p. 103 above, taken not to be very familiar with the events of heroic legend.
+
+POETICS
+
+105
+
+There are of course other kinds of recognition. For a recognition of
+the sort described can be a recognition of inanimate objects, indeed of
+quite indifferent ones, and one can also recognize whether someone has
+committed an act or not. But the one mentioned has most to do with
+the plot, 'that is, most to do with the action; for a recognition accompanied
+by peripeteia in this way will involve either pity or fear, and tragedy is by
+definition a mimesis of actions that rouse these emotions; it is moreover
+such recognitions that lead to good or bad fortune.
+Since recognition involves more than one person, in some cases only
+one person will recognize the other, when it is clear who the former is, and
+sometimes each has to recognize the other: Orestes, for example, recognized Iphigenia from her sending the letter, but a second recognition
+was necessary for her to recognize him.
+(iii) Pathos
+These then are two elements of the plot, and a third is pathos. I have
+dealt with the first two, peripeteia and recognition. A pathos is an act
+involving destruction or pain, for example deaths on stage and physical
+agonies and woundings and so on.
+So much for the parts of tragedy that one ought to use as qualitative
+elements.
+
+SECTION C. THE NATURE OF TRAGEDY ACCORDING TO THE
+CATEGORY OF QUANTITY
+
+Now for the category of quantity and the quantitative divisions of a
+tragedy: they are prologue, episode, exodos, choral part, the last being
+divided into parodos and stasimon; the last two are common to all plays,
+while some have as well songs from the actors and kommoi.
+The prologue is the complete section of a tragedy before the entrance
+of the chorus, an episode the complete section of a tragedy between
+complete choral odes, the exodos a complete section of a tragedy not
+followed by a choral ode. Of the choral part, the parodos is the first
+complete utterance of the chorus, a stasimon a choral song not using the
+anapaestic dimeter or trochaic tetrameter, I a kommos a lament shared by
+the chorus and the actors.
+Having dealt beforehand with the parts of tragedy that one ought to
+I The anapaestic dimeter is a marching metre, normal in chorus entries, the tetrameter a running metre appropriate to a hasty choral entry. Cf. A. M. Dale, Collected
+Papers, Cambridge, 1969, pp. 34 If.
+
+1452b
+
+12
+
+ARISTOTLE
+
+106
+
+use as qualitative elements, I have now dealt with the category of quantity
+and the quantitative divisions of a tragedy. I
+CHAPTER
+
+III
+
+EXCELLENCE IN TRAGEDY
+SECTION A. WITH RESPECT TO PLOT
+
+13 What ought one to aim at and beware of in composing plots? And what
+
+is the source of the tragic effect? These are the questions that naturally
+follow from what I have now dealt with.
+I.
+
+Things to aim at and beware of
+
+WeB, the arrangement of tragedy at its best should be complex, not
+simple, and it should also present a mimesis of things that arouse fear and
+pity, as this is what is peculiar to the tragic mimesis.
+So it is clear that one should not show virtuous ·men passing from good
+to bad fortune, since this does not arouse fear or pity, but only a sense of
+outrage. Nor should one show bad men passing from bad to good fortune,
+as this is less tragic than anything, since it has none of the necessary
+14533 requirements; it neither satisfies our human feeling nor arouses pity and
+fear. Nor should one show a quite wicked man passing from good to bad
+fortune; it is true that such an arrangement would satisfy our human
+feeling, but it would not arouse pity or fear, since the one is felt for someone who comes to grief without deserving it, and the other for someone
+like us (pity, that is, for the man who does not deserve his fate, and fear for
+someone like us); so this event will not arouse pity or fear. So we have
+left the man between these. He is one who is not pre-eminent in moral
+virtue, who passes to bad fortune not through vice or wickedness, but
+because of some piece of ignorance, and who is of high repute and great
+good fortune, like Oedipus and Thyestes and the splendid men of such
+families. 2
+I This sentence repeats almost exactly that at the beginning of the section, importing
+as well a late form not used by Aristotle; such a dreary piece of scholasticism is unlike
+him. The whole discussion of tragedy under the category of quantity has been challenged, and may be an interpolation. Yet it stands where it should stand, concluding the
+analysis of the nature of tragedy and preceding the consideration of its virtues, and
+though bald is not absurd in content. Of the ten categories that belong to the Aristotelian
+theory of predication, it is of course these three, substance, quality, and quantity, that
+provide the definition of a thing's essential nature; the other categories only state
+things that are incidentally true of it at a particular time and place.
+2 Aristotle's thought in this section is best illuminated by the discussion in Rhetoric
+2. 9 of the emotions that expel pity, and particularly by the discussion of 'justified
+
+POETICS
+
+107
+
+So the good plot must have a single line of development, not a double
+one as some people say;' that line should go from good fortune to bad
+and not the other way round; the change should be produced not through
+wickedness, but through some htrge-scale piece of ignorance; the person
+ignorant should be the sort of man I have described-certainly not a
+worse man, though perhaps a better one.
+This is borne out by the facts: at first the poets recounted any story
+that came to hand, but nowadays the best tragedies are about a few families
+only, for example, Alcmaeon, Oedipus, Orestes, Meleager, Thyestes, Telephus, and others whose lot it was to suffer or commit fearful acts.
+Well then, the best tragedy, judged from the standpoint of the tragic
+art, comes from this sort of arrangement. That is why those who censure
+Euripi~es for doing this in his tragedies and making many of them end
+with disaster are making just the same mistake. 2 For this is correct in
+the way I said. The greatest proof of this is that on the stage and in the
+contests such plays are felt to be the most properly tragic, if they are well
+managed, and Euripides, even if he is a bad manager in the other points,
+is at any rate the most tragic of the poets. 3
+Second comes the sort of arrangement that some people say is the best:
+this is the one that has a double arrangement of the action like the
+Odyssey, and ends with opposite fortunes for the good and bad people.
+It is thought to be the best because-of the weakness of the audiences;
+for the poets follow the lead of the spectators and make plays to their
+indignation' (nemesiin). This emotion has several aspects, pain at the undeserved misfortunes of the good, pain at the undeserved good fortune of the wicked, pleasure at the
+deserved misfortunes of the wicked; these three aspects correspond to the three cases
+that Aristotle here excludes. 'What satisfies our human feeling' (to philanthropon) seems
+here to be the opposite of 'the morally outraging' (to miaron).
+Aristotle clearly has some difficulty in reconciling the need to avoid 'justified indignation' with the requirement that the characters of high poetry should be good. To do so
+he invokes hamartia as the cause of their misfortune. In the context two things are
+necessary, that the tragic figure should in some sense be responsible for his fate (to
+avoid the first case), and that his fate should nevertheless be worse than he deserves (to
+avoid the third case); that is, a hamartia here is 'a going wrong that is venial'. Other
+discussions (especially Nic. Eth. 3. 1-2) show that it is venial because the character did
+not know what he was doing; the same act done in full knowledge would be a crime. In
+the case of Oedipus, for instance, the hamartia is simply and solely the murder of Laius
+and the marriage with Jocasta, in ignorance of the fact that they were his parents. The
+Bradleyan notion popular among English critics that the hamartia is a fault of character
+is of course excluded by the description of the hamartia as large-scale; a large-scale
+fault of character is not, in Aristotle's view, venial.
+I See below, n. 2.
+2 They make the same mistake as the 'some people' mentioned above and below,
+those who prefer a happy ending for the good.
+3 'Most tragic' must mean 'best at arousing pity and fear'.
+
+ARISTOTLE
+
+108
+
+specifications. But this is not the pleasure proper to tragedy, but rather
+belongs to comedy; for in comedy those who are most bitter enemies
+throughout the plot, as it might be Orestes and Aegisthus, I are reconciled
+at the end and go off and nobody is killed by anybody.
+2.
+
+1453b
+14
+
+The source of the tragic effect
+
+Now though pity and fear can be elicited by the spectacle, they can also
+be elicited just by the arrangement of the particular actions [that make
+up the plot], and this is a prior consideration 2 and the sign of a better
+poet. For the plot ought to be so composed that even without seeing the
+action, a man who just hears what is going on shudders and feels pity
+because of what happens; this one would feel on hearing the plot of the
+Oedipus, for instance. But to produce this effect via the spectacle has
+less to do with the art of tragedy and needs external aids. To go further
+and use the spectacle to produce something that is merely monstrous,
+instead of something that rouses fear, is to depart entirely from tragedy.
+For one should look to tragedy for its own pleasure, not just any pleasure;
+and since the poet's job is to produce the pleasure springing from pity
+and fear via mimesis, this clearly ought to be present in the elements of
+the action.
+What sort of events, then, do seem apt to rouse fear, or [rather] pity?
+This is my next subject. In such actions, people must do something to
+those closely connected with them, or to enemies, or to people to whom
+they are indifferent. Now, if it is a case of two enemies, this arouses no
+particular pity, whether the one damages the other or only intends to;
+or at least, pity is felt only at the pathos 3 considered in itself. The same
+is true in the case when people are indifferent to each other. The cases
+we must look for are those where the pathos involves people closely
+connected, for instance where brother kills brother, son father, mother
+son, or son mother---or if not kills, then means to kill, or does some other
+act of the kind.
+Well, one cannot interfere with the traditional stories, cannot, for
+instance, say that Clytaemestra was not killed by Orestes or Eriphyle by
+Alcmaeon; what one should do is invent for oneself and use the traditional
+material well. Let me explain more clearly what I mean by 'well'. One
+can make the act be committed as the ancient poets did, that is, with the
+I In tragedy, naturally. Aristotle is denied his joke by those who either hunt solemnly
+for a comedy on the topic of Orestes and Aegisthus or take this to be a reference to a
+hypothetical third form of tragedy, with a happy ending for everybody.
+• Prior both in time and in importance, as it belongs to the poetic art proper; the
+point is the same as that made about spectacle on p. 100 above.
+3 Cf. above, p. 105.
+
+POETICS
+
+log
+
+agents knowing and aware [whom they are damaging]; even Euripides has
+the example of Medea killing her children with full knowledge. [And
+they can have knowledge and not act].' Or they can commit the deed that
+rouses terror without knowing to whom they are doing it, and later
+recognize the connection, like Sophocles' Oedipus; this indeed happens
+outside the play, but we have examples in the tragedy itself, for example,
+Astydamas' Alcmaeon and Telegonus in the Wounded Odysseus. 2 Again,
+apart from these one might through ignorance intend to do something
+irreparable, and then recognize the victim-to-be before doing it. These
+are the only possible ways, as they must either do it or not, and in knowledge or ignorance.
+The worst of these is to have the knowledge and the intention and
+then not do it; for this is both morally outraging and untragic-'untragic'
+because it involves no pathos. That is why nobody does behave in this 1454a
+way except very rarely, as Haemon, for example, means to kill Creon
+in the Antigone. 3 The second worst is doing it: the better form of this is
+when the character does it in ignorance, and recognizes his victim afterwards; for this involves no feeling of outrage and the recognition produces
+lively surprise. But the best is the last, for example, the case in the Cresphontes4 where Merope means to kill her son and does not, but recognizes
+him instead, and the case involving brother and sister in the Iphigenia in
+Tauris; again in the Helle the son recognized his mother when on the
+point of giving her up.s
+I In view of the last sentence of the paragraph this addition from the Arabic
+translation seems necessary.
+• The Odysseus Acanthoplex of Sophocles.
+3 The incident is not shown but described in three lines of Sophocles' messenger's
+speech (1232 fT.).
+4 Of Euripides.
+5 No amount of special pleading can do away with the fact that in commending this
+last case Aristotle is commending a situation that leads to a happy ending for the good.
+This passage is therefore in downright contradiction with the censure of the happy
+ending on pp. 107 f., and it is hardly possible to believe that it forms part of the same chain
+of thought. Moreover the next paragraph follows more happily on the words 'or if not
+kills, then means to kill, or does some other act of the kind' than it does on anything
+else in the section. Bywater is therefore probably right in taking the two paragraphs
+from 'Well, one cannot interfere .. .' to ' ... giving her up' to be a later addition made
+by Aristotle himself to his own text and enshrining a change of mind. He cannot be
+right about the reason for the change of mind, which he finds in Aristotle's 'somewhat
+tardy recognition of the necessity of avoiding' the morally outraging; the recognition
+is so far from tardy that it has dominated the discussion from the beginning of c. 13, and
+in any case the tragic situation where the deed is done in ignorance is expressly said to
+involve no feeling of outrage. There seems little to be done with the change of mind
+but to accept it. However surprising it may seem to people in full strength, Aristotle is
+not after all the only great man to pass in later years from a preference for tragedy to
+a preference for tragicomedy; Shakespeare and Sophocles are notable examples.
+
+IIO
+
+ARISTOTLE
+
+As I said before, this is why tragedies are about very few families.
+As it was not art but chance that led the poets in their search to the
+discovery of how to produce this effect in their plots, they have to go to
+the families in which such patM occurred.
+So much for the arrangeme~t of the particular acts and the qualities
+required of plots.
+SECTION B. WITH RESPECT TO CHARACTER
+
+IS In the representation of character, there are four things that one ought
+
+to aim at:
+(a) First and foremost, the characters represented should be morally
+good. The speech or action will involve mimesis of character if it
+makes plain, as said before, the nature of the person's moral choice, and
+the character represented will be good if the choice is good. This is
+possible in each class: for example, a woman is good and so is a slave,
+though the one is perhaps inferior, and the other generally speaking
+low-grade.
+(b) The characters represented should be suitable: for example, the
+character represented is brave, I but it is not suitable for a woman to be
+brave or clever in this way.2
+(c) They should be life-like; this is different from the character's
+being good and suitable in the way I used 'suitable'.3
+.
+(d) They should be consistent: for even if the subject of the mimesis is
+an inconsistent person, and that is the characteristic posited of him,
+still he ought to be consistently inconsistent.
+An example of unnecessary badness of character is Menelaus in
+the Orestes,4 of the unsuitable or inappropriate Odysseus' lament in the
+Scylla s and Melanippe's speech,6 of the inconsistent Iphigenia in the
+Iphigenia at Aulis, as the girl who pleads for her life is quite different
+from the later one.
+In the representation of character as well as in the chain of actions
+one ought always to look for the necessary or probable, so that it is
+And therefore meets the requirement of being morally good.
+Cf. Politics I. 5, and 1277b21 ff., for the difference between the virtues of men and
+women, even when their virtues are called by the same name.
+3 It is not clear what Aristotle means by this requirement, especially as he either did
+not give or the tradition has lost the example ofits violation.
+4 His cowardice in 682-715. Else rightly argues that this and the other examples
+given are, when we can check them, 'unnecessary' because they do not contribute to the
+action of the play, which would be unaffected whether they were there or not.
+S The example does not come from tragedy, but from a dithyramb by Timotheus.
+6 In Euripides' Melanippe the Wise Woman.
+I
+
+2
+
+POETICS
+
+III
+
+necessary or probable that a person like this speaks or acts as he does,
+and necessary or probable that this happens after that. Clearly then,
+the denouements of plots ought to arise just from the mimesis of
+character,! and not from a contrivance, a/deus ex machina, as in the Medea
+and in the events in the Iliad about the sering off.2 The contrivance should
+be used instead for things outside thb play, either all that happened
+beforehand that a human being could not know, or all that happens later
+and needs foretelling and reporting; for we attribute omniscience to the
+gods. In the particular actions themselves there should be nothing
+irrational, and if there is it should be outside the tragedy, like that of
+Sophocles' Oedipus. 3
+Since a tragedy is a mimesis of people better than are found in the world,
+one ought to do the same as the good figure-painters; for they too give
+us the individual form, but though they make people lifelike they represent
+them as more beautiful than they are. Similarly the poet too in representing
+people as irascible and lazy and morally deficient in other ways like that,
+ought nevertheless to make them good, as Homer makes Achilles both
+good and an example of harsh self-wiI1.4
+One must watch out for all these points, and also for the errors against 5
+the perceptions necessarily attending on the poetic art; for in these
+perceptions too one can often go wrong. But I have said enough about
+them in my published works.
+
+1454b
+
+DIGRESSION ON VARIOUS TOPICS OF INTEREST TO THE
+PRACTISING PLAYWRIGHT6
+I.
+
+Recognition
+
+I gave before the genus definition of recognition. Now for its species:
+(a) The first and least artistic (and the one most used because people
+I This is the reading of the sixth-century Syriac translation and is the only one that
+allows all this chapter, apart from the last sentence (below, n. 5), to deal with character.
+The rest of the evidence for the text has 'should arise from the plot itself'. If this is
+right, we must suppose that the bundle of practical hints for playwrights that occupies
+chapters 16-18 and interrupts the orderly development of the treatise begins with this
+sentence, and not with the last sentence of c. 15 or the first of c. 16 (below, n. 6).
+2 Probably Athene's intervention at Iliad 2. 166 If.
+3 Cf. below, p. 126.
+4 The last clause renders Lobel's conjecture.
+s Or 'arising from'. The text and interpretation are uncertain. The sentence seems to
+have some relation to the discussion of poetic imagination on p. I 13 below.
+6 The discussion of excellence in tragedy, which proceeds from plot (cc. 13-14) and
+character (c. 15) to the representation of intellect (c. 19) and verbal expression (cc. 19 If.),
+is suspended, and we have three chapters which nobody would have planned to put
+where we find them, though they are indubitably Aristotelian.
+
+16
+
+II2
+
+ARISTOTLE
+
+can think of nothing better) is recognition by visible signs. These signs
+may be birthmarks, like 'the spear the earth-born bear' or stars like those
+Carcinus supposed in his Thyestes, or acquired after birth; there are two
+kinds of the latter, bodily onesJike scars, or external ones, like necklaces
+and the recognition by means of the cradle in Sophocles' Tyro. Even
+such signs can be well or badly handled: for example, Odysseus' scar
+leads to his being recognized in one way by his nurse and in another by
+the swineherds; recognitions like the latter, which are just meant to
+convince [the other characters in the poem], are less artistic, and so are all
+others similarly contrived; those that spring from a peripeteia, like that
+in the Bath episode, are better.!
+(b) The next are those manufactured by the poet: this makes them
+inartistic. An example is Orestes' making himself known in the Iphigenia
+in Tauris; for she herself was recognized by means of her letter, but
+Orestes says without more ado what the poet wants him to say, not what
+the plot demands. So this is quite near the previous fault, since it would
+have been possible for him to bring some tokens too. There is also the
+'voice of the shuttle' in Sophocles' Tereus. 2
+(c) The third is by means of memory, that is, when one's awareness is
+1455a roused by seeing something: for example, in Dicaeogenes' Cyprians, he
+sees the picture and bursts into tears, and in the story of Alcinous Odysseus
+is reminded by listening to the harpist, and weeps; this leads to the
+recognition in each case.
+(d) The fourth is recognition on the basis of reasoning: in the Choephoroe, for instance, we have the argument 'Somebody like me has come;
+nobody but Orestes is like me; so Orestes has come'.3 Another example
+is the way the sophist Polyidus dealt with Iphigenia; it was natural, he
+thought, for Orestes to argue that his sister had been sacrificed and now
+it was his turn to be sacrificed. Another is in Theodectes' Tydeus to the
+effect that in coming to find his son he was losing his own life. Again, in
+the Sons of Phineus, when the women saw the place they inferred that
+they were destined to die there, since that was where they had been
+exposed.
+There is also a composite kind involving a false inference on the part
+of the other character. An example of this is in Odysseus the False Messenger. For that Odysseus and only he can string the bow is something
+The Bath episode is the recognition by Eurycleia in Odyssey 19.
+Philomela told her story by weaving it, as her tongue had been cut out.
+3 Electra does not use this dubious bit of reasoning to help her recognize Orestes; he
+recognizes her because he hears her producing it in lines 164 if. Her recognition of him
+is 'manufactured by the poet', i.e. he simply declares who he is (219) and also produces
+tokens (225 if.: the lock fits the place on his head from which it was cut and he has a
+robe that Electra embroidered). Editors have failed to see this.
+I
+
+2
+
+POETICS
+
+II3
+
+manufactured by the poet, and there is a hypothesis 'If he said that he
+would know the bow that he has not seen', I but to construct the plot so
+that it looks as if he will recognize him through this [false inference] is
+[the case of] paralogism [being described].z
+(e) The best kind of all is that which arises from the actions alone,
+with the surprise developing through a series of likelihoods; examples are
+that in Sophodes' Oedipus and Euripides' Iphigenia in Tauris; for it was
+likely that she would want to send a letter. 3 Only such recognitions are
+really free from manufactured signs and necklaces. The next best are
+those that come from reasoning.
+
+2.
+
+Poetic imagination
+
+In composing plots and working them out so far as verbal expression 17
+goes, the poet should, more than anything else, put things before his eyes,
+as he then sees the events most vividly as if he were actually present,
+and can therefore find what is appropriate and be aware of the opposite.
+The censure on Carcinus is an indication of this: that was a matter of
+Amphiaraus' coming from the temple, which would have escaped notice
+ifithad not been seen, but fell flat on the stage, because the audience made
+a fuss about it. So far as possible one should also work it out with the
+appropriate figures. 4 For given the same natural endowment, people who
+actually feel passion are the most convincing; that is, the person who most
+realistically expresses distress is the person in distress and the same is true
+of a person in a temper. That is why poetry is the work of a genius rather
+than of a madman; for the genius is by nature adaptable, while the madman is degenerate. s
+I Taking this to be a hypothesis entertained by one of the characters and meaning
+'Ifhe truly says that he will recognize the bow that he has not, since his arrival in Ithaca,
+seen', one can see that the character might falsely infer 'He is Odysseus'. The false
+inference is the fallacy ofinferring the antecedent from the consequent; below, p. 126.
+Z Text and interpretation are a matter of speculation. The false inference might be
+made by the audience instead of by another character, and we do not know whether the
+work discussed is a play or the relevant part of the Odyssey.
+3 Iph. Taur. 725-803.
+• Le. of speech and thought. Others interpret 'gestnres'.
+5 The manuscripts have 'That is why poetry is the work of a genius or of a madman',
+in conjunction with which the next clause must be interpreted 'for the genius is by
+nature adaptable, while the madman is beside himself'; if this is right Aristotle is placidly
+assenting en passant to Plato's account of poetic mania (above, p. 75), though that
+account can hardly be reconciled with the demands he himself makes on the poet in this
+discussion. This attitude is, to say the least, less to be expected than that of tacit dissent
+from a Platonic paradox. The pseudo-Aristotelian Problems (954) implies that both
+madmen and geniuses share the temperament later called 'melancholy adust', but that in
+
+8143591
+
+I
+
+ARISTOTLE
+
+Whether the argument of a play is pre-existent or whether one is
+I455b inventing it oneself, one should set it out in general terms, and only
+then make it into episodes and extend it. By 'setting it out in general
+terms' I mean, to take the case of the Iphigenia in Tauris: [before the
+action proper begins] a girl was sacrificed and disappeared without the
+sacrificers knowing what had happened to her, and she was settled in
+another country where there was a law that ont,! sacrificed strangers to
+the goddess; she was installed as priestess of this rite ; [then in the action
+proper] it came about later that the priestess's brother arrived (that he
+came because of an oracle and his purpose in coming are things outside
+the action); anyway he came and was captured and when on the point
+of being sacrificed disclosed himself, either as in Euripides' poem or
+as in Polyidus,I saying, that is, as was natural, that it turned out that he
+was destined to be sacrificed as well as his sister; and this recognition
+produced his rescue. After this one should come to adding the names
+and making the episodes. Take care that the episodes are relevant; for
+example, in the case of Orestes in the Iphigenia such episodes are the fit
+of madness that led to his capture, and his escape through being purified.
+In plays episodes are brief, but epic uses them to increase its length.
+The Odyssey, for instance, has a very brief argument: [as preliminary to
+the action] a man is away from home for many years and jealously
+watched by Poseidon and has lost his followers; moreover at home his
+affairs are such that his property is being wasted by suitors and plots
+laid against his· son; [and in the action proper] he comes home in dire
+distress and after disclosing himself makes an attack and destroys his
+enemies without being killed himself. This is what is proper to the
+action; the rest of the poem is episodes.
+the genius 'the excessive heat has sunk to a moderate amount'; it also contains the significant remark that 'Maracus the Syracusan was even a better poet when he was mad',
+an example so remote from the main stream of poetry and so cautious in expression that
+it is clear that the author of the Problems, at any rate, did not think poetic mania very
+common. The manuscript tradition has been challenged by three people in whose
+company it is a comfort to be, Castelvetro, Dryden, and Tyrwhitt; there is also a passage
+in which Coleridge, though without reference to Aristotle, fascinatingly makes the same
+point (Table Talk, May I, 1833):
+, "Great wits are sure to madness near allied" says Dryden, and true so far as this,
+that genius of the highest kind implies an unusual intensity of the modifying power,
+which, detached from the discriminative and reproductive power, might conjure a
+plaited straw into a royal diadem: but it would be at least as true, that great genius is
+most alien from madness, yea, divided from it by an impassable mountain,-nameiy,
+the activity of thought and vivacity of the accumulative memory, which are no less
+essential constituents of "great wit".'
+I Above, p. II2. Aristotle's expression here rather implies that Polyidus produced
+this criticism in a poem, not in a critical work, i.e. that he made his criticism by managing
+the recognition differently.
+
+POETICS
+
+lIS
+
+3. Complicati01z and denouement (desis and lusis)
+Part of every tragedy is the complication, part the denouement: the 18
+preliminaries and often some of the action proper are the complication,
+the rest the denouement. By 'complication' I mean the section from the
+beginning to the last point before he begiI).s to change to good or bad
+fortune, by 'denouement' the part from the beginning of the change to
+the end; for example, in Theodectes' Lynceus the complication is made
+up of the preliminaries, the kidnapping of the child and their being
+found out, the denouement is everything from the capital charge to
+the end.
+4. The species of tragedy
+
+Tragedy has four species,' the complicated, whose entire nature depends
+on peripeteia and recognition, the tragedy of pathos, for example those
+about Aias and Ixion, the tragedy of character, for example the Phthiotides 1456a
+and the Peleus, while the fourth is spectacle,z like the Phorcides and
+Prometheus and any set in hell.
+Preferably, of course, one should try to have all four, but if not, to
+have the most important and as many as may be, especially given the way
+people criticize poets nowadays; for since there have been poets good in
+each kind, they demand that a poet should all by himself surpass the
+peculiar excellence of each of them. It is fair too to say that tragedies are
+the same or different principally on the basis of their plots, that is, when
+they have the same complication and denouement. Many can manage the
+first but not the second, but one should always be master of both.
+
+5. The selection of tragic material
+One ought to remember what I have often said and not make an epic
+body of material into a tragedy (by 'epic' I mean one containing many
+stories), as if, for instance, one were to compose a play on the whole story
+of the Iliad. For in epic because of its length the parts can have a size
+that suits them, whereas in plays things turn out quite contrary to what
+one expected. We can find a proof of this in the poets who have dealt
+with the whole of the sack of Troy and not with a part of it as Euripides
+did, or with the story of Niobe and not in the way Aeschylus did; such
+I The manuscripts add 'for that was the number of the elements mentioned', a
+statement that has no possible reference; if Aristotle made it, he had forgotten his own
+analysis.
+2 The reading is uncertain.
+
+II6
+
+ARISTOTLE
+
+poets are either hissed off the stage or do badly in the contest-even
+Agathon was hissed off just for this reason.
+
+6. The element of surprise
+
+In peripeteiai and also in simple plots poets aim at the effects they want
+by means of surprise, I as surprise is tragic and satisfies our human feelin g. Z
+This happens when a clever scoundrel is deceived, like Sisyphus, and a
+courageous wrongdoer worsted. For this is not only surprising but likely
+in the way described by Agathon, when he said it is likely that many
+things should happen contrary to likelihood.
+
+7. The treatment of the chorus
+One should regard the chorus too as one of the actors, and as a part of the
+whole and taking part in the action; that is, one should follow Sophocles'
+practice rather than Euripides'. In poets apart from these,3 the songs
+have no more to do with the plot than with some quite other tragedy; this
+is why they [nowadays] sing interpolated songs (the first who began this
+practice was Agathon). But it is absurd, for there is no difference between
+singing interpolated songs and transferring a speech or a whole episode
+from one play to another.
+SECTION C. WITH RESPECT TO THE MIMESIS OF
+INTELLECT4
+
+19 As I have dealt with the other qualitative elements, I now have to talk
+
+about the representation of intellect and about verbal expression. The
+representation of intellect we may take to be covered by the Rhetoric; for
+it does belong rather to that inquiry. What is involvcd in the representation
+of intellect is every effect to be produced by speech. Its sections are proof
+and disproof, rousing emotion (pity, fear, anger, and so on), making a
+14S6b thing look important or unimportant. 5 OearIy in the plot too one ought
+I The manuscripts have 'to a surprising degree'; the translation is of Castelvetro's
+conjecture.
+2 Above, pp. 106 f.
+3 To a modern reader the failure to take Aeschylus into account is notable. One may
+remark also that Aeschylus is thought to have composed a trilogy on the main action
+of the Iliad (Myrmidons, Nereids, Phrygians), something derisively mentioned only as
+an absurd possibility on p. IIS above.
+4 At this point the main line of the argument is resumed (above, p. 1 II n. 6).
+5 Except on p. 99 above, Aristotle in c. 6 confined the mimesis of intellect to
+the speeches containing demonstrative arguments and general maxims. Here he includes
+
+POETICS
+
+to proceed from just these same main heads, when one needs to produce
+an effect of pity or fear, likelihood or importance. There is some difference,
+though; in the action these should be obvious without one's being told,
+whereas the other effects should be produced in words by the person
+using them and should result from his words, as the speaker would be
+quite unnecessary if the desired result were obvious without his saying
+anything.
+
+SECTION D. WITH RESPECT TO VERBAL EXPRESSION
+I.
+
+Exclusion of subjects that fall under delivery
+
+So far as verbal expression goes, one branch of inquiry is that into the
+forms of speech. Knowledge of this really falls under the study of delivery
+and is the province of the expert in that subject. I mean such questions as
+'What is a command, a wish, a statement, a threat, a question, an answer ?'
+and so on. A poet's knowledge or ignorance in this sphere does not leave
+him open to any critical censure worth bothering about. For anyone
+would think pretty trivial the fault censured by Protagoras, when he says:
+'Homer thinks he is beginning with a prayer and in fact uses a command,
+when he says, "Sing of the wrath, goddess", since to tell somebody to
+do something or not is a command.' So let us leave that alone, since it
+belongs to another field and not to poetry.
+2.
+
+The grammatical basis of the discussion
+
+Verbal expression as a whole has the following parts: element, syllable,
+linking word, articulatory word, noun, verb, termination, statement.
+An element is an indivisible sound, not any sound, but that capable of
+producing intelligible utterance; for some animals produce indivisible
+sounds, which I do not, however, call elements. This class has three subdivisions, sounded, half-sounded, and soundless. I A sounded element
+is that which has an audible sound without any contact occurring. A
+half-sounded element is one that produces an audible sound when contact
+the use that the characters make of persuasive language more widely defined. The
+negatives 'disproof' and 'unimportant' and the varieties of emotions mentioned show
+that in this sentence he is speaking of the effect the characters in a play have on each
+other. The next sentence seems a rather casual addition, pointing out that the poet in
+composing his plot and aiming to produC(' a certain effect on his audience draws on the
+same sources of argument as he makes his characters use.
+I In modern tenninology: vowels, fricatives, and stops.
+
+20
+
+lIS
+
+ARISTOTLE
+
+does occur: such are sand r. A soundless element is one where contact
+occurs without the element itself having any audible sound, though it is
+audible when combined with elements that have audible sound: such are
+g and d. The elements in these three classes can be further classified,
+according to the shape of the mouth, the place of contact, rough or smooth
+breathing, length or shortness of quantity, and accent, acute, grave, or
+intermediate. One can investigate the subject further in works on metric.
+A syllable is a composite non-significant sound made up of a voiceless
+element and one with voice: gr, for example, is a syllable by itself without
+a, and also if a is added to make gra. I But the investigation of this too is a
+matter of metric.
+1457'
+A linking word is (a) a non-significant sound which neither prevents
+nor produces the formation from a number of sounds of one significant
+utterance; it ought not to stand alone at the beginning of a statement:
+examples are men, toi, de, de [the linking particles]; (b) a non-significant
+sound that naturally produces from a plurality of sounds that nevertheless
+signify one thing a single significant utterance: examples are amphi, peri,
+and the rest [of the prepositionsJ.2
+An articulatory word (arthron) is a non-significant sound that indicates
+the beginning or end or dividing point of a statement; it is naturally
+put at either end (?) of a statement or in the middle. 3
+A noun is a composite significant sound with no temporality, and made
+up of parts not in themselves significant. For in compound words we
+do not take the parts to be significant in themselves; in Theodorus, for
+example, the doron has no significance.
+A verb is a composite significant sound with temporality, and, like a
+noun, is made up of parts not in themselves significant; by 'with temporality' I mean that, while 'man' and 'white' do not signify when, 'walks'
+and 'walked' do signify present and past time respectively.
+Termination is the part of a noun or verb that signifies case and number
+and also the part concerned with delivery, for example, question and
+command: 'Did he walk?' and 'Walk' show terminations of the verb under
+the sections of this class.
+A statement is a composite significant sound whose separate parts are
+themselves significant; I give this definition because not every statement
+is made up of nouns and verbs-the definition of man, for instance;4
+
+cr. eR N.S.20, 1970, 179.
+Text very uncertain: we follow Bywater's conjectures and transpositions.
+3 Aristotle probably means co-ordinating and subordinating conjunctions-he does not
+mean the article, though the same term is used for this in later grammatical terminology.
+4 In statements like 'Man is a featherless biped' Greek can omit the copula; the
+definition of 'statement' corrects onc given by Plato.
+I
+
+2
+
+POETICS
+
+one can, that is, have a statement with no verb, but it will always have a
+significant part.! A statement is one statement in two senses: (a) as signifying one thing, (b) by being composed of a plurality of statements: the
+Iliad, for example, is one as being composite, and the definition of man as
+signifying one thing.
+
+3. Different ways of classifying nouns2
+The species of nouns are: (a) simple: by this I mean 'not composed of
+significant parts', for example, 'earth'; (b) double: this has two varieties:
+(i) composed of a significant element and a non-significant element [e.g.
+prepositional compounds]; one must qualify this by saying that they are
+not significant and non-significant in the word;3 (ii) composed of significant elements; (c) possible species are also triple, quadruple, and indeed
+multiple, like most aggrandized words,4 'Hermocaicoxanthus' . . .
+Nouns may also be divided into standard terms, dialect terms,
+metaphorical terms, decorative terms,S neologisms, lengthened words,
+shortened words, altered words.
+By 'standard term' I mean that used by any society.
+By 'dialect term' I mean one used by another people. The same word
+can obviously be both a standard term and a dialect term, though not in
+the same society: sigunon is a standard term in Cyprus, a dialect term in
+Athens.
+A 'metaphorical term' involves the transferred use of a term that
+properly belongs to something else; the transference can be from genus
+to species, from species to genus, from species to species, or analogical.
+I The manuscripts add the lunatic and irrelevant clause 'for example, "Qeon" in
+"Cleon is walking".'
+2 To avoid repetition, Aristode's discussion of poetical style covers more than tragedy,
+dealing as well with choral lyric and with epic. The compound words discussed in the
+first classification are particularly suitable to choral lyric, while many of the decorative
+elements in the second classification are epic rather than tragic.
+3 Above, p. II 8. The qualification must also be extended to variety (ii).
+4 The Arabic translation has 'Massiliote words', for which editors have a strange
+affection, though they admit that the 'most' then becomes nonsensical; it also suggests
+that our text is defective after 'Hermocaicoxanthus'.
+5 Unlike the other terms in the list, this is not defined and discussed below. A
+papyrus fragment of a work perhaps written by Theophrastus seems to deal with
+ornamental epithets ('blazing steel', 'bright gold') after a discussion of metaphor akin
+to ours. Others have thought of synonymous terms and have tried to provide the treatment of 'decorative terms' from fr. 3: 'Aristode says in his Poetics that things are
+synonymous if they have more than one name but the same definition, that is, things
+that have several names, for example, topion and himation and pharos (all words for
+"cloak").'
+
+21
+
+1457b
+
+120
+
+ARISTOTLE
+
+By 'from genus to species' I mean, for example, 'Here my ship is still"I
+as lying at anchor is a species of being still. By 'from species to genus',
+'Odysseus conferred ten thousand benefits',2 as 'ten thousand' is a specific
+example of plurality and he uses this instead of 'many'. By 'species to
+species', 'drawing the life with the bronze' and 'cutting off [the water]
+with the unwearying bronze';3 in these examples 'drawing' is used for
+'cutting off' and 'cutting off' for 'drawing', and both are species of the
+genus 'removing'. By 'analogical' I mean where the second term is related
+to the first as the fourth is to the third; for then the poet will use the
+fourth to mean the second and vice versa. And sometimes they add the
+term relative to the one replaced: I mean, for example, the cup is related
+to Dionysus as the shield is to Ares; so the poet will call the cup 'Dionysus'
+shield' and the shield 'Ares' CUp';4 again old age is to life what evenjng
+is to day, and so he will call evening 'the old age of the day' or use
+Empedocles' phrase,s and call old age 'the evening of life' or 'the sunset of
+life'.6 Sometimes one of the four related terms has no word to express it,
+but it can be expressed through a comparison; for example, scattering
+seed is called 'sowing', but there is no term for the scattering of light by
+the sun; but as this is related to the sun as sowing is to the scatterer of
+seed, we have the expression 'sowing the god-created fIame'.7 There is
+yet another form of analogical metaphor: this is the use of the transferred
+term coupled with the denial of one of its implications, for example,
+calling the shield 'the wineless cup' instead of 'Ares' cup'.
+Neologisms are terms not in use at all, but invented by the poet himself;
+some are thought to be of this kind, for example, ernuges for 'horns' and
+areter for 'priest'.8
+14S8a
+A 'lengthened word' is one using a longer vowel than is usual, or an
+extra syllable: an example of the former is poleos for polcos, and of the
+second PeleiadiO for Peleidou. 9
+A 'shortened word' is one where something is removed from it, for
+example, kr' for krithC, do for doma, and ops for opsis •..
+Homer, Odyssey 1. 18S.
+Homer, Iliad 2.272.
+3 Both examples are assigned to Empedocles (frr. 138, 143); the reference in the
+second is to a bronze bucket.
+4 Timotheus, PMG 797; 'Dionysus' shield' may well be Aristode's own invention.
+S The reference to Empedocles may be misplaced or corrupt; it seems likely that he is
+responsible for one of the metaphors in this group.
+6 Plato, Laws 770 a.
+7 The phrase might come from choral lyric or from a tragic chorus.
+8 The latter is used three times by Homer.
+9 The terms in this and the following two sections are epic. To explain them nowadays
+we invoke comparative philology, but Aristode thinks of poetic licence.
+I
+
+2
+
+POETICS
+
+121
+
+An 'altered word' is one where part of the ordinary term is left, and
+something made up is added, like dexiteron for dexion •••1
+
+4. Excellence in poetic style
+[In poetry] verbal expression is good if it is clear without being mean. z
+The clearest is of course that made up of standard words, but it is mean:
+an example is the poetry of Oeophon and Sthenelus. The style that uses
+strange expressions is solemn and out of the ordinary; by 'strange
+expressions' 1 mean dialect terms, metaphor, lengthening, and everything
+over and above standard words. But if anyone made an entire poem like
+this, it would be either a riddle or gibberish, a riddle if it were entirely
+metaphorical, gibberish if all composed of dialect terms. For it is the
+nature of a riddle that one states facts by linking impossibilities together
+(of course, one cannot do this by putting the actual words for things
+together, but one can if one uses metaphor), for example 'I saw a man
+welding bronze on a man with fire'3 and so on. And a poem wholly made
+up of dialect terms is gibberish. So there ought to be a sort of admixture
+of these, as the one element will prevent the style from being ordinary
+and mean, that is, dialect, metaphor, decorative terms, and the other
+species 1 mentioned, while standard terms will make it clear.
+Q!Jite a large contribution to a style both clear and out of the ordinary
+is made by lengthenings, shortenings, and alterations of words. For
+because it is other than standard, being unusual, it will produce an effect
+of being out of the ordinary; at the same time, it will be clear because of its
+element of the usual. So there is something incorrect in the censure of
+those who blame this sort of style and mock at Homer, in the way the
+elder Euclides did, when he said it was easy to be a poet if one were
+allowed to lengthen things as much as one liked ...4 Of course it is
+absurd to be found obviously using this sort of thing; but all the kinds
+demand a due measure, as one could also use metaphors and dialect
+words and so on in an inappropriate and deliberately ridiculous way and
+produce the same result. If one wants to see how important it is to use
+them suitably one should take epic verses and put ordinary words into
+them. In all cases, dialect, metaphor, and so on, if one substituted the
+I Mter this the manuscripts add a section on the division of nouns into masculine,
+feminine, and neuter. This is untrue, fatuous, and irrelevant; it is impossible to believe
+that it is the work of the same man who produced the penetrating linguistic analysis
+of pp. 117 ff. above, and it is accordingly omitted here.
+Z Contrast the definition of excellence in prose style, below, p. 137.
+3 Cf. below, p. 139 .
+.. Aristode here quotes two hexameters in which Euclides parodied Homer's occasional irrational lengthening of short syllables.
+
+22
+
+1458b
+
+122
+
+ARISTOTLE
+
+standard word, one would easily see the truth of what I am saying. For
+example, Aeschylus and Euripides produced the same iambic line,1 with
+the change of a single word, as Euripides put a dialect term for the standard word, and so produced a beautiful line instead of an unimpressive
+one; for Aeschylus in his Philoetetes said 'The canker that eats the flesh
+of my foot', while Euripides substituted thoiniitai for [the standard verb]
+esthiei. Again, take the line 'being little (oligos) and no worth (outidanos)
+and hideous (aeikes)' and substitute the standard words mikros, asthenikos,
+aeides;2 and for 'putting down a poor (aeikelion) chair and little (oligen)
+table'3 put mochtheron (poor) and mikran (little);4 and for etones booosin s
+(,the shores shout') put ei"ones krazousin. 6
+Ariphrades mocked the tragedians as well for using expressions that
+1459" nobody would use in conversation ... 7 Wrongly, for all such expressions,
+because not standard, produce a stylistic effect of being out of the ordinary;
+but Ariphrades did not know that.
+It is extremely important to use in the proper place each of the kinds
+I have mentioned,s but by far the most important is to be good at metaphor. For this is the only one that cannot be learnt from anyone else,9
+and it is a sign of natural genius, as to be good at metaphor is to perceive
+resemblances. Of nouns, compounds best suit dithyrambs, dialect words
+hexameter verse, and metaphors iambic verse. ID Though in hexameters
+all the kinds are useful, in iambics, because they most closely represent
+actual speech, the most suitable are those that one would also use in prose
+speeches, that is, standard words, metaphors, and decorative termsY
+So much for tragedy and mimesis via action.
+Aeschylus, fro 253; Euripides, fr. 792.
+Homer, Odyssey 9. 515. oligos in the sense of 'small' is here regarded as a dialect
+term; in Attic it means 'few'. outidanos does not belong to prose at all, while asthenikos
+is decidedly prosaic as most of the words terminating in -ikos were not only of recent
+formation, but associated with philosophical and scientific discourse. aeides also seems
+to be used only by philosophers and medical writers.
+3 Homer, Odyssey 20. 259.
+4 mochtheros, in the sense of'distressed' or 'distressful' or as a term of moral condemnation, does belong to high poetry; but its use of things like chairs, to signify that they are
+'in a bad way', is confined to Attic colloquial speech.
+5 Homer, Iliad 17. 265.
+6 krazein of human bawling is no more or less prosaic than boiin, with which indeed
+it is sometimes linked as a synonym by the orators; but boijosin is a 'lengthened' word, for
+which Attic would use boiisin.
+7 Aristotle adds examples: archaic forms of pronouns, anastrophe of prepositions
+(i.e. placing them after their nouns).
+8 The manuscripts add 'and (? both) compound words and dialect terms'. This seems
+to be a foolish interpolation from the context immediately below.
+9 Cf. below, p. 138.
+10 The metre of tragic dialogue.
+11 Cf. above, p. 119; below, pp. 136 If.
+I
+
+2
+
+POETICS
+CHAPTER
+
+123
+
+IV
+
+EPIC
+SECTION A. THE SIMILARITIES BETWEEN EPIC AND TRAGEDY
+I.
+
+The need for unity
+
+Now for the narrative art that uses verse as its medium of mimeSIS. 23
+Clearly one should compose the plots here to be dramatic, just as in the
+case of tragedies, that is, about one whole or complete action with a
+beginning, middle parts, I and end, so that it produces its proper pleasure
+like a single whole living creature. Its plots should not be like histories;
+for in histories it is necessary to give a report of a single period, not of a
+unified action, that is, one must say whatever was the case in that period
+about one man or more; and each of these things may have a quite casual
+interrelation. For just as, if one thinks of the same time, we have the
+battle of Salamis and the battle of Himera against the Carthaginians not
+directed to achieve any identical purpose, so in consecutive times one
+thing sometimes happens after another without any common purpose
+being achieved by them. Most epic poets do make plots like histories.
+So in this respect too Homer is marvellous in the way already described,
+in that he did not undertake to make a whole poem of the war either,2
+even though it had a beginning and an end. For the plot would have been
+too large and not easy to see as a whole, or if it had been kept to a moderate
+length it would have been tangled because of the variety of events. As
+it is he takes one part and uses many others as episodes, for example, the
+catalogue of the ships and the other episodes with which he breaks the
+uniformity of his poem. But the rest make a poem about one man or one
+period of time,3 like the poet of the Cypria or the Little Iliad. That is why 1459b
+the Iliad and Odyssey have matter only for one tragedy or only for two,4
+whereas there is matter for many in the Cypria, and in the Little Iliad for
+I The plural, as distinct from the 'middle' of tragedy (above, p. 100), allows for
+epic's greater extension.
+2 In the Iliad; there seems to be a reference back to the discussion of the unity of the
+Odyssey on pp. 101 f. 'Whole' here as there implies 'unified'.
+3 The manuscripts add 'that is (? and) about one action with many parts'; this is
+very like the description of the Iliad and the Odyssey themselves that Aristotle gives
+below, p. 132. Moreover, if we believe that we know anything at all about the poems of
+the epic cycle, it is hard to credit that Aristotle ever allowed that their ramshackle
+structures dealt with 'one action', however polymerous.
+4 The reference is to the principal action of the poems, not to the episodes, like that
+ofBellerophon, which provided material for more tragedies; for the neglect of Aeschylus,
+cf. above, p. 1I6 n. 3.
+
+124
+
+ARISTOTLE
+
+more than eight, for example, The Adjudgement of the Arms, Philoctetes,
+Neoptolemus, Eurypylus, Odysseus as a Beggar, The Lacolliall Women, The
+Sack of Troy, The Departure, plus the Sinon and the Trojan Women.!
+2.
+
+24
+
+The species of epic
+
+Moreover, epic must have the same species as tragedy, that is, must be
+simplez or complex, a story of character or one of pathos. [And the
+elements are the same except for music and spectacle.] And it needs
+peripeteiai and recognitions and pathe. [Moreover its mimesis of intellect and its verbal expression should be good.] All of these Homer
+was the first to use and his use of them is exemplary. For in the case of
+each of the poems, the composition of the Iliad is simple and full of
+pathos, that of the Odyssey complex, as there are recognitions throughout,
+and full of character. [And in addition he is pre-eminent in his verbal
+expression and mimesis of intellect.]3
+
+SECTION B. THE DIFFERENCES BETWEEN EPIC
+AND TRAGEDY
+
+Epic differs from tragedy in the length of its plot and in its metre.
+I.
+
+Length
+
+The above mentioned limit oflength4 is an adequate guide: that is, one
+should be able to get a synoptic view of the beginning and the end. This
+will be the case if the poems are shorter than those of the ancients,S and
+about as long as the number of tragedies offered at one sitting.
+Epic has a peculiar characteristic in that its size can be considerably
+Probably not everything in this list is due to Aristotle.
+Cf. above, p. II5. 'Simple' here corresponds to what should probably be 'spectacle'
+there.
+3 F. Soimsen, CQ 29, 1935, 195, was probably correct in arguing that a series of
+remarks about the qualitative parts (here enclosed in double brackets) has been superimposed on a straightforward discussion of the species of epic. Whether he is right
+in believing that these inane interruptions are later additions by Aristotle himself is
+another matter.
+4 Above, p. 101.
+S The phrase delicately veils the name of Homer, the only one of the older epic poets
+to produce very long compositions. The limit suggested by Aristotle is virtually that
+observed by Apollonius Rhodius; Virgil decided that he needed more room to deploy a
+heroic theme.
+I
+
+2
+
+POETICS
+
+further extended; for though in tragedy it is impossible to represent
+many parts as at the moment of their occurrence, since one can only
+represent the part on the stage and involving the actors, in epic, because
+it is narrative, one can tell of many things as at the moment of their
+accompli~hment, and these if they are relevant make the poem more
+impressive. So it has this advantage in the direction of grandeur
+and variety for the hearer and in being constructed with dissimilar
+episodes. For it is similarity and the satiety it soon produces that make
+tragedies fail.
+2.
+
+Metre
+
+The heroic verse was found suitable from experience. For if anyone were
+to make a narrative mimesis in any other metre or in many metres, it would
+be obviously unsuitable, as the heroic metre is the steadiest and most
+weighty of all (which is why it is most ready to admit dialect terms and
+metaphors); for the narrative mimesis has itself a sort of abundance
+in comparison with the others. The iambic trimeter and trochaic tetrameter are metres of movement, one of the dance, the other of action. It 1460•
+would be even stranger if one mixed them like Chaeremon. That is why
+no one has composed a long composition except in heroic verse; instead,
+nature herself teaches people to choose the metre appropriate to the composition in the way I said.
+
+SECTION C. THE SPECIAL MERITS OF HOMER
+
+Homer especially deserves praise as the only epic poet to realize what the
+epic poet should do in his own person, that is, say as little as possible,
+since it is not in virtue of speaking in his own person that he is a maker of
+mimesis. Other pocts are personally engaged throughout, and only rarely
+use mimesis; but Homer after a brief preface at once brings on a man or
+woman or other characterized person, none of them characterless, but all
+full of character.'
+Though one ought of course to aim at surprise in tragedy too, epic is
+more tolerant of the prime source of surprise, the irrational, because one is
+not looking at the person doing the action. For the account of the pursuit
+of Hector would seem ludicrous on the stage, with the Greeks standing
+I The doctrine in this section seems at variance with the view that plain narrative is a
+variety of mimesis (above, p. 93). The same sort of exaggeration of the small part played
+in Homer by direct narration seems to occur in Plato, Republic 393 a (above, p. 61).
+
+I26
+
+ARISTOTLE
+
+still and not pursuing him, and Achilles refusing their help;1 but in epic
+one does not notice it. And surprise gives pleasure, as we can see from the
+fact that we all make additions when telling a story, and take it that we are
+giving pleasure. Now it was Homer who taught other poets the proper
+way to tell lies, that is, by using paralogism. For people think that if,
+whenever one thing is true or happens, another thing is true or happens,
+then if the second is true, the first is true or happens; but this is not so.
+That is why, if the first is false, but if it were true something else must be
+true or happen, one should add the second; for because we know that the
+second is true, our soul falsely infers that the first is also true. The thing
+in the Bath scene is an example of this. Z
+One ought to prefer likely impossibilities to unconvincing possibilities
+and not compose one's argument of irrational parts. Preferably there
+should be no irrationality at all, and if there is it should be outside the
+plot; the Oedipus, for example, has this sort of irrationality in his not
+knowing how Laius died. 3 It should not be inside the plot like the messengers from the Pythian games in the Electra4 or the man who went
+speechless from Tegea to Mysia in the Mysians. 5 So it is absurd to say
+that otherwise the plot would have been ruined, as one should not compose them to be like this in the first place. If one does put in an irrationality and it is apparent that it could be dealt with more rationally, it is
+absurd as well. For it is clear that even the irrationalities in the Odyssey
+1460b about his being put ashore 011 Ithaca would have been intolerable if
+produced by a bad poet;6 but as it is Homer completely disguises the
+flavour of absurdity by his other excellences. It is in the parts that involve
+no action and no mimesis of character or intellect that one should be most
+elaborate in verbal expression; when character and intellect are being
+represented too brilliant a style often conceals them.
+I Homer, Iliad 22. 131 If.
+• The reference is to Homer, Odyssey 19. 220 If. where Pene10pe infers from
+Odysseus' account of the clothes he wore in Crete that he had met Odysseus there. The
+instance is not particularly to the point, as it involves a false inference made by one
+character about another, whereas the context is talking about how the poet misleads his
+hearers.
+3 It may be remarked that Sophocles seems to have been aware of this irrationality,
+and to have tried to palliate it by attributing to the royal house of Thebes and to the
+chorus an instinctive distaste for the public discussion of unpleasant subjects (91 f.
+Creon, 637 f. Jocasta, 678 f., 685 f. the chorus).
+4 Sophocles, Electra 680 If. The irrationality may lie in the anachronism.
+S Of Aeschylus or Sophocles.
+6 Homer, Odyssey 13. II3 If.
+
+POETICS
+
+IZ7
+
+SECTION D. CRITICISMS OF HOMER AND HOW TO ANSWER
+THEMI
+I.
+
+The bases of the answers
+
+The next subject is questions about what is said and the answers to them.
+How many species do they fall under and what are the species? If we
+look at the matter as follows the answer will be clear.
+(a) Since the poet produces mimeseis, just like a painter or other visual
+artist, the object of his mimesis must always be one of three things, that
+is, what was or is, what is commonly said and thought to be the case, and
+what should be the case.
+(b) The narration of these involves verbal expression, including the
+use of dialect terms and metaphor and many abnormal elements of expression, as these are licences we allow to poets.
+(c) Further, correctness in poetry is not the same thing as correctness
+in morals,2 nor yet is it the same as correctness in any other art. Faults
+that are relevant to the art of poetry itself are of two kinds, one involving
+its essential nature, and the other incidental. If the poet is incapable of
+representing what he set out to represent, this is an error involving the
+essential nature of poetry. If the error arises through the poet's setting
+out to represent something incorrectly, for example, representing a horse
+with both its right legs forward,3 and this is the reason why we find
+in the poem either a mistake with reference to any particular art (for
+example, medicine or some other art) or, more generally, any other impossibility, this does not involve the essential nature of poetry.4
+So one should use these principles in examining and answering the
+questions raised.
+2.
+
+(a)
+
+The twelve sorts of answer
+
+ANSWERS DERIVED FROM BASIS
+
+(c)
+
+Let us take first of all the errors that involve the art of poetry itself:
+1. If the poem contains[, for instance,] an impossibility,s that is a
+fault; but it is all right if the poem thereby achieves what it aims at (what
+I This discussion is extremely difficult and compressed, presumably because it is
+an epitome of the four books that Aristotle wrote on Homeric Problems.
+2 This curt phrase is a very important part of Aristotle's answer to Plato.
+3 Photography has shown that horses do sometimes employ this gait.
+4 The English reader may recall the justified censure of Milton's botany in Lycidas.
+5 It is important to realize that though Aristotle takes an impossibility as an example,
+he could equally well have chosen something irrational, morally damaging, or selfcontradictory (below, p. 131).
+
+128
+
+ARISTOTLE
+
+it aims at I have already discussed), that is, if in this way the surprise
+produced either by that particular passage or by another is more striking.
+An example is the pursuit of Hector. However, if it was possible for the
+aim to be attained either more or no less without any error in the art
+[essentially] concerned, it is not all right; for, if possible, there should be
+no error at all.
+2. Secondarily, one should consider whether the error involves the
+essential nature of poetry or something incidental, as it is a lesser fault
+not to know that a hind has no antlers than to paint it in a way that is not
+adequate to mimesis.
+
+(b)
+
+ANSWERS DERIVED FROM BASIS
+
+(a)'
+
+3. In answer to the charge of not being true, one can say, 'But perhaps
+it is as it should be': Sophocles, for example, said that he represented
+people as they should be, and Euripides as they are; this is the answer.
+4. If it is neither true nor as it should be, one can reply, 'But it is what
+people say'. An example of this is the treatment of the gods: for this,
+perhaps, is neither a better thing to say nor a true one, but instead the
+'461" facts are perhaps as Xenophanes saw them;2 but anyhow that is what
+people say.
+5. Again, if the reply that it is better is not open, the answer can be,
+'It used to be so'; an example here is the remark about weapons, 'Their
+spears stood upright on their butt-ends';3 that was the custom then, as it
+still is among the Illyrians.
+6. Then there is the question whether someone's statement or action
+is good or-not. Here one should not look just at what is said or done in
+considering whether it is good or bad, but should also take into account
+the person who says or does it, asking to whom he said or did it, when,
+with what, and for what motive. Was it, for instance, to produce a greater
+good or avert a greater evil?
+
+(c)
+
+ANSWERS DERIVED FROM BASIS
+
+(b)4
+
+Some objections should be answered by considering the expressions
+used:
+I The first three answers here are various ways of dealing with the charge that what
+is said is not true, the fourth with the charge that what is said is not as it should be,
+i.e. is morally damaging.
+3 Above, p. 4.
+3 Homer, Iliad 10. '52.
+4 The charges answered are, as one would expect, of very diverse kinds; answer (7),
+for instance, copes first with a supposed irrationality, then with a supposed selfcontradiction ('How could Dolon run fast if he was deformed ?'), then with something
+supposed morally damaging.
+
+POETICS
+
+129
+
+7. A dialect word may be involved: for example, in 'First it attacked
+the mules',' it may be that oureas means 'sentinels', not 'mules'; and in
+the case of Dolon 'whose form (eidos) was not good',Z he means he had an
+ugly face, not a distorted body, since the Cretaris use eueides to mean
+'having a handsome face'; again, in 'make the mixture zoroteron', this
+word means, not 'stronger' with the implication that they were winebibbers, but 'faster'.3
+8. Some expressions are metaphorical. For example, in 'The rest of
+gods and men slept the night 10ng',4 where he says at the same time
+'when he looked toward the plain of Troy, he marvelled at the din of
+flutes and pipes',5 'all' is used metaphorically for 'many', as totality is a
+species of plurality. Similarly 'The pole star alone has no contact with the
+Ocean'6 is also metaphorical; for 'alone' is put for 'best known'.
+9. The answer may be to change the accents and breathing: such a
+solution was given by Hippias of Thasos in suggesting the imperatival
+infinitive did6men for didomen in 'and we grant him the achievement of
+glory',7 and the negative ou for the partitive hou in 'part of it is rotted by
+the rain'.8
+10. Some may be answered by a change of punctuation, for example,
+Empedocles' 'at once things became mortal which had been used to be
+immortal, and things unmixed formerly mixed'.9
+II. Another reply is that the expression is ambiguous, for example, in
+'more of the night was past than two thirds; the third was left';1O here
+pleo, 'more', is ambiguous [and may mean 'full'].
+12. Some things are a matter of usage. We call wine and water 'wine',
+and by analogy with this Homer says 'greaves of new.,forged tin'.lI And
+we call iron-workers 'bronze-smiths', and on the.analogy of this Ganymede is said to pour wine for Zeus, IZ though gods do not drink wine; this
+could also be explained as an analogical metaphor.
+I Homer, Iliad I. 50.
+• Ibid. 10. 316.
+3 Ibid. 9. 202.
+4 Ibid. 10. I f., 2. I f.
+5 Ibid. 10. 11-13.
+6 Ibid. 18. 489, Odyssey 5. 275; Aristotle gives tlris and some otlrer of tlre quotations
+in this section in a much abbreviated form.
+7 Homer, Iliad 21.297 and perhaps in Aristotle's text of Iliad 2. IS.
+8 Ibid. 23. 328.
+9 Fr. 35. 14 f. Aristotle means tlrat one should take 'formerly' witlr 'unmixed' instead
+of witlr 'mixed'.
+la Homer, Iliad 10. 251 ff.
+Ibid. 21. 592; 'tin' is used for 'bronze', an alloy containing it.
+a Ibid. 20. 234.
+l[
+
+8143591
+
+K
+
+13 0
+
+ARISTOTLE
+
+3. Summary
+In fact, whenever a word is thought to signify something involving a
+contradiction, we ought to consider how many meanings the word
+might have in the phrase in question; for example, in 'by it the bronze
+spear was stayed',. in how many senses is it possible to take 'was stayed
+by it', and is it by taking it in this sense or in that sense that one would be
+146Ib going most contrary to the practice described by Glaucon, when he said
+that some people make irrational assumptions about a thing and, having
+passed this vote of censure all by themselves, make an inference from it
+and blame the poet as if he had said what they think he did, if what he
+says contradicts what they imagine. This has happened in the argument
+about Icarius. They think he was a Spartan and therefore say it is absurd
+that Telemachus did not meet him when he went to Sparta. But the
+facts may be as stated by the Cephallenians; they say that Odysseus took
+his wife from among them and that his father-in-law was Icadius, not
+Icarius; so probably the criticism rests on a mistake.
+Generally speaking, one should answer a charge that a thing is impossible by a reference to the demands of poetry (I), or to the fact that
+it is better so (3) or commonly thought to be so (4). By 'the demands of
+poetry' I mean that a convincing impossibility is preferable to something
+unconvincing, however possible; again it is perhaps impossible for people
+to be as beautiful as Zeuxis painted them, but it is better so, as the ideal
+should surpass reality.
+A charge of irrationality should be dealt with by reference to what is
+commonly said (4). That is one answer. Another is that on some occasions
+it is not irrational, as it is likely that things happen even contrary to
+likelihood. 2
+A charge of self-contradiction one should consider on the same basis
+as refutations in argument, asking, that is, whether it is itself the same,
+and related to the same thing, and used in the same sense, so that it is the
+poet himself who is contradicting either what he himself says or what a
+sensible man assumes.
+A charge of irrationality or of representing wickedness is justified if
+there is no necessity for the irrationality or moral wickedness and no
+use is made of it. An example of the former is Euripides' treatment of
+Aegeus [in the Medea], of the latter his treatment of Menelaus in the
+Orestes.J
+I Homer, Iliad 20. 272; the problem is how the layer of gold stopped the spear when
+it passed the layers of bronze.
+2 Above, p. II6. The figures in round brackets in this and the preceding paragraph
+refer to the relevant 'answers'.
+3 Above, p. IIO.
+
+POETICS
+
+131
+
+Well then, people produce censures under five heads, claiming that
+things are impossible, irrational, morally dangerous, self-contradictory,
+or contrary to technical correctness. I The answers to them are on the
+basis of the points enumerated: they are twelve in number.
+SECTION E. EPIC AND TRAGEDY
+
+Which is better, the epic or the tragic mimesis? This is a question one 26
+might raise.
+I.
+
+The statement of the opponents of tragedy
+
+Now if whichever is less vulgar is superior, and the less vulgar in any
+area is what is directed towards a superior audience, it is quite obvious
+that the one prepared to represent just anything is vulgar. For on the
+assumption that the audience will not grasp what is meant unless the
+performer underlines it, they go in for a variety of movements, like bad
+flute-players rolling about if they have to represent a discus, or dragging
+the chorus-leader up and down when they play Scylla. Now this is what
+tragedy is like, resembling in this the later actors, as their predecessors
+thought of them. For Mynniscus called Callipides an ape, meaning that
+he went too far, and people thought the same about Pindarus; their 1462'
+relation to their own predecessors is the same as that of tragedy as a whole
+to epic. Epic, they say, is directed to a cultivated audience which does
+not need gesture, tragedy to a low-class one; so if it is vulgar, it must
+obviously be worse.
+2.
+
+The arguments for tragedy
+
+We may say first and foremost that this charge is directed against the art
+of the performer, not that of the poet, since one can be over-elaborate
+and over-emphatic in reciting epic as well, like Sosistratus, and in a
+singing contest, like Mnasitheus of Opus. Moreover not all movement is
+disreputable, given that not all dancing is disreputable either, but only
+the movement of low-class people; this censure was made against Callipi des and others, on the ground that they represent women of no repute.
+Again, tragedy produces its effect even without movement, just as epic
+I i.e. involving ignorance of, for instance, botany or zoology; cf. above, p. 127. An
+olfence against 'the art of poetry itself' would be an indefensible example of one of the
+other four.
+2 The position here stated is largely that formulated by Plato: see the criticism
+of mimesis in the Republic (above, pp. 61 If.).
+
+132
+
+1462b
+
+ARISTOTLE
+
+does; for a reading I makes its nature quite clear. So ifit is superior in all
+other respects, this charge will not necessarily lie. 2
+Again, tragedy has everything that epic has (it can even use its metre),
+and moreover has a considerable addition in the music and the spectacle,
+which produce pleasure in a most vividly perceptible way.
+Moreover, it has vividness when read as well as when performed.
+Again, it takes less space to attain the end of its mimesis; this is an advantage because what comes thick and fast gives more pleasure than something diluted by a large admixture of time-think, for instance, of the
+effect if someone put Sophocles' Oedipus into as many lines as the Iliad.
+Again, the mimesis of the epic poets is less unified, as we can see from the
+fact that any epic mimesis provides matter for several tragedies. The
+result of this is that if they do make a single plot, it either appears curtailed, when it is only briefly indicated, or follows the lead of its lengthy
+metre and becomes dilute; I mean here the poem made up of several
+actions, in the way in which the Iliad has many such parts and also the
+Odyssey, and these parts have extension in themselves (and yet these two
+poems are as admirably composed as can be and are, so far as possible,
+the mimesis of a single action).
+If tragedy is superior in all these respects and also in artistic effectiveness (for these arts should produce not just any pleasure, but the one
+we have discussed),3 it would obviously be superior to epic as it is more
+successful in attaining what it aims at.
+So much for tragedy and epic, their nature, the number and differences
+of their qualitative elements and quantitative parts, the reasons for success
+and failure in them, and criticisms of them and how to answer them.
+B. CATHARSIS
+(Politics 134Ib32 If.)
+
+In the absence of better evidence, this passage must be taken as determinant of
+the meaning of catharsis in the Poetics as well; and in speaking of pity and fear
+Aristotle certainly seems to have tragedy in mind rather than just music.
+Catharsis therefore operates by rousing to a high pitch an emotion to which
+people are, either morbidly or to some degree, prone; the intensification of
+emotion produces a relief from it. Nevertheless, music is not quite on all fours
+with tragedy: its place in therapeutic practice was established; more important,
+though the Greeks regarded music as more 'programmatic' than we do, it is
+Cf. below, p. 143.
+The three arguments in this paragraph are defensive; the rest state positive advantages of tragedy.
+3 Cf. above, pp. 86 f. The catharsis of pity and fear could hardly stand at the point
+where it does in the definition of tragedy if Aristotle thought it characteristic of epic too.

@@ -1,7 +1,7 @@
 ARS BREVIS
 L
 
-Introduction
+Introduction
 The Ars brevis, historically Llull’s single most influential work,
 was the culmination of a long process of adaptation in response
 to criticisms concerning the complications and difficulties of
@@ -41,7 +41,7 @@ caused by the meanings of the alphabet of the Ars demonstrativa and its sixteen 
 confound the mind”; cf. Hillg, p. 179.
 5 See again § 19 of the “Life,” as well as Urvoy, Islam, p. 399.
 
-ARS BREVIS
+ARS BREVIS
 
 of 1308 and the Ars generalis ultima of 1305-8.6 In this process
 several important changes were made in the Art. First, the figures
@@ -85,7 +85,7 @@ remaining three triangles are those of the Principles of Medicine-, cf. Dist. I,
 work.
 12 Cf. Ars demonstrativa, Prologue, n. 2, and Dist. I, nn. 4, 43.
 
-INTRODUCTION
+INTRODUCTION
 
 573
 
@@ -129,7 +129,7 @@ with the last two figures of this Art.”
 16 For the close relation between the two works—they correspond part for part—see
 the Invocation and Prologue below and the notes there.
 
-574
+574
 
 ARS BREVIS
 
@@ -174,7 +174,7 @@ Part iv, n. 1 below.
 20 For the often complicated prehistory of these and subsequent parts of the Ars brevis,
 see the notes at the beginning of individual parts, as well as my “Notes,” p. 86.
 
-INTRODUCTION
+INTRODUCTION
 
 575
 
@@ -222,7 +222,7 @@ of structuring, mechanizing, and “ontologizing” traditional logic.
 porary with the Ars demonstrativa, is composed almost entirely of examples; and “metaphor”
 occupies all of Dist. x of the earlier Principles of Medicine.
 
-576
+576
 
 ARS BREVIS
 
@@ -265,7 +265,7 @@ was one of the things that most impressed Renaissance Lullists; see for example 
 von Nettesheim’s remarks quoted in “Llull’s Influence," n. 49 above.
 27 See the “Life,” § 42 and n. 169 there.
 
-INTRODUCTION
+INTRODUCTION
 
 577
 
@@ -313,7 +313,7 @@ pp. 334, 337, and EL 13 (1969), 160, 163, as well as Hillg, pp. 304—5.
 material; it bears no relation whatever to the two medieval Catalan mss mentioned below.
 36 Ca i, 427-55.
 
-578
+578
 
 ARS BREVIS
 
@@ -348,7 +348,7 @@ EL 4 (1960), 206. The fourth ms listed by Artus as containing a Spanish translat
 Ars brevis (Palma, Bibl. Publ., MS 999), in fact contains a Latin abstract of the work, and
 a Spanish translation of the probably apocryphal Art of Confession', see Garcia Pastor, Hillgarth, and Perez Martinez, Manuscritos lulianos de la Biblioteca Ptiblica de Palma (BarcelonaPalma, 1965), pp. 104-5.
 
-God, with the help of Your grace, wisdom, and love, here
+God, with the help of Your grace, wisdom, and love, here
 begins the Ars brevis, which is a replica of the General Art, that
 is, of the work beginning “God, with the help of Your supreme
 perfection, here begins the Ars generalis ultima.”'
@@ -380,7 +380,7 @@ an art that is inventiva; cf. Ars demonstrativa, Dist. in, n. 16.
 3 These “parts” correspond exactly, which greatly facilitates cross-consultation. Note that
 throughout the Ars brevis Llull almost always refers to the Ars generalis ultima as the Ars magna.
 
-PART I, WHICH TREATS
+PART I, WHICH TREATS
 OF THE ALPHABET OF
 THIS ART
 We
@@ -418,7 +418,7 @@ are synonymous, except as an attribute of God. Cf. Felix, Bk. vm, n. 98.
 
 w
 
-PART I
+PART I
 
 581
 
@@ -518,7 +518,7 @@ inconstancy
 f See Part iv, n. 1, for the original Latin terms and their relationship to the equivalent
 “rules.”
 
-PART II, WHICH TREATS
+PART II, WHICH TREATS
 OF THE FOUR FIGURES
 1. THE FIRST FIGURE, DENOTED BY A
 This Part is divided into four sections, one for each of the four
@@ -557,13 +557,13 @@ by itself is completely general, but when it is “joined” to a predicate, as 
 “goodness is great,” it is less general, and less general still if the predicate itself is less
 general, as in “the goodness of (a) man.” Cf. Pla I, 257-60, 305.
 
-Plate XV. Ars brevis, The First Figure.
+Plate XV. Ars brevis, The First Figure.
 From Escorial, Ms f-iv-12, fol. 3.
 
-Plate XVIII. Ars brevis, The Fourth Figure.
+Plate XVIII. Ars brevis, The Fourth Figure.
 From Escorial, Ms f-iv-12, fol. 7.
 
-PART II
+PART II
 
 583
 
@@ -608,7 +608,7 @@ in Ars demonstrativa, Dist. I, n. 15.
 9 Yet another translation of medium (Cat. mija)—c(. Ars demonstrativa, Dist. I, n. 16—
 this one related, as its context makes clear, to the passage commented in n. 3 above.
 
-584
+584
 
 ARS BREVIS
 
@@ -655,7 +655,7 @@ demonstrativa, Dist. I, n. 20.
 sources.
 14 The printed texts and a few of the mss add, “like death which ends life.”
 
-PART II
+PART II
 
 585
 
@@ -698,7 +698,7 @@ have “believing.”
 16 Thus in most sources; the Zetzner editions, however, have “greatness and greatness”
 for this pair.
 
-ARS BREVIS
+ARS BREVIS
 
 586
 
@@ -758,7 +758,7 @@ and like the compartment of B D, which signifies Goodness, Duration, Difference,
 trariety, First and Third Rule, and so on for the others,” which is followed by a detailed
 interpretation of each compartment.
 
-PART II
+PART II
 
 goodness
 goodness
@@ -832,7 +832,7 @@ components within compartments.
 onstrative Figure of the Ars demonstrativa, see: Ca I, 434-5; Pla I, 308-11; and Artus, Ars
 Brevis, pp. 227ff.
 
-588
+588
 
 ARS BREVIS
 
@@ -874,7 +874,7 @@ table in Part v he has eliminated the superfluous combinations, giving 252 3 = 8
 statement from Llull’s Art amativa (ORL xvn, 22) that “the entire Art is contained in this
 Fourth Figure.”
 
-PART III, WHICH TREATS
+PART III, WHICH TREATS
 OF DEFINITIONS OF THE
 PRINCIPLES
 In
@@ -915,7 +915,7 @@ being.”
 1 The printed sources and three mss omit “eternity or” (cf. Part I, n. 2 above).
 4 The printed sources omit “lovable or.”
 
-590
+590
 
 AKS BREVIS
 
@@ -947,7 +947,7 @@ by heart; for without knowing these definitions, the Art is unteachable.6
 5 For this linking of the concepts of “virtue” and “unity,” see Pla I, 113, 183.
 6 Cf. Rossi, “Legacy,” p. 198.
 
-PART IV, WHICH TREATS
+PART IV, WHICH TREATS
 OF RULES
 The
 
@@ -1005,7 +1005,7 @@ the double nature of these questions (referring to the unknown or doubtful) and 
 2 The three “species” of this question correspond to the lost black triangle of Figure T
 (cf. Introduction, n. 11 above).
 
-592
+592
 
 ARS BREVIS
 
@@ -1052,7 +1052,7 @@ Llull’s meaning: “To which one must reply that it is composed of its own ess
 ciples, that is to say, its intellective, intelligible and understanding. And similarly with man
 who is made up of his body and his soul, with a nail which is of iron, and so on.”
 
-PART IV
+PART IV
 
 593
 
@@ -1098,7 +1098,7 @@ ultima he says one is per existentiam and the other per agentiam.
 9 “When one inquires about appropriated quality, as” is missing in the printed sources
 consulted.
 
-594
+594
 
 ARS BREVIS
 
@@ -1144,7 +1144,7 @@ a part exist as a part?”
 14 Literally, “How is a part in a part?”
 15 The “objectively” is missing in the printed sources and in many mss.
 
-PART IV
+PART IV
 
 595
 
@@ -1170,7 +1170,7 @@ tion; and this so that the intellect be removed from doubt.
 17 After this the original adds another “by reducing a question by means of principles
 and rules,” which seems redundant.
 
-PART V, WHICH TREATS
+PART V, WHICH TREATS
 OF THE TABLE'
 This table is the subject in which the intellect becomes universal,
 because by said table it understands and abstracts many particulars
@@ -1213,7 +1213,7 @@ them by taking the first of the 28 starting with B, the first of the 21 starting
 ending with the one starting with H (cf. the passages cited from Bruno—the Ars brevis
 uses the first element of each “domus”—Agrippa, and Artus).
 
-PART V
+PART V
 
 597
 
@@ -1505,7 +1505,7 @@ TGH I
 
 THIK
 
-PART VI, WHICH TREATS
+PART VI, WHICH TREATS
 OF THE EVACUATION OF
 THE THIRD FIGURE
 The
@@ -1564,7 +1564,7 @@ pp. 296-302.
 different meanings of each letter. We therefore have 4 concepts, each of which can be
 combined with 3 others, or 4 X 3 = 12. See Ca I, 445-6, for a tabulation of the results.
 
-PART VI
+PART VI
 
 599
 
@@ -1632,7 +1632,7 @@ uates the compartment with the three species of Rule B and with
 the four species of Rule C. Having carried out this evacuation,
 3 This last sentence is missing in the Zetzner editions.
 
-A£S BREVIS
+A£S BREVIS
 
 600
 
@@ -1648,7 +1648,7 @@ questions and answers from each of the thirty-six compartments of Figure 3.
 
 »
 
-PART VII, WHICH TREATS
+PART VII, WHICH TREATS
 OF THE MULTIPLICATION
 OF THE FOURTH FIGURE'
 The multiplication of the Fourth Figure consists of the follow­
@@ -1686,7 +1686,7 @@ the 6 of B C D, this is surely an error. The peculiar phrase at the end of the s
 seem simply to indicate a continuation of the process of rotating the wheels and deriving
 the 6 conditions from each resultant compartment.
 
-602
+602
 
 ARS BREVIS
 
@@ -1714,7 +1714,7 @@ onstration (see the Ars demonstrativa, Prologue, pars. 2-3); then he discusses (
 fallacies of the Logica nova, and ends with (5) a section on how the Art can be used to
 acquire other sciences such as Theology, Philosophy, etc. Cf. Pla I, 447ff.
 
-PART VIII, WHICH
+PART VIII, WHICH
 TREATS OF THE MIX­
 TURE OF PRINCIPLES
 AND RULES'
@@ -1753,7 +1753,7 @@ section similarly has eighteen chapters, each devoted to one principle of the Ar
 each principle is mixed with all the species of the ten rules. In this second section of the
 Ars generalis ultima, under Rule C (“What?”) each of these principles is defined again.
 
-604
+604
 
 AKS BREVIS
 
@@ -1768,7 +1768,7 @@ an angel; and the examination of the goodness of angel, another
 than the goodness of man; and the goodness of man another than
 the examination of the goodness of a lion, and so on.
 
-PART IX, WHICH TREATS
+PART IX, WHICH TREATS
 OF THE NINE SUBJECTS
 In
 
@@ -1809,7 +1809,7 @@ Carreras i Artau said (Ca I, 451), “a veritable treatise on ontology.” For t
 subjects here, see Artus, Ars Brevis, pp. 303ff. In the Ars generalis ultima each is treated
 much more extensively and systematically.
 
-606
+606
 
 ARS BREVIS
 
@@ -1850,7 +1850,7 @@ In God there is no contrariety or minority, for they are principles
 having to do with privation and defect. Nevertheless, in God there
 2 This last sentence is missing from the printed texts.
 
-PART IX
+PART IX
 
 607
 
@@ -1893,7 +1893,7 @@ Gaya, Correlativos, p. 164, for a commentary on this paragraph.
 5 That is, Rule D. 2 of Part IV. From now on, single letters are to be taken as referring
 to these Rules.
 
-608
+608
 
 ARS BREVIS
 
@@ -1939,7 +1939,7 @@ which subject see Part x, “Hundred Forms,” no. 83 below, and Felix, Bk. hi, 
 corresponding notes.
 7 Bk. viii of Felix deals exclusively with man. See notes 1 and 9 there.
 
-PART IX
+PART IX
 
 609
 
@@ -1985,7 +1985,7 @@ seen, or lands where he has been, and so on.” Cf. Ars demonstrativa, Dist. iv,
 as here below, Part x, “Hundred Forms,” no. 31 and the note. For more information, see
 C. Aos Braco, “La imaginacion en el sistema de Ramon Llull,” EL 23 (1979), 155-83.
 
-610
+610
 
 ARS BREVIS
 
@@ -2029,7 +2029,7 @@ common consciousness.”
 in the Electorium, fol. 96v (reproduced in Hillg, p. 425) and in the Breviculum, fol. 14v
 (reproduced in Pring-Mill, “Trinitarian,” p. 253, and in his “Pontencias,” p. 111).
 
-PART IX
+PART IX
 
 611
 
@@ -2073,7 +2073,7 @@ two, where it seemed more natural to speak of the imaginative and sensitive facu
 information on the “vegetative” see Felix, Bk. vm, ch. 44, and principally nn. 9 and 20,
 as well as ch. 49.
 
-612
+612
 
 ARS BREVIS
 
@@ -2117,7 +2117,7 @@ n. 11 above.
 15 Or “artifice” as he refers to it in some works, such as the Liber de praedicatione, ROL
 hi, 153.
 
-PART IX
+PART IX
 
 613
 
@@ -2161,7 +2161,7 @@ Gentile, Bk. I, nn. 19-35, as well as among Felix, Bk. vm, chs. 63-75.
 demonstrativa, having been added, like the last two vices, so as to be able to accommodate
 them to the nine-letter alphabet.
 
-614
+614
 
 ARS BREVIS
 
@@ -2178,7 +2178,7 @@ rules of this Art.19
 18 Cf. n. 17 above.
 19 Which is preciesely what is done in the corresponding section of the Ars generalis ultima.
 
-PART X, WHICH TREATS
+PART X, WHICH TREATS
 OF APPLICATION
 Application is divided into three parts. The first is when the
 implicit is applied to the explicit. The second is when the abstract
@@ -2216,7 +2216,7 @@ of the mss have “applied,” which seems hard to justify in the context. For t
 this Art.” These thirteen parts, plus the previous two paragraphs, constitute the fifteen
 parts into which the corresponding section of the Ars generalis ultima is divided.
 
-616
+616
 
 ARS BREVIS
 
@@ -2268,7 +2268,7 @@ Forms can be grouped in pairs or triplets. Llull is more explicit about this in 
 Science, where they are presented individually the first time around (OE I, 570-90) and in
 groups the second time (OE I, 600-8).
 
-PART X
+PART X
 
 617
 
@@ -2317,7 +2317,7 @@ for the remaining categories.
 15 . . . est quantum . . . agit quantum, where quantum means literally “how much.” For
 “quantity” see Part iv, Rule F above, as well as Gentile, Bk. I, n. 4.
 
-618
+618
 
 ARS BREVIS
 
@@ -2362,7 +2362,7 @@ are doubtless later additions, since they appear in none of the medieval mss.
 20 Phantasia was the Greek word whose usual scholastic translation was precisely the
 word imaginatio, also used here, for which latter see Part ix, n. 9 above.
 
-PART X
+PART X
 
 619
 
@@ -2410,7 +2410,7 @@ Llull adds that it is indivisible and cannot be grasped by the senses or by the 
 For Llull’s use of this word in the setting of his time, see J. Gaya, “La Concepcion luliana
 de ‘punctum’ en su contexto medieval,” EL 19 (1975), 41-51.
 
-620
+620
 
 ARS BREVIS
 
@@ -2458,7 +2458,7 @@ ness.”
 32 Cf. n. 23 above.
 33 Cf. Gentile, Bk. I, n. 40.
 
-PART X
+PART X
 
 621
 
@@ -2504,7 +2504,7 @@ prehend, God. See Blaise, Lexicon, s.v. apprehensio.
 38 For a discussion of the concept of inventio (Cat. atrobament), see Ars demonstration, Dist.
 in, Mode 6 and the note there.
 
-622
+622
 
 ARS BREVIS
 
@@ -2555,7 +2555,7 @@ treatise on geometry. Llull also wrote two works on this subject: the Liber de g
 and the De quadratura et triangulatura circuli.
 44 Some mss have “astrology” for “astronomy.” In the printed texts of the Ars generalis
 
-PART X
+PART X
 
 623
 
@@ -2610,7 +2610,7 @@ pp. 208-33.
 grammar (the parts of speech, cases, conjugation, declension, gender, etc.) with the different
 parts of the Art. Cf. Pla I, 385-8 and Johnston, Semblance, pp. 174-5.
 
-624
+624
 
 ARS BREVIS
 
@@ -2659,7 +2659,7 @@ good discussion of Llull’s nautical knowledge in its medieval setting.
 57 Cf. Felix, Bk. vra, ch. 102.
 58 Cf. Ars demonstrativa, Dist. hi, Mode 8.
 
-PART X
+PART X
 
 625
 
@@ -2675,7 +2675,7 @@ a Liber de memoria in 1304, the Liber ad memoriam confirmandum in 1308 and the b
 de memoria Dei in 1314. Cf. F. A. Yates, The Art of Memory (London, 1966), ch. 8, and
 Rossi, “The Legacy,” pp. 197ff.
 
-PART XI, WHICH TREATS
+PART XI, WHICH TREATS
 OF QUESTIONS
 This part is divided into twelve parts or headings, arranged and
 distributed according to the varying subject matter of the ques­
@@ -2712,7 +2712,7 @@ predicate are converted into an identity of essence, nature, and
 six, omitting the first six in the following list and starting directly with the Table. This
 seems to be the only place where the Ars brevis is in fact more complete.
 
-PART XI
+PART XI
 
 627
 
@@ -2755,7 +2755,7 @@ p. 88.
 3 The answer in the Ars generalis ultima, Part ix, sect. 1, cap. 6, art. 2, is “from Himself
 in Himself.”
 
-628
+628
 
 ARS BREVIS
 
@@ -2797,7 +2797,7 @@ Logica nova (Palma, 1744), p. 10. For another defense of this definitional doctr
 6, Question 2 below; see also Part hi, n. 1 above. For the correlative and structural nature
 of these definitions, see Gaya, Correlativos, pp. 191, 218.
 
-PART XI
+PART XI
 
 629
 
@@ -2841,7 +2841,7 @@ accords with all the principles and their correlatives.
 cepting”?) instead of succession.
 6 For these three methods of proof, see Ars demonstrative!, Prologue and nn. 6, 8 there.
 
-630
+630
 
 ARS BREVIS
 
@@ -2883,7 +2883,7 @@ Llull says that it exists in itself, in its own good and true concrete things. T
 of B D and B K in Question 5 below should also be sought out in the same Part vi of the
 Ars generalis ultima.
 
-PART XI
+PART XI
 
 631
 
@@ -2925,7 +2925,7 @@ ber, and conversely.
 directly—negatively—in the Liber correlativorum innatorum, ROL vi, 133, line 127.
 10 Many of the mss have “unequal” instead of “equal.”
 
-632
+632
 
 ARS BREVIS
 
@@ -2968,7 +2968,7 @@ Table.
 three compartments, see Ars generalis ultima, the “Quaestio unica” at the end of Part v. For
 the problem of the eternity of the world, see Gentile, Bk. n, n. 14.
 
-PART XI
+PART XI
 
 633
 
@@ -3009,7 +3009,7 @@ eral for the sake of general understanding? Turn to the Multipli­
 cation of the Fourth Figure and see how the intellect multiplies
 conditions, thereby multiplying objects as well as its own under-
 
-634
+634
 
 ARS BREVIS
 
@@ -3050,7 +3050,7 @@ immeasurable and eternal dignities.13
 13 The printed sources have “essentially” for the “coessentially” in the question. For
 “dignities,” the originals have rationes (Cat. rahons); cf. Part ix, n. 3 above.
 
-PART XI
+PART XI
 
 635
 
@@ -3094,7 +3094,7 @@ power and dominion, and in all things judgment as well as the act of grace, merc
 and pity.
 15 De suis -tivis et -bilibus et -are-, cf. Part iv, n. 4 above, and the “Life,” n. 128.
 
-636
+636
 
 ARS BREVIS
 
@@ -3136,7 +3136,7 @@ than to the will.
 16 As Marfal points out, Llull does not mean to deny the influence heaven exercises on
 things here below, but rather that it cannot send any part of itself outside its own sphere.
 
-PART XI
+PART XI
 
 637
 
@@ -3180,7 +3180,7 @@ to that in the Ars generalis ultima) for answers to the questions of this sectio
 did not exist, there would be no knowledge of past things, nor would animals know how
 to return to a spring, and so on.”
 
-638
+638
 
 ARS BREVIS
 
@@ -3221,7 +3221,7 @@ ject of the sensitive faculty.
 wrong. Cf. Ars generalis ultima (Palma, 1645), p. 248, par. 29; note that if it were Rule C,
 then it would have to be the third and not the second species (loc. cit., par. 23).
 
-PART XI
+PART XI
 
 639
 
@@ -3262,7 +3262,7 @@ in the affirmative. For similar questions concerning one candle lighting another
 passages corresponding to Felix, Bk. iv, ch. 20, n. 14, and Ars demonstrativa, Dist. iv, n.
 160.
 
-640
+640
 
 ARS BREVIS
 
@@ -3305,7 +3305,7 @@ have finis, “end, purpose.”
 25 With this plural, Llull is presumably referring not only to this question, but also to
 the previous thirteen of this section.
 
-PART XI
+PART XI
 
 641
 
@@ -3347,7 +3347,7 @@ cerning the unity of heaven, etc., as when one asks:
 26 There Llull gives two sets of questions (per prittcipia and per regulas) for each vice and
 each virtue.
 
-642
+642
 
 ARS BREVIS
 
@@ -3391,7 +3391,7 @@ of the nature of heaven in its own way, as well as according to
 “moral . . . way of speaking” (tnoraliter) should probably be taken in the sense of “fig­
 urative,” or even “spiritual” (vs. “physical”).
 
-PART XI
+PART XI
 
 643
 
@@ -3411,7 +3411,7 @@ questions and solutions that could be thus formulated?
 And this, for the sake of brevity, is enough about questions
 relating to the Hundred Forms.
 
-PART XII, WHICH TREATS
+PART XII, WHICH TREATS
 OF HABITUATION'
 This
 
@@ -3437,7 +3437,7 @@ And this, for reasons of brevity, is enough about habituation.
 the Art.” I have kept the English homonym to tie it in with “habit” (Part x, “Hundred
 Forms,” no. 21), although I have sometimes used “become familiar with” in the text itself.
 
-PART XIII, WHICH TREATS
+PART XIII, WHICH TREATS
 OF THE METHOD FOR
 TEACHING THIS ART
 This
@@ -3469,7 +3469,7 @@ places, then the artist or teacher should teach them the abovementioned things.
 1 Le Myesier quotes this phrase twice in the Electorium (see Hillg, p. 399, n. 6).
 2 For this use of invenire (Cat. atrobar) see Ars demonstrative^ Dist. hi, n. 16.
 
-EPILOGUE
+EPILOGUE
 THE END OF THIS ART
 To the honor and praise of God and for the public good Ray­
 mond finished this book in the monastery of Saint Dominic1 of
@@ -3480,5 +3480,3 @@ monastery of San Donnino, for which “Saint Dominic” might well be an error (
 facilior') introduced by a few later scribes and copied by the rest. Cf. Hillg, p. 99 and n.
 204; for a contrary opinion see M. Batllori in OE I, 52, n. 153.
 2 January 1308 by our reckoning.
-
-
