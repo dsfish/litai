@@ -2,11 +2,23 @@ package main
 
 import (
 	"errors"
-	"fmt"
 	"github.com/montanaflynn/stats"
 	"regexp"
+	"sort"
 	"strings"
 )
+
+type scoreOptions struct{
+	// The mathematical operation to use (mean, median, mode) when calculating a
+	// weighted score.
+	strategy strategy
+
+	// The number of word pairs to include when calculating a weighted score. If 0
+	// is given, all word pairs will be included. If an integer n is given, only the
+	// top n word pairs will be included, which allows the caller to reduce noise.
+	// This can be helpful when one chain is significantly larger than the other.
+	topWordPairs uint
+}
 
 // createChain returns a Markov chain in the following form:
 //
@@ -36,25 +48,24 @@ func createChain(input string) map[string]map[string]int {
 
 // getChainSimilarityScore returns a decimal number in the range [0, 1]
 // representing how similar the chains are, with 0 being no overlap and 1 being
-// identical, according to the given strategy.
+// identical.
 func getChainSimilarityScore(
 	chainA, chainB map[string]map[string]int,
-	strategy strategy,
+	options scoreOptions,
 ) (float64, error) {
 	// For every word pair in chainA, record the number of times that the word pair
 	// occurs in each chain, storing the smaller value first.
-	scoringInput := map[string][]int{}
+	var scoringInput [][]int
 	for fromWord, toWords := range chainA {
 		for toWord, aN := range toWords {
-			key := fmt.Sprintf("%s~%s", fromWord, toWord)
 			var bN int
 			if chainB[fromWord] != nil {
 				bN = chainB[fromWord][toWord]
 			}
 			if aN < bN {
-				scoringInput[key] = []int{aN, bN}
+				scoringInput = append(scoringInput, []int{aN, bN})
 			} else {
-				scoringInput[key] = []int{bN, aN}
+				scoringInput = append(scoringInput, []int{bN, aN})
 			}
 		}
 	}
@@ -66,22 +77,35 @@ func getChainSimilarityScore(
 			if chainA[fromWord] != nil && chainA[fromWord][toWord] != 0 {
 				continue
 			}
-
-			key := fmt.Sprintf("%s~%s", fromWord, toWord)
-			scoringInput[key] = []int{0, bN}
+			scoringInput = append(scoringInput, []int{0, bN})
 		}
 	}
 
+	// Sort the map in descending order.
+	sort.Slice(scoringInput, func(i, j int) bool {
+		iQuotient := float64(scoringInput[i][0]) / float64(scoringInput[i][1])
+		jQuotient := float64(scoringInput[j][0]) / float64(scoringInput[j][1])
+		return iQuotient > jQuotient // using '>' to sort descending
+	})
+
 	var subScores []float64
+	wordPairsRemaining := options.topWordPairs
 	for _, input := range scoringInput {
 		quotient := float64(input[0]) / float64(input[1])
 		weight := input[0] + input[1]
 		for i := 0; i < weight; i++ {
 			subScores = append(subScores, quotient)
 		}
+
+		if options.topWordPairs > 0 {
+			wordPairsRemaining -= 1
+			if wordPairsRemaining <= 0 {
+				break
+			}
+		}
 	}
 
-	switch strategy {
+	switch options.strategy {
 	case Mean:
 		return stats.Mean(subScores)
 	case Median:

@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"sort"
 	"strings"
 )
 
@@ -22,30 +23,50 @@ func main() {
 		check(err)
 
 		filename := strings.Replace(file, textDir + "/", "", 1)
-		filename = strings.Replace(file, ".txt", "", 1)
+		filename = strings.Replace(filename, ".txt", "", 1)
 		textChains[filename] = createChain(text)
 	}
 
-	results := map[passage][]result{}
+	passageToResults := map[passage][]result{}
 	for _, passage := range passages {
-		results[passage] = []result{}
+		passageChain := createChain(passage.text)
+		var results []result
 		for filename, textChain := range textChains {
-			for _, strategy := range strategies {
-				passageChain := createChain(passage.text)
-				score, err := getChainSimilarityScore(passageChain, textChain, strategy)
+			for _, strategy := range []strategy{Mean} { // TODO: Decide whether to include other strategies.
+				score, err := getChainSimilarityScore(passageChain, textChain, scoreOptions{
+					strategy: strategy,
+					topWordPairs: 100,
+				})
 				check(err)
 
-				results[passage] = append(results[passage], result{
+				if score == 0 {
+					continue
+				}
+
+				results = append(results, result{
 					filename: filename,
 					strategy: strategy,
 					score: score,
 				})
 			}
 		}
-		break
+
+		sort.Slice(results, func(i, j int) bool {
+			return results[i].score > results[j].score // using '>' to sort descending
+		})
+		passageToResults[passage] = results
 	}
 
-	prettyPrint(results)
+	for passage, results := range passageToResults {
+		prettyPrint(map[string]interface{}{
+			"passage": map[string]interface{}{
+				"author": passage.author,
+				"title": passage.title,
+				"year": passage.year,
+			},
+			"results": fmt.Sprintf("%+v", results),
+		})
+	}
 }
 
 func check(err error) {
