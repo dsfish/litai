@@ -8,16 +8,19 @@ import (
 	"strings"
 )
 
+const defaultTopWordPairs = 10000
+
 type scoreOptions struct{
 	// The mathematical operation to use (mean, median, mode) when calculating a
 	// weighted score.
 	strategy strategy
 
 	// The number of word pairs to include when calculating a weighted score. If 0
-	// is given, all word pairs will be included. If an integer n is given, only the
-	// top n word pairs will be included, which allows the caller to reduce noise.
-	// This can be helpful when one chain is significantly larger than the other.
-	topWordPairs uint
+	// is given, up to defaultTopWordPairs word pairs will be included. If an
+	// integer n is given, only the top n word pairs will be included, which allows
+	// the caller to reduce noise. This can be helpful when one chain is
+	// significantly larger than the other.
+	topWordPairs uint64
 }
 
 // createChain returns a Markov chain in the following form:
@@ -53,6 +56,10 @@ func getChainSimilarityScore(
 	chainA, chainB map[string]map[string]int,
 	options scoreOptions,
 ) (float64, error) {
+	if options.topWordPairs == 0 {
+		options.topWordPairs = defaultTopWordPairs
+	}
+
 	// For every word pair in chainA, record the number of times that the word pair
 	// occurs in each chain, storing the smaller value first.
 	var scoringInput [][]int
@@ -97,11 +104,9 @@ func getChainSimilarityScore(
 			subScores = append(subScores, quotient)
 		}
 
-		if options.topWordPairs > 0 {
-			wordPairsRemaining -= 1
-			if wordPairsRemaining <= 0 {
-				break
-			}
+		wordPairsRemaining -= 1
+		if wordPairsRemaining <= 0 {
+			break
 		}
 	}
 

@@ -1,0 +1,1015 @@
+Scores:[
+  "25, 93.33",
+  "15, 93.33",
+  "20, 93.33",
+  "35, 86.67",
+  "30, 86.67",
+  "40, 80.00",
+  "10, 73.33",
+  "70, 73.33",
+  "65, 73.33",
+  "90, 66.67",
+  "50, 66.67",
+  "85, 66.67",
+  "80, 66.67",
+  "95, 66.67",
+  "45, 66.67",
+  "75, 66.67",
+  "55, 66.67",
+  "60, 66.67",
+  "0, 46.67",
+  "5, 20.00"
+]
+
+Outcomes:[
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      }
+    ],
+    "num_word_pairs": "25",
+    "score": "93.33"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        }
+      }
+    ],
+    "num_word_pairs": "15",
+    "score": "93.33"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        }
+      }
+    ],
+    "num_word_pairs": "20",
+    "score": "93.33"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      }
+    ],
+    "num_word_pairs": "35",
+    "score": "86.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      }
+    ],
+    "num_word_pairs": "30",
+    "score": "86.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      }
+    ],
+    "num_word_pairs": "40",
+    "score": "80.00"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        },
+        "guess": {
+          "author": "Thomas Dunn English",
+          "title": "Skeleton Essays"
+        }
+      },
+      {
+        "actual": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      }
+    ],
+    "num_word_pairs": "10",
+    "score": "73.33"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      }
+    ],
+    "num_word_pairs": "70",
+    "score": "73.33"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      }
+    ],
+    "num_word_pairs": "65",
+    "score": "73.33"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        }
+      }
+    ],
+    "num_word_pairs": "90",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Thomas Dunn English",
+          "title": "Skeleton Essays"
+        },
+        "guess": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      }
+    ],
+    "num_word_pairs": "50",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      }
+    ],
+    "num_word_pairs": "85",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      }
+    ],
+    "num_word_pairs": "80",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      }
+    ],
+    "num_word_pairs": "95",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      },
+      {
+        "actual": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      }
+    ],
+    "num_word_pairs": "45",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      }
+    ],
+    "num_word_pairs": "75",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Thomas Dunn English",
+          "title": "Skeleton Essays"
+        },
+        "guess": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      }
+    ],
+    "num_word_pairs": "55",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      }
+    ],
+    "num_word_pairs": "60",
+    "score": "66.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Thomas Dunn English",
+          "title": "Skeleton Essays"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      },
+      {
+        "actual": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        },
+        "guess": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        }
+      }
+    ],
+    "num_word_pairs": "0",
+    "score": "46.67"
+  },
+  {
+    "incorrect_guesses": [
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        }
+      },
+      {
+        "actual": {
+          "author": "Athanasius Kircher",
+          "title": "Letter"
+        },
+        "guess": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        }
+      },
+      {
+        "actual": {
+          "author": "Ramon Llull",
+          "title": "Ars Brevis"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Thomas Dunn English",
+          "title": "Skeleton Essays"
+        },
+        "guess": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gottfried Leibniz",
+          "title": "On the Combinatorial Art"
+        },
+        "guess": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        }
+      },
+      {
+        "actual": {
+          "author": "Gustav Freytag",
+          "title": "Technique of the Drama"
+        },
+        "guess": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        }
+      },
+      {
+        "actual": {
+          "author": "Quirinus Kuhlmann",
+          "title": "Love-Kiss XLI"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Samuel Butler",
+          "title": "Erewhon"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Gottfried Leibniz",
+          "title": "Philosophical Papers and Letters"
+        }
+      },
+      {
+        "actual": {
+          "author": "Georges Polti",
+          "title": "The Thirty-Six Dramatic Situations"
+        },
+        "guess": {
+          "author": "Aristotle",
+          "title": "Poetics"
+        }
+      }
+    ],
+    "num_word_pairs": "5",
+    "score": "20.00"
+  }
+]

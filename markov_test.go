@@ -2,17 +2,14 @@ package main
 
 import (
 	"fmt"
+	"github.com/stretchr/testify/assert"
 	"testing"
 )
 
 func TestGetChainSimilarityScore(t *testing.T) {
 	texts := []string{
-		"the quick brown fox jumped over the lazy dog but the cat jumped over nothing",
-		"the big brown fox jumped over the questionable dog and the cat jumped over the moon",
-		"there's always a moose around the bend",
-		"there's never a good reason to give a moose a muffin",
-		"underwater porcupines are a figment of your imagination",
-		"the porcupines are the lazy friends we all need to respect",
+		"That fish ate that fish.",
+		"That cat ate that fish.",
 	}
 
 	chains := make([]map[string]map[string]int, len(texts))
@@ -20,21 +17,20 @@ func TestGetChainSimilarityScore(t *testing.T) {
 		chains[i] = createChain(s)
 	}
 
-	// Compare every texts to every other texts using every strategy.
-	results := map[string]map[string]string{}
+	// Compare every text to every other text.
+	results := map[string]string{}
 	for i := range texts {
 		for j := i + 1; j < len(texts); j++ {
 			key := fmt.Sprintf("%d,%d", i, j)
-			results[key] = map[string]string{}
-			for _, strategy := range strategies {
-				score, err := getChainSimilarityScore(chains[i], chains[j], strategy)
-				if err != nil {
-					panic(err)
-				}
-				results[key][strategy.String()] = fmt.Sprintf("%.2f", score)
+			score, err := getChainSimilarityScore(chains[i], chains[j], scoreOptions{
+				strategy:     Mean,
+				topWordPairs: 0,
+			})
+			if err != nil {
+				panic(err)
 			}
+			results[key] = fmt.Sprintf("%.2f", score)
 		}
 	}
-
-	prettyPrint(results)
+	assert.NotEmpty(t, results)
 }

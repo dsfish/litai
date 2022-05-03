@@ -19,6 +19,5 @@ func TestReadFile(t *testing.T) {
 
 	contents, err := readFile(files[0])
 	require.NoError(t, err)
-	println(contents)
 	require.NotEmpty(t, contents)
 }
