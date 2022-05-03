@@ -2,15 +2,20 @@ package main
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"sort"
 	"strings"
 )
 
-type result struct {
+type match struct {
 	filename string
-	strategy strategy
 	score float64
+}
+
+type overallScore struct {
+	correct float64
+	tied float64
 }
 
 func main() {
@@ -27,46 +32,66 @@ func main() {
 		textChains[filename] = createChain(text)
 	}
 
-	passageToResults := map[passage][]result{}
-	for _, passage := range passages {
-		passageChain := createChain(passage.text)
-		var results []result
-		for filename, textChain := range textChains {
-			for _, strategy := range []strategy{Mean} { // TODO: Decide whether to include other strategies.
-				score, err := getChainSimilarityScore(passageChain, textChain, scoreOptions{
-					strategy: strategy,
-					topWordPairs: 100,
-				})
+	results := map[uint]overallScore{}
+	for _, topWordPairs := range []uint{1, 10, 20, 30, 40, 50, 100} {
+		passageMatches := map[passage][]match{}
+		for _, passage := range passages {
+			tempMatches := []match{}
+			passageChain := createChain(passage.text)
+			for filename, textChain := range textChains {
+				scoreOptions := scoreOptions{
+					strategy: Mean,
+					topWordPairs: topWordPairs,
+				}
+				score, err := getChainSimilarityScore(passageChain, textChain, scoreOptions)
 				check(err)
 
-				if score == 0 {
-					continue
-				}
-
-				results = append(results, result{
+				tempMatches = append(tempMatches, match{
 					filename: filename,
-					strategy: strategy,
 					score: score,
 				})
 			}
+			sort.Slice(tempMatches, func(i, j int) bool {
+				return tempMatches[i].score > tempMatches[j].score // using '>' to sort descending
+			})
+			passageMatches[passage] = tempMatches
 		}
 
-		sort.Slice(results, func(i, j int) bool {
-			return results[i].score > results[j].score // using '>' to sort descending
-		})
-		passageToResults[passage] = results
+		var numCorrect uint
+		var numTied uint
+		for passage, matches := range passageMatches {
+			firstGuessCorrect, err := isCorrect(matches[0].filename, passage)
+			check(err)
+
+			if firstGuessCorrect {
+				numCorrect += 1
+
+				secondGuessCorrect, err := isCorrect(matches[1].filename, passage)
+				check(err)
+				if secondGuessCorrect {
+					numTied += 1
+				}
+			}
+		}
+		results[topWordPairs] = overallScore{
+			correct: float64(numCorrect) / float64(len(passageMatches)),
+			tied: float64(numTied) / float64(numCorrect),
+		}
 	}
 
-	for passage, results := range passageToResults {
-		prettyPrint(map[string]interface{}{
-			"passage": map[string]interface{}{
-				"author": passage.author,
-				"title": passage.title,
-				"year": passage.year,
-			},
-			"results": fmt.Sprintf("%+v", results),
-		})
+	fmt.Printf("%+v", results)
+}
+
+// isCorrect returns true if the given filename corresponds to the given passage,
+// false otherwise.
+func isCorrect(filename string, passage passage) (bool, error) {
+	parts := strings.Split(filename, " - ")
+	if len(parts) != 2 {
+		return false, errors.New("invalid filename: " + filename)
 	}
+	author := parts[0]
+	title := parts[1]
+	return passage.author == author && passage.title == title, nil
 }
 
 func check(err error) {

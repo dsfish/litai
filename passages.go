@@ -101,22 +101,22 @@ var passages = []passage{
 			"before the cenotaphs of an art which has long been, apparently for commercial reasons, " +
 			"almost non-existent.",
 	},
-	{
-		author: "John Wilkins",
-		year: 1668,
-		title: "An Essay Towards a Real Character, and a Philosophical Language",
-		text: "The second Part shall contain that which is the great foundation of the thing here designed," +
-			" namely a regular enumeration and description of all those things and notions, " +
-			"to which marks or names ought to be assigned according to their respective natures, " +
-			"which may be styled the Scientific Part, comprehending Universal Philosophy. " +
-			"It being the proper end and design of the several branches of Philosophy to reduce all things and" +
-			" notions unto such a frame, as may express their natural order, dependence, " +
-			"and relations [..] The design of this Treatise being an attempt towards a new kind of Character and" +
-			" Language, it cannot therefore be improper to premise somewhat concerning those already in being; the" +
-			" first Original of them, their several kinds, " +
-			"the various changes and corruptions to which they are liable, " +
-			"together with the manifold defects belonging to them.",
-	},
+	// {
+	// 	author: "John Wilkins",
+	// 	year: 1668,
+	// 	title: "An Essay Towards a Real Character, and a Philosophical Language",
+	// 	text: "The second Part shall contain that which is the great foundation of the thing here designed," +
+	// 		" namely a regular enumeration and description of all those things and notions, " +
+	// 		"to which marks or names ought to be assigned according to their respective natures, " +
+	// 		"which may be styled the Scientific Part, comprehending Universal Philosophy. " +
+	// 		"It being the proper end and design of the several branches of Philosophy to reduce all things and" +
+	// 		" notions unto such a frame, as may express their natural order, dependence, " +
+	// 		"and relations [..] The design of this Treatise being an attempt towards a new kind of Character and" +
+	// 		" Language, it cannot therefore be improper to premise somewhat concerning those already in being; the" +
+	// 		" first Original of them, their several kinds, " +
+	// 		"the various changes and corruptions to which they are liable, " +
+	// 		"together with the manifold defects belonging to them.",
+	// },
 	{
 		author: "Ramon Llull",
 		year: 1308,
@@ -172,18 +172,18 @@ var passages = []passage{
 			"method of composing music) how anyone, even if he has no knowledge of music, " +
 			"can in the space of a single hour become capable of skillfully producing any melody you like.",
 	},
-	{
-		author: "John Wilkins",
-		year: 1668,
-		title: "An Essay Towards a Real Character, and a Philosophical Language",
-		text: "And whereas several of the Species of Vegetables and Animals, " +
-			"do according to this present constitution, amount to more than Nine, " +
-			"in such cases the number of them is to be distributed into two or three Nines, " +
-			"which may be distinguished from one another by doubling the Stroke in some one or more parts of the" +
-			" Character; as supposed after this manner. If the first and most: simple Character we, be made use of, " +
-			"the Species that are fixed to it, will belong to the first combination of Nine; if the other, " +
-			"they will belong according to the order of them, unto the second Combination.",
-	},
+	// {
+	// 	author: "John Wilkins",
+	// 	year: 1668,
+	// 	title: "An Essay Towards a Real Character, and a Philosophical Language",
+	// 	text: "And whereas several of the Species of Vegetables and Animals, " +
+	// 		"do according to this present constitution, amount to more than Nine, " +
+	// 		"in such cases the number of them is to be distributed into two or three Nines, " +
+	// 		"which may be distinguished from one another by doubling the Stroke in some one or more parts of the" +
+	// 		" Character; as supposed after this manner. If the first and most: simple Character we, be made use of, " +
+	// 		"the Species that are fixed to it, will belong to the first combination of Nine; if the other, " +
+	// 		"they will belong according to the order of them, unto the second Combination.",
+	// },
 	{
 		author: "Aristotle",
 		year: -335,
