@@ -101,6 +101,7 @@ var passages = []passage{
 			"before the cenotaphs of an art which has long been, apparently for commercial reasons, " +
 			"almost non-existent.",
 	},
+	// I've excluded this passage because I was unable to convert its source to plaintext.
 	// {
 	// 	author: "John Wilkins",
 	// 	year: 1668,
@@ -172,6 +173,7 @@ var passages = []passage{
 			"method of composing music) how anyone, even if he has no knowledge of music, " +
 			"can in the space of a single hour become capable of skillfully producing any melody you like.",
 	},
+	// I've excluded this passage because I was unable to convert its source to plaintext.
 	// {
 	// 	author: "John Wilkins",
 	// 	year: 1668,
